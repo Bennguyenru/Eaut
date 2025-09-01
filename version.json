@@ -1,0 +1,42 @@
+{
+  "name": "CLO/PLO Assessment Platform",
+  "version": "1.0.0",
+  "build_date": "2025-08-31T15:01:25.647186",
+  "description": "AI-powered CLO/PLO assessment platform for EAUT",
+  "components": {
+    "backend": {
+      "framework": "Flask",
+      "api_version": "v1",
+      "port": 5001
+    },
+    "frontend": {
+      "framework": "React + Vite",
+      "port": 3000
+    },
+    "ai_models": {
+      "score_predictor": "Random Forest",
+      "bloom_classifier": "Random Forest",
+      "accuracy": "88.34% R²"
+    }
+  },
+  "requirements": {
+    "python": ">=3.8",
+    "ram": "8GB minimum",
+    "storage": "10GB",
+    "os": [
+      "Windows 10+",
+      "Ubuntu 20.04+",
+      "macOS 10.15+"
+    ]
+  },
+  "features": [
+    "CLO/PLO Management",
+    "AI Assessment",
+    "Document Processing",
+    "Analytics Dashboard",
+    "Batch Processing",
+    "Export/Import",
+    "User Management",
+    "Mobile Responsive"
+  ]
+}

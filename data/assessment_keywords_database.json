@@ -1,0 +1,297 @@
+{
+  "keyword_categories": {
+    "technical_drawing": {
+      "category": "Vẽ kỹ thuật",
+      "keywords": [
+        "quy ước biểu diễn", "tiêu chuẩn TCVN", "tiêu chuẩn ISO", "bản vẽ kỹ thuật",
+        "trình bày bản vẽ", "hình chiếu", "mặt cắt", "hình cắt", "dung sai", "nhám bề mặt",
+        "mối ghép", "truyền động", "bản vẽ lắp", "bản vẽ chi tiết", "tư duy không gian",
+        "biểu diễn vật thể", "đọc bản vẽ", "vẽ bản vẽ", "dụng cụ vẽ", "khổ giấy",
+        "tỷ lệ", "chữ viết", "nét vẽ", "ghi kích thước", "ren", "then", "đinh tán",
+        "hàn", "lò xo", "bánh răng", "trục vít", "xích", "ổ lăn", "sơ đồ"
+      ]
+    },
+    "mechanics": {
+      "category": "Cơ học kỹ thuật",
+      "keywords": [
+        "hệ lực", "tiên đề tĩnh học", "cân bằng lực", "moment", "ngẫu lực", "phản lực",
+        "mô hình lực", "phương trình cân bằng", "tĩnh học", "động học", "chuyển động",
+        "gia tốc", "phân tích", "tính toán", "thiết kế", "tham số kỹ thuật", "máy",
+        "cơ cấu", "động lực học", "vận tốc", "gia tốc", "lực quán tính", "công",
+        "công suất", "năng lượng", "dao động", "cân bằng", "ổn định"
+      ]
+    },
+    "engine_structure": {
+      "category": "Kết cấu động cơ",
+      "keywords": [
+        "cấu tạo động cơ", "chi tiết động cơ", "cơ cấu", "nguyên lý hoạt động",
+        "động cơ đốt trong", "phân tích", "quá trình hoạt động", "chu trình",
+        "làm việc", "hiệu suất", "công suất", "tính toán", "thiết kế",
+        "thông số kỹ thuật", "moment", "tiêu hao nhiên liệu", "piston", "xi lanh",
+        "trục khuỷu", "van", "hệ thống nhiên liệu", "hệ thống làm mát",
+        "hệ thống bôi trơn", "hệ thống đánh lửa", "turbo", "intercooler"
+      ]
+    },
+    "automotive_structure": {
+      "category": "Cấu tạo ô tô",
+      "keywords": [
+        "cấu tạo ô tô", "hệ thống ô tô", "khung gầm", "hệ thống lái", "hệ thống phanh",
+        "hệ thống truyền lực", "phân tích hoạt động", "tương tác hệ thống", "hiệu suất",
+        "an toàn", "ổn định", "vận hành", "bảo trì", "sửa chữa", "chẩn đoán",
+        "thay thế", "điều chỉnh", "hộp số", "ly hợp", "vi sai", "trục truyền",
+        "bánh xe", "lốp xe", "hệ thống treo", "giảm chấn", "hệ thống điện",
+        "hệ thống điều hòa", "hệ thống an toàn", "airbag", "ABS", "ESP"
+      ]
+    },
+    "attitude_learning": {
+      "category": "Thái độ học tập",
+      "keywords": [
+        "thái độ học tập", "tác phong khoa học", "kiên nhẫn", "tỷ mỷ", "chính xác",
+        "kỹ sư thiết kế", "ý thức", "nghiêm túc", "tích cực", "tham gia",
+        "hoạt động học tập", "nghiên cứu khoa học", "công nghệ mới", "tìm hiểu",
+        "cập nhật", "phát triển", "an toàn lao động", "bảo vệ môi trường",
+        "quy định an toàn", "trách nhiệm", "đạo đức nghề nghiệp", "chuyên nghiệp",
+        "sáng tạo", "đổi mới", "học tập suốt đời", "tự học", "nghiên cứu độc lập"
+      ]
+    }
+  },
+  "clo_keyword_mapping": [
+    {
+      "clo_code": "CLO1_ME2252",
+      "primary_keywords": [
+        "quy ước biểu diễn", "tiêu chuẩn TCVN", "tiêu chuẩn ISO", "bản vẽ kỹ thuật", "trình bày bản vẽ"
+      ],
+      "secondary_keywords": [
+        "khổ giấy", "tỷ lệ", "chữ viết", "nét vẽ", "ghi kích thước"
+      ],
+      "scoring_method": "distinct",
+      "full_score_threshold": 3,
+      "partial_score_floor": 0.3
+    },
+    {
+      "clo_code": "CLO2_ME2252",
+      "primary_keywords": [
+        "vẽ bản vẽ", "dụng cụ vẽ", "dung sai", "nhám bề mặt", "mối ghép", "truyền động", "bản vẽ lắp", "bản vẽ chi tiết"
+      ],
+      "secondary_keywords": [
+        "ren", "then", "đinh tán", "hàn", "lò xo", "bánh răng", "trục vít", "xích"
+      ],
+      "scoring_method": "termfreq",
+      "full_score_threshold": 5,
+      "partial_score_floor": 0.4
+    },
+    {
+      "clo_code": "CLO3_ME2252",
+      "primary_keywords": [
+        "tư duy không gian", "biểu diễn vật thể", "hình chiếu", "mặt cắt", "hình cắt", "đọc bản vẽ"
+      ],
+      "secondary_keywords": [
+        "phương pháp biểu diễn", "hình chiếu vuông góc", "hình chiếu trục đo", "cách đọc bản vẽ"
+      ],
+      "scoring_method": "distinct",
+      "full_score_threshold": 3,
+      "partial_score_floor": 0.3
+    },
+    {
+      "clo_code": "CLO4_ME2252",
+      "primary_keywords": [
+        "thái độ học tập", "tác phong khoa học", "kiên nhẫn", "tỷ mỷ", "chính xác", "kỹ sư thiết kế"
+      ],
+      "secondary_keywords": [
+        "nghiêm túc", "ý thức", "trách nhiệm", "chuyên nghiệp"
+      ],
+      "scoring_method": "presence",
+      "full_score_threshold": 1,
+      "partial_score_floor": 0.5
+    },
+    {
+      "clo_code": "CLO1_ME2205",
+      "primary_keywords": [
+        "hệ lực", "tiên đề tĩnh học", "cân bằng lực", "moment", "ngẫu lực", "phản lực"
+      ],
+      "secondary_keywords": [
+        "lực tập trung", "lực phân bố", "điều kiện cân bằng", "hệ lực phẳng"
+      ],
+      "scoring_method": "distinct",
+      "full_score_threshold": 3,
+      "partial_score_floor": 0.3
+    },
+    {
+      "clo_code": "CLO2_ME2205",
+      "primary_keywords": [
+        "mô hình lực", "phương trình cân bằng", "tĩnh học", "động học", "chuyển động", "gia tốc"
+      ],
+      "secondary_keywords": [
+        "phân tích lực", "giải bài toán", "chuyển động phẳng", "chuyển động quay"
+      ],
+      "scoring_method": "termfreq",
+      "full_score_threshold": 4,
+      "partial_score_floor": 0.4
+    },
+    {
+      "clo_code": "CLO3_ME2205",
+      "primary_keywords": [
+        "phân tích", "tính toán", "thiết kế", "tham số kỹ thuật", "máy", "cơ cấu", "động lực học"
+      ],
+      "secondary_keywords": [
+        "tối ưu hóa", "mô phỏng", "kiểm tra bền", "hiệu suất"
+      ],
+      "scoring_method": "termfreq",
+      "full_score_threshold": 4,
+      "partial_score_floor": 0.4
+    },
+    {
+      "clo_code": "CLO4_ME2205",
+      "primary_keywords": [
+        "ý thức", "thái độ học tập", "nghiêm túc", "tích cực", "tham gia", "hoạt động học tập"
+      ],
+      "secondary_keywords": [
+        "chuyên cần", "đúng giờ", "hoàn thành bài tập", "tương tác lớp"
+      ],
+      "scoring_method": "presence",
+      "full_score_threshold": 1,
+      "partial_score_floor": 0.5
+    },
+    {
+      "clo_code": "CLO1_AET3261",
+      "primary_keywords": [
+        "cấu tạo động cơ", "chi tiết động cơ", "cơ cấu", "nguyên lý hoạt động", "động cơ đốt trong"
+      ],
+      "secondary_keywords": [
+        "piston", "xi lanh", "trục khuỷu", "van", "hệ thống nhiên liệu"
+      ],
+      "scoring_method": "distinct",
+      "full_score_threshold": 3,
+      "partial_score_floor": 0.3
+    },
+    {
+      "clo_code": "CLO2_AET3261",
+      "primary_keywords": [
+        "phân tích", "quá trình hoạt động", "chu trình", "làm việc", "hiệu suất", "công suất"
+      ],
+      "secondary_keywords": [
+        "chu trình Otto", "chu trình Diesel", "đánh giá hiệu suất", "tối ưu hóa"
+      ],
+      "scoring_method": "termfreq",
+      "full_score_threshold": 4,
+      "partial_score_floor": 0.4
+    },
+    {
+      "clo_code": "CLO3_AET3261",
+      "primary_keywords": [
+        "tính toán", "thiết kế", "thông số kỹ thuật", "công suất", "moment", "tiêu hao nhiên liệu"
+      ],
+      "secondary_keywords": [
+        "tối ưu thiết kế", "hiệu suất nhiệt", "phát thải", "độ bền"
+      ],
+      "scoring_method": "termfreq",
+      "full_score_threshold": 4,
+      "partial_score_floor": 0.4
+    },
+    {
+      "clo_code": "CLO4_AET3261",
+      "primary_keywords": [
+        "nghiên cứu khoa học", "công nghệ mới", "tìm hiểu", "cập nhật", "phát triển"
+      ],
+      "secondary_keywords": [
+        "đổi mới", "sáng tạo", "xu hướng công nghệ", "nghiên cứu độc lập"
+      ],
+      "scoring_method": "presence",
+      "full_score_threshold": 1,
+      "partial_score_floor": 0.5
+    },
+    {
+      "clo_code": "CLO1_AET3218",
+      "primary_keywords": [
+        "cấu tạo ô tô", "hệ thống ô tô", "khung gầm", "hệ thống lái", "hệ thống phanh", "hệ thống truyền lực"
+      ],
+      "secondary_keywords": [
+        "hộp số", "ly hợp", "vi sai", "trục truyền", "bánh xe", "hệ thống treo"
+      ],
+      "scoring_method": "distinct",
+      "full_score_threshold": 4,
+      "partial_score_floor": 0.3
+    },
+    {
+      "clo_code": "CLO2_AET3218",
+      "primary_keywords": [
+        "phân tích hoạt động", "tương tác hệ thống", "hiệu suất", "an toàn", "ổn định"
+      ],
+      "secondary_keywords": [
+        "động lực học ô tô", "ổn định lái", "phanh hiệu quả", "tương tác lốp-đường"
+      ],
+      "scoring_method": "termfreq",
+      "full_score_threshold": 3,
+      "partial_score_floor": 0.4
+    },
+    {
+      "clo_code": "CLO3_AET3218",
+      "primary_keywords": [
+        "vận hành", "bảo trì", "sửa chữa", "chẩn đoán", "thay thế", "điều chỉnh"
+      ],
+      "secondary_keywords": [
+        "bảo dưỡng định kỳ", "chẩn đoán lỗi", "sửa chữa hệ thống", "thay thế linh kiện"
+      ],
+      "scoring_method": "termfreq",
+      "full_score_threshold": 3,
+      "partial_score_floor": 0.4
+    },
+    {
+      "clo_code": "CLO4_AET3218",
+      "primary_keywords": [
+        "an toàn lao động", "bảo vệ môi trường", "quy định an toàn", "ý thức", "trách nhiệm"
+      ],
+      "secondary_keywords": [
+        "an toàn giao thông", "giảm phát thải", "tuân thủ quy định", "ý thức môi trường"
+      ],
+      "scoring_method": "presence",
+      "full_score_threshold": 1,
+      "partial_score_floor": 0.5
+    }
+  ],
+  "scoring_algorithms": {
+    "distinct": {
+      "description": "Đếm số lượng keywords khác nhau xuất hiện trong tài liệu",
+      "formula": "score = min(distinct_keywords_found / full_score_threshold, 1.0)",
+      "use_case": "Đánh giá kiến thức cơ bản, khái niệm"
+    },
+    "termfreq": {
+      "description": "Tính tần suất xuất hiện của keywords trong tài liệu",
+      "formula": "score = min(total_keyword_frequency / full_score_threshold, 1.0)",
+      "use_case": "Đánh giá độ sâu kiến thức, kỹ năng áp dụng"
+    },
+    "presence": {
+      "description": "Kiểm tra sự hiện diện của keywords trong tài liệu",
+      "formula": "score = 1.0 if any_keyword_found else 0.0",
+      "use_case": "Đánh giá thái độ, ý thức"
+    },
+    "weighted": {
+      "description": "Tính điểm có trọng số cho các keywords khác nhau",
+      "formula": "score = sum(keyword_weight * keyword_frequency) / max_possible_score",
+      "use_case": "Đánh giá tổng hợp với mức độ quan trọng khác nhau"
+    }
+  },
+  "confidence_scoring": {
+    "high_confidence": {
+      "threshold": 0.8,
+      "description": "Kết quả đánh giá có độ tin cậy cao",
+      "factors": ["Nhiều keywords phù hợp", "Ngữ cảnh rõ ràng", "Nội dung chi tiết"]
+    },
+    "medium_confidence": {
+      "threshold": 0.6,
+      "description": "Kết quả đánh giá có độ tin cậy trung bình",
+      "factors": ["Một số keywords phù hợp", "Ngữ cảnh tương đối rõ", "Nội dung cơ bản"]
+    },
+    "low_confidence": {
+      "threshold": 0.4,
+      "description": "Kết quả đánh giá có độ tin cậy thấp",
+      "factors": ["Ít keywords phù hợp", "Ngữ cảnh không rõ", "Nội dung hạn chế"]
+    },
+    "very_low_confidence": {
+      "threshold": 0.0,
+      "description": "Kết quả đánh giá có độ tin cậy rất thấp",
+      "factors": ["Không có keywords phù hợp", "Ngữ cảnh không liên quan", "Nội dung không phù hợp"]
+    }
+  }
+}
+

@@ -1,0 +1,483 @@
+{
+  "course_learning_outcomes": [
+    {
+      "course_code": "ME2252",
+      "course_name": "Vẽ kỹ thuật cơ khí",
+      "course_credits": 3,
+      "course_type": "Cơ sở ngành",
+      "prerequisite": "ME2202",
+      "clos": [
+        {
+          "code": "CLO1_ME2252",
+          "title": "Hiểu quy ước biểu diễn theo tiêu chuẩn",
+          "description": "Hiểu rõ các quy ước về biểu diễn của các Tiêu chuẩn trình bày bản vẽ theo TCVN và ISO",
+          "mapped_pi": "PI 4.3",
+          "mapped_plo": "PLO4",
+          "bloom_level": 2,
+          "assessment_level": "T",
+          "weight": 0.25,
+          "keywords": ["quy ước biểu diễn", "tiêu chuẩn TCVN", "tiêu chuẩn ISO", "bản vẽ kỹ thuật", "trình bày bản vẽ"],
+          "assessment_methods": ["Thi lý thuyết", "Bài tập"],
+          "rubric": {
+            "excellent": "Hiểu rõ và áp dụng chính xác tất cả quy ước theo TCVN và ISO",
+            "good": "Hiểu và áp dụng đúng hầu hết quy ước cơ bản",
+            "satisfactory": "Hiểu cơ bản các quy ước chính",
+            "needs_improvement": "Hiểu một số quy ước nhưng chưa chính xác",
+            "unsatisfactory": "Không hiểu hoặc áp dụng sai quy ước"
+          }
+        },
+        {
+          "code": "CLO2_ME2252",
+          "title": "Vẽ bản vẽ kỹ thuật và hiểu dung sai",
+          "description": "Sử dụng các kiến thức Hình họa và các Tiêu chuẩn để vẽ các bản vẽ biểu diễn vật thể, các bản vẽ chi tiết bằng cách sử dụng dụng cụ và vật liệu vẽ. Hiểu các khái niệm dung sai, nhám bề mặt, các quy ước về vẽ mối ghép, các phương pháp truyền động… để trình bày trong các bản vẽ lắp và bản vẽ chi tiết.",
+          "mapped_pi": "PI 4.3",
+          "mapped_plo": "PLO4",
+          "bloom_level": 3,
+          "assessment_level": "U",
+          "weight": 0.35,
+          "keywords": ["vẽ bản vẽ", "dụng cụ vẽ", "dung sai", "nhám bề mặt", "mối ghép", "truyền động", "bản vẽ lắp", "bản vẽ chi tiết"],
+          "assessment_methods": ["Bài tập thực hành", "Đồ án"],
+          "rubric": {
+            "excellent": "Vẽ chính xác, đẹp, đầy đủ thông tin kỹ thuật theo tiêu chuẩn",
+            "good": "Vẽ đúng kỹ thuật, có một số thiếu sót nhỏ",
+            "satisfactory": "Vẽ cơ bản đúng, thiếu một số chi tiết",
+            "needs_improvement": "Vẽ chưa chính xác, nhiều lỗi kỹ thuật",
+            "unsatisfactory": "Không vẽ được hoặc sai hoàn toàn"
+          }
+        },
+        {
+          "code": "CLO3_ME2252",
+          "title": "Tư duy không gian và vận dụng quy ước",
+          "description": "Có tư duy không gian, hiểu biết vận dụng tốt các quy ước biểu diễn vật thể phù hợp các Tiêu chuẩn quốc gia và quốc tế",
+          "mapped_pi": "PI 4.3",
+          "mapped_plo": "PLO4",
+          "bloom_level": 3,
+          "assessment_level": "U",
+          "weight": 0.25,
+          "keywords": ["tư duy không gian", "biểu diễn vật thể", "hình chiếu", "mặt cắt", "hình cắt", "đọc bản vẽ"],
+          "assessment_methods": ["Bài tập", "Thi thực hành"],
+          "rubric": {
+            "excellent": "Tư duy không gian tốt, biểu diễn chính xác các vật thể phức tạp",
+            "good": "Tư duy không gian khá, biểu diễn đúng hầu hết vật thể",
+            "satisfactory": "Tư duy không gian cơ bản, biểu diễn được vật thể đơn giản",
+            "needs_improvement": "Tư duy không gian hạn chế, biểu diễn chưa chính xác",
+            "unsatisfactory": "Không có tư duy không gian, không biểu diễn được"
+          }
+        },
+        {
+          "code": "CLO4_ME2252",
+          "title": "Thái độ học tập nghiêm túc",
+          "description": "Có ý thức, thái độ học tập nghiêm túc. Rèn luyện tác phong khoa học, kiên nhẫn, tỷ mỷ, chính xác của người kỹ sư thiết kế.",
+          "mapped_pi": "PI 12.4",
+          "mapped_plo": "PLO12",
+          "bloom_level": 3,
+          "assessment_level": "U",
+          "weight": 0.15,
+          "keywords": ["thái độ học tập", "tác phong khoa học", "kiên nhẫn", "tỷ mỷ", "chính xác", "kỹ sư thiết kế"],
+          "assessment_methods": ["Đánh giá thái độ", "Chuyên cần"],
+          "rubric": {
+            "excellent": "Thái độ học tập xuất sắc, tác phong chuyên nghiệp cao",
+            "good": "Thái độ học tập tốt, có tác phong khoa học",
+            "satisfactory": "Thái độ học tập nghiêm túc cơ bản",
+            "needs_improvement": "Thái độ học tập chưa nghiêm túc",
+            "unsatisfactory": "Thái độ học tập không tốt"
+          }
+        }
+      ]
+    },
+    {
+      "course_code": "ME2205",
+      "course_name": "Cơ học kỹ thuật",
+      "course_credits": 3,
+      "course_type": "Cơ sở ngành",
+      "prerequisite": "MI1210",
+      "clos": [
+        {
+          "code": "CLO1_ME2205",
+          "title": "Hiểu các hệ lực cơ học",
+          "description": "Hiểu rõ các hệ lực cơ học, các tiên đề tĩnh học và điều kiện cân bằng",
+          "mapped_pi": "PI 4.1",
+          "mapped_plo": "PLO4",
+          "bloom_level": 2,
+          "assessment_level": "T",
+          "weight": 0.25,
+          "keywords": ["hệ lực", "tiên đề tĩnh học", "cân bằng lực", "moment", "ngẫu lực", "phản lực"],
+          "assessment_methods": ["Thi lý thuyết", "Bài tập"],
+          "rubric": {
+            "excellent": "Hiểu sâu sắc các khái niệm và áp dụng linh hoạt",
+            "good": "Hiểu tốt các khái niệm cơ bản",
+            "satisfactory": "Hiểu cơ bản các khái niệm chính",
+            "needs_improvement": "Hiểu hạn chế, chưa chính xác",
+            "unsatisfactory": "Không hiểu các khái niệm cơ bản"
+          }
+        },
+        {
+          "code": "CLO2_ME2205",
+          "title": "Xây dựng mô hình lực và giải bài toán",
+          "description": "Xây dựng mô hình lực, thiết lập phương trình cân bằng để giải quyết các bài toán tĩnh học và động học",
+          "mapped_pi": "PI 4.2",
+          "mapped_plo": "PLO4",
+          "bloom_level": 3,
+          "assessment_level": "U",
+          "weight": 0.35,
+          "keywords": ["mô hình lực", "phương trình cân bằng", "tĩnh học", "động học", "chuyển động", "gia tốc"],
+          "assessment_methods": ["Bài tập", "Đồ án", "Thi lý thuyết"],
+          "rubric": {
+            "excellent": "Xây dựng mô hình chính xác và giải quyết bài toán phức tạp",
+            "good": "Xây dựng mô hình đúng và giải quyết bài toán cơ bản",
+            "satisfactory": "Xây dựng mô hình cơ bản với hướng dẫn",
+            "needs_improvement": "Xây dựng mô hình chưa chính xác",
+            "unsatisfactory": "Không xây dựng được mô hình"
+          }
+        },
+        {
+          "code": "CLO3_ME2205",
+          "title": "Phân tích và tính toán thiết kế",
+          "description": "Phân tích, tính toán, thiết kế các tham số kỹ thuật trong cơ học, tĩnh học, động học của máy và cơ cấu",
+          "mapped_pi": "PI 10.1",
+          "mapped_plo": "PLO10",
+          "bloom_level": 4,
+          "assessment_level": "U",
+          "weight": 0.30,
+          "keywords": ["phân tích", "tính toán", "thiết kế", "tham số kỹ thuật", "máy", "cơ cấu", "động lực học"],
+          "assessment_methods": ["Đồ án", "Thực hành", "Thi thực hành"],
+          "rubric": {
+            "excellent": "Phân tích chính xác và thiết kế tối ưu",
+            "good": "Phân tích đúng và thiết kế hợp lý",
+            "satisfactory": "Phân tích cơ bản và thiết kế đơn giản",
+            "needs_improvement": "Phân tích chưa chính xác",
+            "unsatisfactory": "Không phân tích và thiết kế được"
+          }
+        },
+        {
+          "code": "CLO4_ME2205",
+          "title": "Thái độ học tập tích cực",
+          "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực tham gia các hoạt động học tập",
+          "mapped_pi": "PI 12.1",
+          "mapped_plo": "PLO12",
+          "bloom_level": 3,
+          "assessment_level": "U",
+          "weight": 0.10,
+          "keywords": ["ý thức", "thái độ học tập", "nghiêm túc", "tích cực", "tham gia", "hoạt động học tập"],
+          "assessment_methods": ["Đánh giá thái độ", "Chuyên cần", "Tham gia lớp"],
+          "rubric": {
+            "excellent": "Thái độ học tập xuất sắc, tích cực cao",
+            "good": "Thái độ học tập tốt, tham gia tích cực",
+            "satisfactory": "Thái độ học tập nghiêm túc cơ bản",
+            "needs_improvement": "Thái độ học tập chưa tích cực",
+            "unsatisfactory": "Thái độ học tập không tốt"
+          }
+        }
+      ]
+    },
+    {
+      "course_code": "AET3261",
+      "course_name": "Kết cấu động cơ đốt trong",
+      "course_credits": 3,
+      "course_type": "Chuyên ngành",
+      "prerequisite": "ME2206",
+      "clos": [
+        {
+          "code": "CLO1_AET3261",
+          "title": "Hiểu cấu tạo động cơ đốt trong",
+          "description": "Hiểu rõ cấu tạo, nguyên lý hoạt động của các chi tiết, cơ cấu chính trong động cơ đốt trong",
+          "mapped_pi": "PI 5.1",
+          "mapped_plo": "PLO5",
+          "bloom_level": 2,
+          "assessment_level": "T",
+          "weight": 0.25,
+          "keywords": ["cấu tạo động cơ", "chi tiết động cơ", "cơ cấu", "nguyên lý hoạt động", "động cơ đốt trong"],
+          "assessment_methods": ["Thi lý thuyết", "Bài tập"],
+          "rubric": {
+            "excellent": "Hiểu sâu sắc cấu tạo và nguyên lý hoạt động",
+            "good": "Hiểu tốt cấu tạo cơ bản",
+            "satisfactory": "Hiểu cơ bản các chi tiết chính",
+            "needs_improvement": "Hiểu hạn chế về cấu tạo",
+            "unsatisfactory": "Không hiểu cấu tạo động cơ"
+          }
+        },
+        {
+          "code": "CLO2_AET3261",
+          "title": "Phân tích hoạt động động cơ",
+          "description": "Phân tích được quá trình hoạt động, chu trình làm việc của động cơ đốt trong",
+          "mapped_pi": "PI 4.2",
+          "mapped_plo": "PLO4",
+          "bloom_level": 4,
+          "assessment_level": "U",
+          "weight": 0.30,
+          "keywords": ["phân tích", "quá trình hoạt động", "chu trình", "làm việc", "hiệu suất", "công suất"],
+          "assessment_methods": ["Thực hành", "Báo cáo", "Thi thực hành"],
+          "rubric": {
+            "excellent": "Phân tích chính xác và đánh giá hiệu suất",
+            "good": "Phân tích đúng quá trình cơ bản",
+            "satisfactory": "Phân tích cơ bản với hướng dẫn",
+            "needs_improvement": "Phân tích chưa chính xác",
+            "unsatisfactory": "Không phân tích được"
+          }
+        },
+        {
+          "code": "CLO3_AET3261",
+          "title": "Tính toán thiết kế động cơ",
+          "description": "Tính toán, thiết kế các thông số kỹ thuật cơ bản của động cơ đốt trong",
+          "mapped_pi": "PI 5.2",
+          "mapped_plo": "PLO5",
+          "bloom_level": 5,
+          "assessment_level": "U",
+          "weight": 0.35,
+          "keywords": ["tính toán", "thiết kế", "thông số kỹ thuật", "công suất", "moment", "tiêu hao nhiên liệu"],
+          "assessment_methods": ["Đồ án", "Thi thực hành", "Dự án"],
+          "rubric": {
+            "excellent": "Tính toán chính xác và thiết kế tối ưu",
+            "good": "Tính toán đúng và thiết kế hợp lý",
+            "satisfactory": "Tính toán cơ bản đúng",
+            "needs_improvement": "Tính toán chưa chính xác",
+            "unsatisfactory": "Không tính toán được"
+          }
+        },
+        {
+          "code": "CLO4_AET3261",
+          "title": "Thái độ nghiên cứu khoa học",
+          "description": "Có thái độ nghiên cứu khoa học, tìm hiểu công nghệ mới trong lĩnh vực động cơ",
+          "mapped_pi": "PI 12.1",
+          "mapped_plo": "PLO12",
+          "bloom_level": 4,
+          "assessment_level": "U",
+          "weight": 0.10,
+          "keywords": ["nghiên cứu khoa học", "công nghệ mới", "tìm hiểu", "cập nhật", "phát triển"],
+          "assessment_methods": ["Báo cáo nghiên cứu", "Thuyết trình", "Tự đánh giá"],
+          "rubric": {
+            "excellent": "Có tinh thần nghiên cứu cao, cập nhật công nghệ mới",
+            "good": "Có thái độ nghiên cứu tốt",
+            "satisfactory": "Có ý thức nghiên cứu cơ bản",
+            "needs_improvement": "Thái độ nghiên cứu chưa tích cực",
+            "unsatisfactory": "Không có thái độ nghiên cứu"
+          }
+        }
+      ]
+    },
+    {
+      "course_code": "AET3218",
+      "course_name": "Cấu tạo ô tô",
+      "course_credits": 3,
+      "course_type": "Chuyên ngành",
+      "prerequisite": "AET3261",
+      "clos": [
+        {
+          "code": "CLO1_AET3218",
+          "title": "Hiểu cấu tạo các hệ thống ô tô",
+          "description": "Hiểu rõ cấu tạo, nguyên lý hoạt động của các hệ thống chính trên ô tô",
+          "mapped_pi": "PI 5.1",
+          "mapped_plo": "PLO5",
+          "bloom_level": 2,
+          "assessment_level": "T",
+          "weight": 0.25,
+          "keywords": ["cấu tạo ô tô", "hệ thống ô tô", "khung gầm", "hệ thống lái", "hệ thống phanh", "hệ thống truyền lực"],
+          "assessment_methods": ["Thi lý thuyết", "Bài tập"],
+          "rubric": {
+            "excellent": "Hiểu sâu sắc cấu tạo tất cả hệ thống",
+            "good": "Hiểu tốt cấu tạo các hệ thống chính",
+            "satisfactory": "Hiểu cơ bản cấu tạo ô tô",
+            "needs_improvement": "Hiểu hạn chế về cấu tạo",
+            "unsatisfactory": "Không hiểu cấu tạo ô tô"
+          }
+        },
+        {
+          "code": "CLO2_AET3218",
+          "title": "Phân tích hoạt động hệ thống ô tô",
+          "description": "Phân tích được hoạt động, tương tác giữa các hệ thống trên ô tô",
+          "mapped_pi": "PI 6.1",
+          "mapped_plo": "PLO6",
+          "bloom_level": 4,
+          "assessment_level": "U",
+          "weight": 0.30,
+          "keywords": ["phân tích hoạt động", "tương tác hệ thống", "hiệu suất", "an toàn", "ổn định"],
+          "assessment_methods": ["Thực hành", "Báo cáo", "Thi thực hành"],
+          "rubric": {
+            "excellent": "Phân tích chính xác và đánh giá tổng thể",
+            "good": "Phân tích đúng hoạt động cơ bản",
+            "satisfactory": "Phân tích cơ bản với hướng dẫn",
+            "needs_improvement": "Phân tích chưa chính xác",
+            "unsatisfactory": "Không phân tích được"
+          }
+        },
+        {
+          "code": "CLO3_AET3218",
+          "title": "Vận hành và bảo trì ô tô",
+          "description": "Có khả năng vận hành, bảo trì, sửa chữa các hệ thống trên ô tô",
+          "mapped_pi": "PI 10.1",
+          "mapped_plo": "PLO10",
+          "bloom_level": 3,
+          "assessment_level": "U",
+          "weight": 0.35,
+          "keywords": ["vận hành", "bảo trì", "sửa chữa", "chẩn đoán", "thay thế", "điều chỉnh"],
+          "assessment_methods": ["Thực hành", "Thi thực hành", "Dự án"],
+          "rubric": {
+            "excellent": "Vận hành thành thạo và bảo trì hiệu quả",
+            "good": "Vận hành tốt và bảo trì cơ bản",
+            "satisfactory": "Vận hành cơ bản với hướng dẫn",
+            "needs_improvement": "Vận hành chưa thành thạo",
+            "unsatisfactory": "Không vận hành được"
+          }
+        },
+        {
+          "code": "CLO4_AET3218",
+          "title": "Ý thức an toàn và môi trường",
+          "description": "Có ý thức về an toàn lao động và bảo vệ môi trường trong ngành ô tô",
+          "mapped_pi": "PI 12.3",
+          "mapped_plo": "PLO12",
+          "bloom_level": 3,
+          "assessment_level": "U",
+          "weight": 0.10,
+          "keywords": ["an toàn lao động", "bảo vệ môi trường", "quy định an toàn", "ý thức", "trách nhiệm"],
+          "assessment_methods": ["Đánh giá thái độ", "Báo cáo", "Thảo luận"],
+          "rubric": {
+            "excellent": "Có ý thức cao về an toàn và môi trường",
+            "good": "Có ý thức tốt về an toàn",
+            "satisfactory": "Có ý thức cơ bản về an toàn",
+            "needs_improvement": "Ý thức an toàn chưa cao",
+            "unsatisfactory": "Không có ý thức an toàn"
+          }
+        }
+      ]
+    }
+  ],
+  "clo_plo_mapping": [
+    {
+      "clo_code": "CLO1_ME2252",
+      "plo_code": "PLO4",
+      "pi_code": "PI 4.3",
+      "contribution_level": "Direct",
+      "weight": 0.8
+    },
+    {
+      "clo_code": "CLO2_ME2252",
+      "plo_code": "PLO4",
+      "pi_code": "PI 4.3",
+      "contribution_level": "Direct",
+      "weight": 0.9
+    },
+    {
+      "clo_code": "CLO3_ME2252",
+      "plo_code": "PLO4",
+      "pi_code": "PI 4.3",
+      "contribution_level": "Direct",
+      "weight": 0.8
+    },
+    {
+      "clo_code": "CLO4_ME2252",
+      "plo_code": "PLO12",
+      "pi_code": "PI 12.4",
+      "contribution_level": "Direct",
+      "weight": 0.7
+    },
+    {
+      "clo_code": "CLO1_ME2205",
+      "plo_code": "PLO4",
+      "pi_code": "PI 4.1",
+      "contribution_level": "Direct",
+      "weight": 0.8
+    },
+    {
+      "clo_code": "CLO2_ME2205",
+      "plo_code": "PLO4",
+      "pi_code": "PI 4.2",
+      "contribution_level": "Direct",
+      "weight": 0.9
+    },
+    {
+      "clo_code": "CLO3_ME2205",
+      "plo_code": "PLO10",
+      "pi_code": "PI 10.1",
+      "contribution_level": "Direct",
+      "weight": 0.8
+    },
+    {
+      "clo_code": "CLO4_ME2205",
+      "plo_code": "PLO12",
+      "pi_code": "PI 12.1",
+      "contribution_level": "Direct",
+      "weight": 0.7
+    },
+    {
+      "clo_code": "CLO1_AET3261",
+      "plo_code": "PLO5",
+      "pi_code": "PI 5.1",
+      "contribution_level": "Direct",
+      "weight": 0.8
+    },
+    {
+      "clo_code": "CLO2_AET3261",
+      "plo_code": "PLO4",
+      "pi_code": "PI 4.2",
+      "contribution_level": "Direct",
+      "weight": 0.8
+    },
+    {
+      "clo_code": "CLO3_AET3261",
+      "plo_code": "PLO5",
+      "pi_code": "PI 5.2",
+      "contribution_level": "Direct",
+      "weight": 0.9
+    },
+    {
+      "clo_code": "CLO4_AET3261",
+      "plo_code": "PLO12",
+      "pi_code": "PI 12.1",
+      "contribution_level": "Direct",
+      "weight": 0.7
+    },
+    {
+      "clo_code": "CLO1_AET3218",
+      "plo_code": "PLO5",
+      "pi_code": "PI 5.1",
+      "contribution_level": "Direct",
+      "weight": 0.8
+    },
+    {
+      "clo_code": "CLO2_AET3218",
+      "plo_code": "PLO6",
+      "pi_code": "PI 6.1",
+      "contribution_level": "Direct",
+      "weight": 0.8
+    },
+    {
+      "clo_code": "CLO3_AET3218",
+      "plo_code": "PLO10",
+      "pi_code": "PI 10.1",
+      "contribution_level": "Direct",
+      "weight": 0.9
+    },
+    {
+      "clo_code": "CLO4_AET3218",
+      "plo_code": "PLO12",
+      "pi_code": "PI 12.3",
+      "contribution_level": "Direct",
+      "weight": 0.7
+    }
+  ],
+  "assessment_criteria": {
+    "bloom_taxonomy_weights": {
+      "remember": 0.1,
+      "understand": 0.15,
+      "apply": 0.2,
+      "analyze": 0.25,
+      "evaluate": 0.2,
+      "create": 0.1
+    },
+    "assessment_method_weights": {
+      "thi_ly_thuyet": 0.3,
+      "thi_thuc_hanh": 0.25,
+      "bai_tap": 0.2,
+      "do_an": 0.15,
+      "thai_do": 0.1
+    },
+    "scoring_scale": {
+      "excellent": [3.5, 4.0],
+      "good": [2.5, 3.4],
+      "satisfactory": [2.0, 2.4],
+      "needs_improvement": [1.0, 1.9],
+      "unsatisfactory": [0.0, 0.9]
+    }
+  }
+}
+

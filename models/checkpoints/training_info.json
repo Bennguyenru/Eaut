@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-08-31T14:44:01.119601",
+  "model_type": "simple_sklearn",
+  "vectorizer_features": 2501,
+  "models_trained": [
+    "score_predictor",
+    "bloom_classifier"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "properties": {
+    "code": {
+      "type": "string",
+      "pattern": "^PLO[0-9]+$",
+      "description": "PLO identifier (e.g., PLO4)"
+    },
+    "title": {
+      "type": "string",
+      "maxLength": 200,
+      "description": "Short title of the PLO"
+    },
+    "description": {
+      "type": "string",
+      "maxLength": 1000,
+      "description": "Detailed description of the PLO"
+    },
+    "category": {
+      "type": "string",
+      "enum": ["Kiến thức chuyên môn", "Kỹ năng thực hành", "Kỹ năng thiết kế", "Thái độ"],
+      "description": "PLO category"
+    },
+    "performance_indicators": {
+      "type": "string",
+      "description": "Comma-separated list of PI codes (e.g., 'PI 4.1,PI 4.2')"
+    }
+  },
+  "required": ["code", "title", "description", "category"]
+}

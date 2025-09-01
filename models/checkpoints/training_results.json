@@ -1,0 +1,23 @@
+{
+  "score_model": {
+    "train_mse": 0.0981506004374321,
+    "val_mse": 0.13516528871164732,
+    "train_r2": 0.9141983452093978,
+    "val_r2": 0.8779155266792845
+  },
+  "bloom_model": {
+    "train_accuracy": 0.8817594834543987,
+    "val_accuracy": 0.8587570621468926
+  },
+  "keyword_models": 194,
+  "evaluation": {
+    "score_prediction": {
+      "test_mse": 0.13383615163884965,
+      "test_r2": 0.883373821653408
+    },
+    "bloom_classification": {
+      "test_accuracy": 0.832391713747646
+    }
+  },
+  "timestamp": "2025-08-31T14:44:01.088473"
+}

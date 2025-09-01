@@ -1,0 +1,7 @@
+nohup: ignoring input
+INFO:simple_model_trainer:Models loaded from /home/ubuntu/clo_plo_assessment_platform/models/checkpoints
+INFO:__main__:Models initialized successfully. CLOs: 194, PLOs: 0
+ * Serving Flask app 'enhanced_api'
+ * Debug mode: on
+Address already in use
+Port 5001 is in use by another program. Either identify and stop that program, or start the server with a different port.

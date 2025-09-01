@@ -1,0 +1,14 @@
+id,code,title,description,category,pi_codes
+1,PLO1,Hiểu rõ lý luận chính trị,"Hiểu rõ các nguyên lý cơ bản của chủ nghĩa Mác - Lênin, đường lối cách mạng của Đảng Cộng sản Việt Nam, tư tưởng Hồ Chí Minh; chính sách, pháp luật của Nhà nước.",Kiến thức,"PI1.1,PI1.2"
+2,PLO2,Vận dụng kiến thức cơ bản,"Vận dụng kiến thức về khoa học tự nhiên, xã hội, Ngoại ngữ, tin học vào lĩnh vực chuyên môn, nghề nghiệp.",Kiến thức,"PI2.1,PI2.2"
+3,PLO3,Hoàn thành kiến thức quốc phòng,"Hoàn thành kiến thức Quốc phòng - an ninh và Giáo dục thể chất để tự rèn luyện về tinh thần và thể chất.",Kiến thức,"PI3.1,PI3.2"
+4,PLO4,Áp dụng kiến thức kỹ thuật,"Khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực công nghệ kỹ thuật ô tô bằng cách áp dụng các kiến thức khoa học, kỹ thuật, toán học, vật lý.",Kiến thức,"PI4.1,PI4.2"
+5,PLO5,Phân tích và đánh giá kỹ thuật,"Khả năng phát triển và tiến hành thực hành, phân tích, giải thích dữ liệu, sử dụng đánh giá kỹ thuật để đưa ra các kết luận cho các vấn đề chuyên môn trong lĩnh vực công nghệ kỹ thuật ô tô.",Kiến thức,"PI5.1,PI5.2"
+6,PLO6,Năng lực chuyên môn ô tô,"Năng lực chuyên môn để có thể tham gia thiết kế, chế tạo, vận hành, bảo trì, bảo dưỡng, sửa chữa ô tô truyền thống, xe ô tô điện và các chi tiết, phụ tùng của ô tô; Định hướng xây dựng các giải pháp công nghệ, kỹ thuật cho các lĩnh vực liên quan đến ngành ôtô.",Kỹ năng,"PI6.1,PI6.2"
+7,PLO7,Kỹ năng giao tiếp và quản lý,"Vận dụng tốt các kỹ năng: giao tiếp, thuyết trình, đàm phán, xác định mục tiêu và lập kế hoạch, xử lý linh hoạt các tình huống trong lĩnh vực chuyên môn.",Kỹ năng,"PI7.1,PI7.2"
+8,PLO8,Kỹ năng làm việc nhóm,"Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp, dự báo, quản lý, dẫn dắt và giải quyết vấn đề trong các hoạt động chuyên môn.",Kỹ năng,"PI8.1,PI8.2"
+9,PLO9,Sử dụng công nghệ thông tin,"Sử dụng được Tiếng Anh cơ bản, tin học văn phòng, tin học ứng dụng trong lĩnh vực chuyên môn.",Kỹ năng,"PI9.1,PI9.2"
+10,PLO10,Đọc hiểu và xây dựng bản vẽ,"Đọc hiểu và xây dựng được bản vẽ kỹ thuật; Khai thác, vận hành, quản lý; Bảo trì, bảo dưỡng, sửa chữa; Tư vấn, chuyển giao công nghệ về lĩnh vực ngành công nghệ kỹ thuật ô tô.",Kỹ năng,"PI10.1,PI10.2"
+11,PLO11,Tổ chức và quản lý công việc,"Tính toán, lập báo cáo, thuyết trình, phản biện, tổ chức công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm.",Mức tự chủ,"PI11.1,PI11.2"
+12,PLO12,Phẩm chất đạo đức nghề nghiệp,"Có phẩm chất đạo đức nghề nghiệp, tinh thần học tập nghiêm túc, năng lực nghiên cứu độc lập, tư duy sáng tạo, thích nghi nhanh với sự thay đổi của môi trường, có khả năng định hướng và tìm kiếm cơ hội phát triển nghề nghiệp, thực hiện tốt trách nhiệm công dân.",Mức tự chủ,"PI12.1,PI12.2,PI12.3,PI12.4"
+

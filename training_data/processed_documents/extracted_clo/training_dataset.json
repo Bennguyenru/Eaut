@@ -1,0 +1,7066 @@
+{
+  "positive_samples": [
+    {
+      "text": "Hiểu rõ được các kiến thức cần thiết về tác dụng cơ học",
+      "clo_code": "CLO 1_ME2206",
+      "bloom_level": 2,
+      "keywords": [
+        "hiểu",
+        "dụng",
+        "thức",
+        "thiết",
+        "kiến"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn đúng các đặc trưng, trạng thái cơ học liên quan đến sức bền vật liệu",
+      "clo_code": "CLO 2_ME2206",
+      "bloom_level": 3,
+      "keywords": [
+        "trạng",
+        "thái",
+        "trưng",
+        "đúng",
+        "dụng",
+        "quan",
+        "chọn",
+        "liệu",
+        "liên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy phân tích và tính toán được các bài toán liên quan đến sức bền vật liệu (chuyển vị, siêu tĩnh, hệ lực chịu tải động...)",
+      "clo_code": "CLO 3_ME2206",
+      "bloom_level": 3,
+      "keywords": [
+        "động",
+        "toán",
+        "siêu",
+        "tính",
+        "tích",
+        "chuyển",
+        "tĩnh",
+        "phân",
+        "quan",
+        "chịu"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_ME2206",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": ") và bố cục thành các chương như sau: Chương 1. Khái niệm chung về bản vẽ điện, điện tử: 3 (02 LT; 01 BT) Chương 2. Các ký hiệu, quy ước dùng trong bản vẽ điện, điện tử: 09 (06 LT; 03 BT) Chương 3. Vẽ sơ đồ điện: 12 (09 LT; 03 BT) Chương 4. Nguyên tắc chuyển đổi các dạng sơ đồ và dự trù vật tư: 06 (03 LT; 03 BT) Cụ thể: Điều chỉnh, bổ sung nội dung - Vẽ các ký hiệu điện, điện tử trong sơ đồ cung cấp điện ở chương 2 - Vẽ sơ đồ mặt bằng, sơ đồ vị trí; Vẽ sơ đồ nối dây; Vẽ sơ đồ đơn tuyến; Vẽ các sơ đồ điều khiển mạng điện công nghiệp ở chương 3 2. Ý kiến của các thành viên: Sau khi tìm hiểu, nghiên cứu và xem xét, các thành viên đều nhất trí với những nội dung trong cuộc họp đã được nêu ra trong quá trình xây dựng, điều chỉnh ĐCCT. Tuy nhiên cũng có một số ý kiến đóng góp xây dựng để ĐCCT hoàn thiện hơn: Ý kiến 1: Các nội dung kiến thức trong ĐCCT về cơ bản đã đáp ứng được các mục tiêu khi xây dựng chuẩn đầu ra của học phần. Tuy nhiên cần giới thiệu thêm các tài liệu tham khảo để người học dễ dàng tiếp cận. Ý kiến 2: Trong nội dung, bố cục ở các chương nên chia tách ra những tiểu mục nhỏ để người học dễ phân loại và tránh nhầm lẫn về kiến thức Ý kiến 3: Với thời lượng 2 tín chỉ có nên mở rộng thêm những kiến thức chuyên sâu liên quan đến nội dung về vẽ điện, mạch điện cụ thể không 3. Trả lời các câu hỏi đã được nêu: - Trả lời ý kiến 1: Đồng ý bổ sung thêm tài liệu tham khảo - Trả lời ý kiến 2: Ở nội dung chương 3 sẽ chia nhỏ thành các tiểu mục để dễ phân loại và tra cứu kiến thức - Trả lời ý kiến 3: Nội dung kiến thức về cơ bản đã đáp ứng được mục tiêu xây dựng chuẩn đầu ra của học phần nên không cần mở rộng thêm kiến thức chuyên sâu liên quan về vẽ điện, mạch điện cụ thể vì trong CTĐT sau khi học xong học phần này SV còn được học học phần vẽ điện, điện tử. 4. Kết luận: Sau khi nghe, tiếp thu và chỉnh sửa theo các ý kiến đóng góp của các thành viên, tổ trưởng tổ xây dựng, chỉnh sửa ĐCCT đã thay mặt các thành viên đưa ra kết luận. - Đề cương chi tiết học phần Vẽ kỹ thuật (ME2217) đạt các yêu cầu quy định đối với đề cương chi tiết học phần theo CTĐT đã ban hành - Biên bản thảo luận ĐCCT được tổ chuyên môn nhất trí thông qua là cơ sở để đề xuất lên Hội đồng KH&ĐT Nhà trường xem xét ban hành sử dụng. Phiên họp kết thúc vào hồi 11 giờ 00, ngày 21 tháng 08 năm 2023. Các thành viên trong cuộc họp 100% nhất trí theo kết luận cuộc họp.",
+      "clo_code": "CLO4_",
+      "bloom_level": 2,
+      "keywords": [
+        "tách",
+        "biên",
+        "thức",
+        "khiển",
+        "thông",
+        "dạng",
+        "định",
+        "chỉnh",
+        "thay",
+        "thuật"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": ") và bố cục thành các chương như sau: Chương 1. Các khái niệm cơ bản về hệ tiên đề tĩnh học: 03 LT/BT Chương 2. Lý thuyết hệ lực: 08 LT/BT Chương 3. Ma sát giữa các vật rắn: 03 LT/BT Chương 4. Trọng tâm của vật rắn: 03 LT/BT Chương 5. Động học điểm: 03 LT/BT Chương 6. Chuyển động cơ bản của vật rắn: 10 LT/BT Cụ thể: Điều chỉnh, bổ sung nội dung - Các bài toán cơ bản của tĩnh học; các bài toán hệ vật ở chương 2 - Các phương pháp khảo sát chuyển động của điểm ở chương 5 2. Ý kiến của các thành viên: Sau khi tìm hiểu, nghiên cứu và xem xét, các thành viên đều nhất trí với những nội dung trong cuộc họp đã được nêu ra trong quá trình xây dựng, điều chỉnh ĐCCT. Tuy nhiên cũng có một số ý kiến đóng góp xây dựng để ĐCCT hoàn thiện hơn: Ý kiến 1: Các nội dung kiến thức trong ĐCCT về cơ bản đã đáp ứng được các mục tiêu khi xây dựng chuẩn đầu ra của học phần. Tuy nhiên cần bổ sung phương pháp dạy học tương thích với CĐR của CTĐT Ý kiến 2: Khối lượng kiến thức được phân bổ rõ ràng trong từng chương, bố cục sắp xếp hợp lý, khoa học phù hợp với chuẩn đầu ra. Nhưng cần bổ sung phần thực hành vào ĐCCT không Ý kiến 3: ĐCCT được trình bày đầy đủ các nội dung và đúng với biểu mẫu ban hành của Nhà trường 3. Trả lời các câu hỏi đã được nêu: - Trả lời ý kiến 1: Đồng ý bổ sung phương pháp dạy học phù hợp (PP1, 2, 3, 7, 16) - Trả lời ý kiến 2: Với thời lượng 2 tín chỉ, là môn học cơ sở ngành nên chưa cần thiết bổ sung phần thực hành trong ĐCCT 4. Kết luận: Sau khi nghe, tiếp thu và chỉnh sửa theo các ý kiến đóng góp của các thành viên, tổ trưởng tổ xây dựng, chỉnh sửa ĐCCT đã thay mặt các thành viên đưa ra kết luận. - Đề cương chi tiết học phần Cơ lý thuyết (ME2214) đạt các yêu cầu quy định đối với đề cương chi tiết học phần theo CTĐT đã ban hành - Biên bản thảo luận ĐCCT được tổ chuyên môn nhất trí thông qua là cơ sở để đề xuất lên Hội đồng KH&ĐT Nhà trường xem xét ban hành sử dụng. Phiên họp kết thúc vào hồi 11 giờ 00, ngày 21 tháng 08 năm 2023. Các thành viên trong cuộc họp 100% nhất trí theo kết luận cuộc họp.",
+      "clo_code": "CLO4_",
+      "bloom_level": 2,
+      "keywords": [
+        "tĩnh",
+        "ràng",
+        "biên",
+        "thức",
+        "thông",
+        "thích",
+        "định",
+        "chỉnh",
+        "toán",
+        "thay"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ các quy ước về biểu diễn của các Tiêu chuẩn trình bày bản vẽ theo TCVN và ISO",
+      "clo_code": "CLO 1_",
+      "bloom_level": 2,
+      "keywords": [
+        "hiểu",
+        "tiêu",
+        "tcvn",
+        "theo",
+        "chuâ"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng các kiến thức Hình họa và các Tiêu chuẩn để vẽ các bản vẽ biểu diễn vật thể, các bản vẽ chi tiết bằng cách sử dụng dụng cụ và vật liệu vẽ. Hiểu các khái niệm dung sai, nhám bề mặt, các quy ước về vẽ mối ghép, các phương pháp truyền động… để trình bày trong các bản vẽ lắp và bản vẽ chi tiết.",
+      "clo_code": "CLO 2_",
+      "bloom_level": 3,
+      "keywords": [
+        "phương",
+        "tiêu",
+        "dụng",
+        "dung",
+        "chuâ",
+        "truyê"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy không gian, hiểu biết vận dụng tốt các quy ước biểu diễn vật thể phù hợp các Tiêu chuẩn quốc gia và quốc tế",
+      "clo_code": "CLO 3_",
+      "bloom_level": 2,
+      "keywords": [
+        "chuâ",
+        "tiêu",
+        "gian",
+        "không"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc. Rèn luyện tác phong khoa học, kiên nhẫn, tỷ mỷ, chính xác của người kỹ sư thiết kế.",
+      "clo_code": "CLO 4_",
+      "bloom_level": 2,
+      "keywords": [
+        "nghiêm",
+        "thái",
+        "ngươ",
+        "khoa",
+        "phong",
+        "thiê",
+        "luyê",
+        "thức",
+        "kiên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu và  có kiến thức cơ bản về cấu tạo, nguyên lý làm việc của các cụm tổng thành  của ô tô và có khả năng thiết kế tối ưu các cụm cơ bản của ô tô.",
+      "clo_code": "CLO 1_AET3217",
+      "bloom_level": 2,
+      "keywords": [
+        "kiến",
+        "hiểu",
+        "việc",
+        "năng",
+        "thức",
+        "thiết",
+        "nguyên",
+        "tổng",
+        "thành"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Vận dụng kiến thức có khả năng tính toán thiết kế các chi tiết, cụm, tổng thành hệ thống thuộc gầm ô tô",
+      "clo_code": "CLO 2_AET3217",
+      "bloom_level": 3,
+      "keywords": [
+        "toán",
+        "tính",
+        "thuộc",
+        "tiết",
+        "dụng",
+        "năng",
+        "thức",
+        "thiết",
+        "thống",
+        "kiến"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Phân tích được cấu tạo, nguyên lý làm việc của các hệ thống, tổng thành; vận dụng được các kiến thức để tính toán, thiết kế một số chi tiết, cụm, tổng thành, hệ thống thuộc gầm ô tô.",
+      "clo_code": "CLO 3_AET3217",
+      "bloom_level": 3,
+      "keywords": [
+        "kiến",
+        "toán",
+        "việc",
+        "tính",
+        "tích",
+        "thuộc",
+        "tiết",
+        "dụng",
+        "phân",
+        "thức"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ cầu thị, nghiêm túc, thực hiện đúng các nội quy, quy chế. Từ đó, hình thành tác phong làm việc chuyên nghiệp.",
+      "clo_code": "CLO 4_AET3217",
+      "bloom_level": 3,
+      "keywords": [
+        "hình",
+        "nghiêm",
+        "nghiệp",
+        "việc",
+        "thái",
+        "chuyên",
+        "đúng",
+        "phong",
+        "thức",
+        "thực"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Nhận biết về cấu tạo của các cơ cấu, hệ thống, tổng thành trên ôtô.",
+      "clo_code": "CLO 1_AET3218",
+      "bloom_level": 2,
+      "keywords": [
+        "trên",
+        "nhận",
+        "biết",
+        "thống",
+        "tổng",
+        "thành"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu được về cấu tạo, nguyên lý làm việc của các hệ thống, cơ cấu, tổng thành trên ôtô",
+      "clo_code": "CLO 2_AET3218",
+      "bloom_level": 2,
+      "keywords": [
+        "trên",
+        "hiểu",
+        "việc",
+        "thống",
+        "nguyên",
+        "tổng",
+        "thành"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Giải thích và lập luận về cấu tạo, nguyên lý làm việc của các cơ cấu, hệ thống, tổng thành trên ôtô.",
+      "clo_code": "CLO 3_AET3218",
+      "bloom_level": 2,
+      "keywords": [
+        "trên",
+        "giải",
+        "luận",
+        "việc",
+        "thống",
+        "thích",
+        "nguyên",
+        "tổng",
+        "thành"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề",
+      "clo_code": "CLO 4_AET3218",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu được các kỹ thuật điện cơ bản",
+      "clo_code": "CLO 1_AET3219",
+      "bloom_level": 2,
+      "keywords": [
+        "thuật",
+        "điện",
+        "hiểu"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Khái quát chung các cơ cấu, hệ thống trang bị điện cơ bản và điều khiển tự động trên xe ô tô.",
+      "clo_code": "CLO 2_AET3219",
+      "bloom_level": 2,
+      "keywords": [
+        "trang",
+        "động",
+        "khái",
+        "quát",
+        "chung",
+        "điều",
+        "khiển",
+        "thống",
+        "điện",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Mô tả được cấu tạo, nguyên lý hoạt động của các cơ cấu, hệ thống  trang bị điện cơ bản trên ô tô.",
+      "clo_code": "CLO 3_AET3219",
+      "bloom_level": 2,
+      "keywords": [
+        "trang",
+        "động",
+        "hoạt",
+        "thống",
+        "điện",
+        "nguyên",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Giải thích được các hiện tượng, nguyên nhân hư hỏng của các cơ cấu, hệ thống trang bị điện- điện tử trên ô tô.  Áp dụng các kiến thức đã học để kiểm tra, sửa chữa các hệ thống điện – điện tử trên  ô tô",
+      "clo_code": "CLO 4_AET3219",
+      "bloom_level": 2,
+      "keywords": [
+        "trang",
+        "giải",
+        "trên",
+        "kiến",
+        "tượng",
+        "dụng",
+        "thức",
+        "nhân",
+        "hỏng",
+        "thống"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Áp dụng các kiến thức đã học để kiểm tra, sửa chữa các hệ thống điện – điện tử trên  ô tô",
+      "clo_code": "CLO 5_AET3219",
+      "bloom_level": 3,
+      "keywords": [
+        "điện",
+        "dụng",
+        "thức",
+        "thống",
+        "chữa",
+        "kiểm",
+        "kiến",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.",
+      "clo_code": "CLO 6_AET3219",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ các nguyên lý cơ bản của chủ nghĩa Mác - Lênin, đường lối cách mạng của Đảng Cộng sản Việt Nam, tư tưởng Hồ Chí Minh; chính sách, pháp luật của Nhà nước.",
+      "clo_code": "CLO1_",
+      "bloom_level": 2,
+      "keywords": [
+        "đảng",
+        "pháp",
+        "đường",
+        "nước",
+        "hiểu",
+        "mạng",
+        "việt",
+        "nghĩa",
+        "tưởng",
+        "chính"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Vận dụng kiến thức về khoa học tự nhiên, xã hội, Ngoại ngữ, tin học vào lĩnh vực chuyên môn, nghề nghiệp.",
+      "clo_code": "CLO2_",
+      "bloom_level": 3,
+      "keywords": [
+        "nghiệp",
+        "chuyên",
+        "lĩnh",
+        "khoa",
+        "dụng",
+        "thức",
+        "nghề",
+        "nhiên",
+        "ngoại",
+        "kiến"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hoàn thành kiến thức Quốc phòng - an ninh và Giáo dục thể chất để tự rèn luyện về tinh thần và thể chất.",
+      "clo_code": "CLO3_",
+      "bloom_level": 2,
+      "keywords": [
+        "luyện",
+        "hoàn",
+        "phòng",
+        "chất",
+        "quốc",
+        "giáo",
+        "tinh",
+        "thức",
+        "ninh",
+        "thần"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực công nghệ kỹ thuật ô tô bằng cách áp dụng các kiến thức khoa học. kỹ thuật, toán học, vật lý.",
+      "clo_code": "CLO4_",
+      "bloom_level": 3,
+      "keywords": [
+        "giải",
+        "toán",
+        "dựng",
+        "lĩnh",
+        "thuật",
+        "công",
+        "bằng",
+        "khoa",
+        "dụng",
+        "năng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Khả năng phát triển và tiến hành thực hành, phân tích, giải thích dữ liệu, sử dụng đánh giá kỹ thuật để đưa ra các kết luận cho các vấn đề chuyên môn trong lĩnh vực công nghệ kỹ thuật ô tô.",
+      "clo_code": "CLO5_",
+      "bloom_level": 2,
+      "keywords": [
+        "tiến",
+        "chuyên",
+        "công",
+        "phân",
+        "thích",
+        "liệu",
+        "đánh",
+        "luận",
+        "tích",
+        "thuật"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Năng lực chuyên môn để có thể tham gia thiết kế, chế tạo, vận hành, bảo trì, bảo dưỡng, sửa chữa ô tô truyền thống, xe ô tô điện và các chi tiết, phụ tùng của ô tô; Định hướng xây dựng các giải pháp công nghệ,\n kỹ thuật cho các lĩnh vực liên quan đến ngành ôtô",
+      "clo_code": "CLO6_",
+      "bloom_level": 6,
+      "keywords": [
+        "dưỡng",
+        "chuyên",
+        "dựng",
+        "công",
+        "ngành",
+        "chữa",
+        "định",
+        "hướng",
+        "thuật",
+        "tiết"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Vận dụng tốt các kỹ năng: giao tiếp, thuyết trình, đàm phán, xác định mục tiêu và lập kế hoạch, xử lý linh hoạt các tình huống trong lĩnh vực chuyên môn.",
+      "clo_code": "CLO7_",
+      "bloom_level": 1,
+      "keywords": [
+        "thuyết",
+        "chuyên",
+        "huống",
+        "lĩnh",
+        "tiêu",
+        "hoạt",
+        "dụng",
+        "năng",
+        "linh",
+        "trình"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp, dự báo, quản lý, dẫn dắt và giải quyết vấn đề trong các hoạt động chuyên môn.",
+      "clo_code": "CLO8_",
+      "bloom_level": 3,
+      "keywords": [
+        "giải",
+        "động",
+        "quản",
+        "phản",
+        "việc",
+        "chuyên",
+        "tích",
+        "hoạt",
+        "năng",
+        "phân"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng được Tiếng Anh cơ bản, tin học văn phòng, tin học ứng dụng trong lĩnh vực chuyên môn.",
+      "clo_code": "CLO9_",
+      "bloom_level": 3,
+      "keywords": [
+        "chuyên",
+        "phòng",
+        "dụng",
+        "tiếng",
+        "lĩnh"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Đọc hiểu và xây dựng được bản vẽ kỹ thuật; Khai thác, vận hành, quản lý; Bảo trì, bảo dưỡng, sửa chữa; Tư vấn, chuyển giao công nghệ về lĩnh vực ngành công nghệ kỹ thuật ô tô.",
+      "clo_code": "CLO10_",
+      "bloom_level": 2,
+      "keywords": [
+        "ngành",
+        "dưỡng",
+        "hiểu",
+        "dựng",
+        "công",
+        "thuật",
+        "khai",
+        "chuyển",
+        "thác",
+        "hành"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Tính toán, lập báo cáo, thuyết trình, phản biện, tổ chức công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm",
+      "clo_code": "CLO11_",
+      "bloom_level": 3,
+      "keywords": [
+        "chức",
+        "thuyết",
+        "phản",
+        "toán",
+        "tính",
+        "công",
+        "việc",
+        "điều",
+        "nhóm",
+        "nhân"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có phẩm chất đạo đức nghề nghiệp, tinh thần học tập nghiêm túc, năng lực nghiên cứu độc lập, tư duy sáng tạo, thích nghi nhanh với sự thay đổi của môi trường, có khả năng định hướng và tìm kiếm cơ hội phát triển nghề nghiệp, thực hiện tốt trách nhiệm công dân.",
+      "clo_code": "CLO12_",
+      "bloom_level": 6,
+      "keywords": [
+        "sáng",
+        "công",
+        "chất",
+        "trường",
+        "nhanh",
+        "nghi",
+        "thích",
+        "định",
+        "thần",
+        "thay"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Nhận biết và hình thành quan điểm nghề nghiệp, Định hướng nghề nghiệp, giúp cho sinh viên hiểu biết về công việc sẽ làm sau khi tốt nghiệp nhằm nâng cao lòng yêu nghề và tinh thần học tập;",
+      "clo_code": "CLO 1_ME2201",
+      "bloom_level": 2,
+      "keywords": [
+        "việc",
+        "công",
+        "sinh",
+        "định",
+        "thần",
+        "thành",
+        "lòng",
+        "hướng",
+        "điểm",
+        "nhận"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu sơ bộ các kiến thức cơ bản liên quan đến ngành công nghệ kỹ thuật ôtô, kiến thức tổng quan về ôtô;",
+      "clo_code": "CLO 2_ME2201",
+      "bloom_level": 2,
+      "keywords": [
+        "hiểu",
+        "công",
+        "thuật",
+        "thức",
+        "nghệ",
+        "quan",
+        "ngành",
+        "kiến",
+        "tổng",
+        "liên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Nắm bắt tốt nội dung chương trình của khóa học giúp sinh viên có thể dễ dàng nắm rõ lộ trình học tập của mình trong quá trình học tại trường.",
+      "clo_code": "CLO 3_ME2201",
+      "bloom_level": 2,
+      "keywords": [
+        "mình",
+        "viên",
+        "giúp",
+        "khóa",
+        "dàng",
+        "trường",
+        "dung",
+        "sinh",
+        "trình",
+        "chương"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực.",
+      "clo_code": "CLO 4_ME2201",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ các khái niệm, các định nghĩa và tính chất cơ bản của các phép chiếu",
+      "clo_code": "CLO 1_",
+      "bloom_level": 1,
+      "keywords": [
+        "hiểu",
+        "tính",
+        "khái",
+        "chất",
+        "phép",
+        "chiếu",
+        "niệm",
+        "định",
+        "nghĩa"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Nắm vững các quy tắc biểu diễn các yếu tố cơ bản trong không gian: Điểm, đường thẳng, mặt phẳng, đường cong và các mặt. Sử dụng nhuần nhuyễn phương pháp hai hình chiếu vuông góc để giải quyết các bài toán về vị trí và các bài toán về lượng",
+      "clo_code": "CLO 2_",
+      "bloom_level": 3,
+      "keywords": [
+        "vững",
+        "đường",
+        "diễn",
+        "lượng",
+        "chiếu",
+        "phẳng",
+        "toán",
+        "điểm",
+        "cong",
+        "gian"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy không gian, vẽ được chính xác các bài toán tìm giao tuyến",
+      "clo_code": "CLO 3_",
+      "bloom_level": 2,
+      "keywords": [
+        "toán",
+        "chính",
+        "tuyến",
+        "giao",
+        "gian",
+        "không"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc. Rèn luyện tác phong khoa học,  kiên nhẫn, tỷ mỷ, chính xác của người kỹ sư thiết kế.",
+      "clo_code": "CLO 4_",
+      "bloom_level": 2,
+      "keywords": [
+        "nghiêm",
+        "thái",
+        "ngươ",
+        "khoa",
+        "phong",
+        "thiê",
+        "luyê",
+        "thức",
+        "kiên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ các khái niệm cơ bản trong AutoCAD, công dụng và các ứng dụng của phần mềm trong vẽ thiết kế",
+      "clo_code": "CLO 1_",
+      "bloom_level": 2,
+      "keywords": [
+        "hiểu",
+        "công",
+        "phần",
+        "khái",
+        "dụng",
+        "thiết",
+        "niệm",
+        "autocad"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Thông thuộc các lệnh vẽ, các lệnh chỉnh sửa, cách tạo Layer, tạo khối Block, tạo mảng Array. Biết hình thành bản vẽ trên các Model và Layout",
+      "clo_code": "CLO 2_",
+      "bloom_level": 2,
+      "keywords": [
+        "layer",
+        "hình",
+        "chỉnh",
+        "lệnh",
+        "thuộc",
+        "khối",
+        "block",
+        "array",
+        "layout",
+        "thông"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có kỹ năng sử dụng máy tính, làm chủ phần mềm thiết kế để hoàn thiện các bản vẽ 2D",
+      "clo_code": "CLO 3_",
+      "bloom_level": 3,
+      "keywords": [
+        "hoàn",
+        "phần",
+        "tính",
+        "dụng",
+        "năng",
+        "thiết",
+        "thiện"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc. Rèn luyện tác phong khoa học, kiên nhẫn, tỷ mỷ, chính xác của người kỹ sư thiết kế.",
+      "clo_code": "CLO 4_",
+      "bloom_level": 2,
+      "keywords": [
+        "nghiêm",
+        "thái",
+        "ngươ",
+        "khoa",
+        "phong",
+        "thiê",
+        "luyê",
+        "thức",
+        "kiên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ các hệ về lực cơ học",
+      "clo_code": "CLO 1_ME2205",
+      "bloom_level": 2,
+      "keywords": [
+        "hiểu"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn tính toán xây dựng mô hình lực và cân bằng lực để giải quyết bài toán về lực",
+      "clo_code": "CLO 2_ME2205",
+      "bloom_level": 3,
+      "keywords": [
+        "hình",
+        "giải",
+        "toán",
+        "dựng",
+        "tính",
+        "bằng",
+        "dụng",
+        "chọn",
+        "quyết"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy phân tích và tính toán, thiết kế các tham số kỹ thuật của bài toán cơ học, tĩnh học, động học và động lực học",
+      "clo_code": "CLO 3_ME2205",
+      "bloom_level": 3,
+      "keywords": [
+        "động",
+        "toán",
+        "tĩnh",
+        "tính",
+        "tích",
+        "thuật",
+        "phân",
+        "tham",
+        "thiết"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_ME2205",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ và mô tả được nguyên lý cấu tạo, động học và động lực học của cơ cấu và máy",
+      "clo_code": "CLO 1_ME2253",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "nguyên",
+        "hiểu"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn đúng cơ cấu máy phù hợp với nguyên lý và khả năng làm việc",
+      "clo_code": "CLO 2_ME2253",
+      "bloom_level": 3,
+      "keywords": [
+        "việc",
+        "đúng",
+        "dụng",
+        "năng",
+        "chọn",
+        "nguyên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy phân tích, tính toán, thiết kế và tổng hợp một số cơ cấu máy (động học, động lực học, cơ cấu cam, hệ bánh răng)",
+      "clo_code": "CLO 3_ME2253",
+      "bloom_level": 6,
+      "keywords": [
+        "động",
+        "toán",
+        "tính",
+        "tích",
+        "bánh",
+        "răng",
+        "phân",
+        "thiết",
+        "tổng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_ME2253",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ được các thông số kỹ thuật của chi tiết máy",
+      "clo_code": "CLO 1_ME2208",
+      "bloom_level": 2,
+      "keywords": [
+        "thuật",
+        "tiết",
+        "thông",
+        "hiểu"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn đúng các thông số kỹ thuật của chi tiết máy",
+      "clo_code": "CLO 2_ME2208",
+      "bloom_level": 3,
+      "keywords": [
+        "thuật",
+        "đúng",
+        "tiết",
+        "dụng",
+        "thông",
+        "chọn"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy tính toán, thiết kế được một chi tiết máy cụ thể",
+      "clo_code": "CLO 3_ME2208",
+      "bloom_level": 3,
+      "keywords": [
+        "thiết",
+        "toán",
+        "tiết",
+        "tính"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_ME2208",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ được các kiến thức đã học để có thể áp dụng vào thực tế",
+      "clo_code": "CLO 1_ME2254",
+      "bloom_level": 2,
+      "keywords": [
+        "hiểu",
+        "dụng",
+        "thức",
+        "thực",
+        "kiến"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn đúng các thông số kỹ thuật của chi tiết máy, cơ cấu máy",
+      "clo_code": "CLO 2_ME2254",
+      "bloom_level": 3,
+      "keywords": [
+        "thuật",
+        "đúng",
+        "tiết",
+        "dụng",
+        "thông",
+        "chọn"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy tính toán, thiết kế đảm bảo các yêu cầu kỹ thuật của một số cơ cấu máy theo yêu cầu",
+      "clo_code": "CLO 3_ME2254",
+      "bloom_level": 3,
+      "keywords": [
+        "toán",
+        "tính",
+        "thuật",
+        "theo",
+        "thiết"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_ME2254",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ được các kích thước, dung sai kích thước chi tiết, nguyên lý cấu tạo các loại dụng cụ đo",
+      "clo_code": "CLO 1_ME2255",
+      "bloom_level": 2,
+      "keywords": [
+        "nguyên",
+        "hiểu",
+        "tiết",
+        "dụng",
+        "dung",
+        "loại",
+        "thước",
+        "kích"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn đúng các kích thước, dung sai kích thước để áp dụng giải các bài toán liên quan đến kích thước. Biết sử dụng các dụng cụ đo cơ bản, bảo quản đúng cách các dụng cụ đo",
+      "clo_code": "CLO 2_ME2255",
+      "bloom_level": 3,
+      "keywords": [
+        "giải",
+        "toán",
+        "đúng",
+        "dụng",
+        "dung",
+        "quan",
+        "chọn",
+        "biết",
+        "thước",
+        "cách"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy tính toán giải các bài toán về lắp ghép,  xây dựng chuỗi kích thước và đo được hình dạng các chi tiết",
+      "clo_code": "CLO 3_ME2255",
+      "bloom_level": 3,
+      "keywords": [
+        "giải",
+        "hình",
+        "toán",
+        "dựng",
+        "tính",
+        "chuỗi",
+        "tiết",
+        "ghép",
+        "thước",
+        "dạng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_ME2255",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ được mối quan hệ giữa cấu trúc và các tính chất của vật liệu",
+      "clo_code": "CLO 1_ME2259",
+      "bloom_level": 2,
+      "keywords": [
+        "hiểu",
+        "tính",
+        "chất",
+        "trúc",
+        "liệu",
+        "quan",
+        "giữa"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn được vật liệu hiệu quả trong công việc từ thiết kế, tính toán gia công, lắp ráp, vận hành",
+      "clo_code": "CLO 2_ME2259",
+      "bloom_level": 3,
+      "keywords": [
+        "hiệu",
+        "toán",
+        "việc",
+        "công",
+        "tính",
+        "dụng",
+        "thiết",
+        "hành",
+        "chọn",
+        "liệu"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy phân tích được quá trình thay đổi cấu trúc, trạng thái, tính chất của vật liệu khi có tác dụng của nhiệt độ, áp lực của nhiệt luyện",
+      "clo_code": "CLO 3_ME2259",
+      "bloom_level": 4,
+      "keywords": [
+        "trạng",
+        "thay",
+        "thái",
+        "tích",
+        "tính",
+        "chất",
+        "trúc",
+        "dụng",
+        "nhiệt",
+        "phân"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_ME2259",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ được các phương pháp gia công nóng và gia công cắt gọt kim loại",
+      "clo_code": "CLO 1_ME2212",
+      "bloom_level": 2,
+      "keywords": [
+        "pháp",
+        "hiểu",
+        "công",
+        "phương",
+        "nóng",
+        "loại"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn được vật liệu dùng trong gia công cơ khí và chế độ gia công phù hợp kèm theo",
+      "clo_code": "CLO 2_ME2212",
+      "bloom_level": 3,
+      "keywords": [
+        "công",
+        "dụng",
+        "theo",
+        "dùng",
+        "chọn",
+        "liệu"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy phân tích được các quá trình gia công kim loại (không tạo phoi và tạo phoi)",
+      "clo_code": "CLO 3_ME2212",
+      "bloom_level": 4,
+      "keywords": [
+        "phoi",
+        "công",
+        "tích",
+        "phân",
+        "loại",
+        "trình",
+        "không"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_ME2212",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ được kết cấu và nguyên lý của các hệ thống thủy lực và khí nén",
+      "clo_code": "CLO 1_ME2257",
+      "bloom_level": 2,
+      "keywords": [
+        "thống",
+        "thủy",
+        "nguyên",
+        "hiểu"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn đúng cơ cấu thủy lực và khí nén phù hợp với yêu cầu của thực tế",
+      "clo_code": "CLO 2_ME2257",
+      "bloom_level": 3,
+      "keywords": [
+        "đúng",
+        "dụng",
+        "chọn",
+        "thực",
+        "thủy"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy tính toán, thiết kế, lắp đặt, vận hành hệ thống thủy lực và khí nén",
+      "clo_code": "CLO 3_ME2257",
+      "bloom_level": 3,
+      "keywords": [
+        "toán",
+        "tính",
+        "hành",
+        "thiết",
+        "thống",
+        "thủy"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_ME2257",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ thế nào mạch điện ( 1 pha, 3 pha, các cách mắc nối trong mạch)",
+      "clo_code": "CLO 1_",
+      "bloom_level": 2,
+      "keywords": [
+        "điện",
+        "cách",
+        "mạch",
+        "hiểu"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng kiến thức mạch điện áp dụng điều khiển động cơ điện",
+      "clo_code": "CLO 2_",
+      "bloom_level": 3,
+      "keywords": [
+        "kiến",
+        "động",
+        "điều",
+        "mạch",
+        "dụng",
+        "thức",
+        "khiển",
+        "điện"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy tổng quan về mạch điện, động cơ điện",
+      "clo_code": "CLO 3_",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "mạch",
+        "quan",
+        "điện",
+        "tổng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có kiến thức tổng quan về Diode bán dẫn, nguồn cung cấp.",
+      "clo_code": "CLO 1_",
+      "bloom_level": 2,
+      "keywords": [
+        "nguồn",
+        "diode",
+        "thức",
+        "cung",
+        "quan",
+        "kiến",
+        "tổng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có kiến thức về cấu tạo, nguyên lý hoạt động của Transistor lưỡng cực; Có kiến thức về cấu tạo nguyên tắc hoạt động của mạch khuếch đại thuật toán OP AMP.",
+      "clo_code": "CLO 2_",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "kiến",
+        "toán",
+        "thuật",
+        "lưỡng",
+        "hoạt",
+        "mạch",
+        "khuếch",
+        "transistor",
+        "thức"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Các kiến thức tổng quan về mạch số ( cổng logic, định lý, các phép toán logic .. ).",
+      "clo_code": "CLO 3_",
+      "bloom_level": 2,
+      "keywords": [
+        "cổng",
+        "toán",
+        "mạch",
+        "phép",
+        "thức",
+        "logic",
+        "quan",
+        "định",
+        "kiến",
+        "tổng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hướng dẫn sử dụng các thiết bị, nguyên tắc an toàn lao động trong phòng thực hành",
+      "clo_code": "CLO 1_ME2258",
+      "bloom_level": 3,
+      "keywords": [
+        "động",
+        "thực",
+        "hướng",
+        "phòng",
+        "dụng",
+        "thiết",
+        "hành",
+        "toàn",
+        "nguyên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Thực hành nhận biết, đo kiểm mạch điện, diode, Transistor, nguồn; Thực hành khảo sát cổng logic, giải mã và mã hoá logic",
+      "clo_code": "CLO 2_ME2258",
+      "bloom_level": 2,
+      "keywords": [
+        "nguồn",
+        "giải",
+        "diode",
+        "cổng",
+        "nhận",
+        "mạch",
+        "transistor",
+        "khảo",
+        "hành",
+        "biết"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Phân tích các lỗi sai, hỏng hóc và cách khắc phục trên các mạch điện ô tô",
+      "clo_code": "CLO 3_ME2258",
+      "bloom_level": 4,
+      "keywords": [
+        "tích",
+        "phục",
+        "mạch",
+        "phân",
+        "khắc",
+        "hỏng",
+        "cách",
+        "điện",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_ME2258",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ được những vấn đề liên quan về môi chất",
+      "clo_code": "CLO 1_TET2213",
+      "bloom_level": 2,
+      "keywords": [
+        "hiểu",
+        "những",
+        "chất",
+        "quan",
+        "liên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn được một chu trình nhiệt động phù hợp, đúng phương thức truyền nhiệt (dẫn nhiệt, trao đổi nhiệt đối lưu, trao đổi nhiệt bức xạ)",
+      "clo_code": "CLO 2_TET2213",
+      "bloom_level": 3,
+      "keywords": [
+        "động",
+        "trao",
+        "phương",
+        "đúng",
+        "nhiệt",
+        "dụng",
+        "thức",
+        "trình",
+        "chọn",
+        "truyền"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy tính toán được hệ số truyền nhiệt và tính được sơ bộ diện tích thiết bị trao đổi nhiệt",
+      "clo_code": "CLO 3_TET2213",
+      "bloom_level": 3,
+      "keywords": [
+        "toán",
+        "trao",
+        "tính",
+        "tích",
+        "diện",
+        "nhiệt",
+        "thiết",
+        "truyền"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_TET2213",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ được đặc điểm và lợi ích khi sử dụng CAE",
+      "clo_code": "CLO 1_ME2256",
+      "bloom_level": 2,
+      "keywords": [
+        "điểm",
+        "hiểu",
+        "dụng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn đúng phương pháp phân tích, xây dựng mô hình CAE",
+      "clo_code": "CLO 2_ME2256",
+      "bloom_level": 3,
+      "keywords": [
+        "pháp",
+        "hình",
+        "dựng",
+        "tích",
+        "phương",
+        "đúng",
+        "dụng",
+        "phân",
+        "chọn"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy tính toán, thiết kế, mô phỏng hoạt động của sản phẩm",
+      "clo_code": "CLO 3_ME2256",
+      "bloom_level": 3,
+      "keywords": [
+        "động",
+        "toán",
+        "tính",
+        "hoạt",
+        "thiết",
+        "phỏng",
+        "phẩm"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_ME2256",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ các kỹ thuật lập trình ngôn ngữ cho hệ PLC trên nền ngôn ngữ lập trình cơ bản",
+      "clo_code": "CLO 1_ME3234",
+      "bloom_level": 2,
+      "keywords": [
+        "hiểu",
+        "thuật",
+        "ngôn",
+        "trình",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn đúng các phương thức tính toán, thiết kế hệ thống điều khiển logic và điều khiển quá trình kỹ thuật",
+      "clo_code": "CLO 2_ME3234",
+      "bloom_level": 3,
+      "keywords": [
+        "toán",
+        "tính",
+        "phương",
+        "thuật",
+        "đúng",
+        "điều",
+        "dụng",
+        "thức",
+        "thiết",
+        "khiển"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy phân tích và sử dụng phần mềm lập trình và mô phỏng PLC",
+      "clo_code": "CLO 3_ME3234",
+      "bloom_level": 3,
+      "keywords": [
+        "phần",
+        "tích",
+        "dụng",
+        "phân",
+        "phỏng",
+        "trình"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_ME3234",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ được vai trò của công tác an toàn trong lao động và môi trường công nghiệp",
+      "clo_code": "CLO 1_ME3260",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "nghiệp",
+        "hiểu",
+        "công",
+        "trường",
+        "toàn"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn được các phương án phù hợp liên quan đến an toàn lao động tại nơi làm việc",
+      "clo_code": "CLO 2_ME3260",
+      "bloom_level": 3,
+      "keywords": [
+        "động",
+        "việc",
+        "phương",
+        "dụng",
+        "quan",
+        "chọn",
+        "toàn",
+        "liên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy tính toán, phòng tránh được các tai nạn liên quan đến an toàn lao động trong sản xuất thực tế",
+      "clo_code": "CLO 3_ME3260",
+      "bloom_level": 3,
+      "keywords": [
+        "động",
+        "xuất",
+        "thực",
+        "toán",
+        "phòng",
+        "tính",
+        "quan",
+        "toàn",
+        "tránh",
+        "liên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_ME3260",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu và phân tích được các loại động cơ đốt trong và nguyên lý làm việc của động cơ;",
+      "clo_code": "CLO 1_AET3261",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "hiểu",
+        "việc",
+        "tích",
+        "phân",
+        "loại",
+        "nguyên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Phân tích được đồ thị công, đồ thi pha phối khí của động cơ đốt trong. Tính toán, xây dựng được các biểu thức, đồ thị biểu diễn quy luật dịch chuyển của cơ cấu trục khuỷu - thanh truyền.",
+      "clo_code": "CLO 2_AET3261",
+      "bloom_level": 3,
+      "keywords": [
+        "động",
+        "trục",
+        "khuỷu",
+        "toán",
+        "thanh",
+        "công",
+        "tích",
+        "tính",
+        "dựng",
+        "diễn"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Nắm được cấu tạo cụ thể các chi tiết trong các cơ cấu các hệ thống của động cơ đốt trong. Nguyên tắc hoạt động của cơ cấu, hệ thống.",
+      "clo_code": "CLO 3_AET3261",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "tiết",
+        "hoạt",
+        "thống",
+        "nguyên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề",
+      "clo_code": "CLO 4_AET3261",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu được động học, động lực học bánh xe ô, xác định lực cản, cân bằng lực và công suất khi ô tô di chuyển",
+      "clo_code": "CLO 1_AET3262",
+      "bloom_level": 1,
+      "keywords": [
+        "động",
+        "hiểu",
+        "công",
+        "chuyển",
+        "bằng",
+        "bánh",
+        "suất",
+        "định"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Tính toán sức kéo ô tô trong điều kiện cho trước",
+      "clo_code": "CLO 2_AET3262",
+      "bloom_level": 3,
+      "keywords": [
+        "kiện",
+        "toán",
+        "tính",
+        "điều",
+        "trước"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Tính toán tính ổn định, kinh tế và khả năng thông qua của xe",
+      "clo_code": "CLO 3_AET3262",
+      "bloom_level": 3,
+      "keywords": [
+        "kinh",
+        "toán",
+        "tính",
+        "năng",
+        "thông",
+        "định"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ cầu thị, nghiêm túc, thực hiện đúng các nội quy, quy chế. Từ đó, hình thành tác phong làm việc chuyên nghiệp.",
+      "clo_code": "CLO 4_AET3262",
+      "bloom_level": 3,
+      "keywords": [
+        "hình",
+        "nghiêm",
+        "nghiệp",
+        "việc",
+        "thái",
+        "chuyên",
+        "đúng",
+        "phong",
+        "thức",
+        "thực"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu và tính toán được chu trình công tác, động học và động lực học, kiểm nghiệm bền các chi tiết cơ bản của động cơ.",
+      "clo_code": "CLO 1_AET3216",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "toán",
+        "hiểu",
+        "công",
+        "tính",
+        "tiết",
+        "trình",
+        "nghiệm",
+        "kiểm"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Tổng hợp, xây dựng các bản vẽ theo tiêu chuẩn",
+      "clo_code": "CLO 2_AET3216",
+      "bloom_level": 6,
+      "keywords": [
+        "chuẩn",
+        "dựng",
+        "tiêu",
+        "theo",
+        "tổng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng thuyết trình, bảo vệ đồ án",
+      "clo_code": "CLO 3_AET3216",
+      "bloom_level": 2,
+      "keywords": [
+        "năng",
+        "thuyết",
+        "trình"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ: Lập luận, phân tích và giải quyết các vấn đề kỹ thuật.",
+      "clo_code": "CLO 4_AET3216",
+      "bloom_level": 3,
+      "keywords": [
+        "hình",
+        "luận",
+        "giải",
+        "nghiệp",
+        "chuyên",
+        "tích",
+        "chất",
+        "thuật",
+        "năng",
+        "phân"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ cơ sở lý thuyết về chẩn đoán kỹ thuật ô tô, công nghệ chẩn đoán, công tác kiểm định kỹ thuật ô tô ở Việt Nam",
+      "clo_code": "CLO 1_AET3221",
+      "bloom_level": 2,
+      "keywords": [
+        "đoán",
+        "thuyết",
+        "chẩn",
+        "hiểu",
+        "công",
+        "thuật",
+        "việt",
+        "nghệ",
+        "kiểm",
+        "định"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn các loại thiết bị chẩn đoán phù hợp dùng trong chẩn đoán và kiểm định kỹ thuật ô tô",
+      "clo_code": "CLO 2_AET3221",
+      "bloom_level": 3,
+      "keywords": [
+        "đoán",
+        "chẩn",
+        "thuật",
+        "dụng",
+        "loại",
+        "thiết",
+        "dùng",
+        "chọn",
+        "kiểm",
+        "định"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy tổng hợp để có thể thực hiện quy trình công nghệ kiểm định kỹ thuật ô tô",
+      "clo_code": "CLO 3_AET3221",
+      "bloom_level": 3,
+      "keywords": [
+        "công",
+        "tổng",
+        "thuật",
+        "nghệ",
+        "trình",
+        "thực",
+        "kiểm",
+        "định",
+        "hiện"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.",
+      "clo_code": "CLO 4_AET3221",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ cách thức sửa chữa và bảo dưỡng ô tô",
+      "clo_code": "CLO 1_AET3222",
+      "bloom_level": 2,
+      "keywords": [
+        "dưỡng",
+        "hiểu",
+        "thức",
+        "chữa",
+        "cách"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn được quy trình công nghệ bảo dưỡng, sửa chữa các hệ thống, tổng thành cho từng loại xe khác nhau.",
+      "clo_code": "CLO 2_AET3222",
+      "bloom_level": 3,
+      "keywords": [
+        "khác",
+        "dưỡng",
+        "công",
+        "dụng",
+        "nhau",
+        "loại",
+        "nghệ",
+        "trình",
+        "chọn",
+        "thống"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy về sửa chữa bảo dưỡng xe, các phương pháp nâng cao thuổi thọ và tuổi bền của xe",
+      "clo_code": "CLO 3_AET3222",
+      "bloom_level": 2,
+      "keywords": [
+        "pháp",
+        "tuổi",
+        "dưỡng",
+        "phương",
+        "chữa",
+        "nâng",
+        "thuổi"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.",
+      "clo_code": "CLO 4_AET3222",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu và tính toán được các cơ cấu, hệ thống cơ bản của gầm ô tô.",
+      "clo_code": "CLO 1_AET3217",
+      "bloom_level": 2,
+      "keywords": [
+        "thống",
+        "toán",
+        "hiểu",
+        "tính"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Tổng hợp, xây dựng các bản vẽ theo tiêu chuẩn",
+      "clo_code": "CLO 2_AET3217",
+      "bloom_level": 6,
+      "keywords": [
+        "chuẩn",
+        "dựng",
+        "tiêu",
+        "theo",
+        "tổng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng thuyết trình, bảo vệ đồ án",
+      "clo_code": "CLO 3_AET3217",
+      "bloom_level": 2,
+      "keywords": [
+        "năng",
+        "thuyết",
+        "trình"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ: Lập luận, phân tích và giải quyết các vấn đề kỹ thuật.",
+      "clo_code": "CLO 4_AET3217",
+      "bloom_level": 3,
+      "keywords": [
+        "hình",
+        "luận",
+        "giải",
+        "nghiệp",
+        "chuyên",
+        "tích",
+        "chất",
+        "thuật",
+        "năng",
+        "phân"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Mô tả các cơ cấu, hệ thống cơ điện tử trên ô tô, nguyên lý hoạt động của các cơ cấu, hệ thống cơ điện tử ôtô.",
+      "clo_code": "CLO 1_AET3224",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "hoạt",
+        "thống",
+        "điện",
+        "nguyên",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Tính toán giải thích  các hiện tượng, nguyên nhân hư hỏng của các cơ cấu, hệ thống cơ điện tử ôtô",
+      "clo_code": "CLO 2_AET3224",
+      "bloom_level": 2,
+      "keywords": [
+        "giải",
+        "toán",
+        "tượng",
+        "tính",
+        "nhân",
+        "hỏng",
+        "thống",
+        "thích",
+        "điện",
+        "nguyên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Áp dụng các kiến thức đã học để kiểm tra, sửa chữa các hệ thống cơ điện tử ô tô",
+      "clo_code": "CLO 3_AET3224",
+      "bloom_level": 3,
+      "keywords": [
+        "điện",
+        "dụng",
+        "thức",
+        "thống",
+        "chữa",
+        "kiểm",
+        "kiến"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề",
+      "clo_code": "CLO 4_AET3224",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ về cấu tạo, các bộ phận chính trên ô tô điện, hiểu rõ về pin và hệ thống điều khiển trên ô tô điện",
+      "clo_code": "CLO 1_",
+      "bloom_level": 2,
+      "keywords": [
+        "hiểu",
+        "điều",
+        "chính",
+        "khiển",
+        "thống",
+        "phận",
+        "điện",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn các công cụ để tính toán lựa chọn động lực học xe điện, tính toán về pin, quãng đường xe đi được",
+      "clo_code": "CLO 2_",
+      "bloom_level": 3,
+      "keywords": [
+        "động",
+        "đường",
+        "toán",
+        "công",
+        "tính",
+        "quãng",
+        "dụng",
+        "chọn",
+        "điện"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy về bộ điều khiển của xe điện, xây dụng bộ điều khiển dựa trên những công cụ phần mềm matlap",
+      "clo_code": "CLO 3_",
+      "bloom_level": 2,
+      "keywords": [
+        "matlap",
+        "phần",
+        "những",
+        "công",
+        "điều",
+        "dụng",
+        "khiển",
+        "điện",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.",
+      "clo_code": "CLO 4_",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Giải thích được sự ảnh hưởng của dụng cụ cắt, vật liệu gia công đến chất lượng bề mặt chi tiết.",
+      "clo_code": "CLO 1_ME3270",
+      "bloom_level": 2,
+      "keywords": [
+        "giải",
+        "công",
+        "chất",
+        "hưởng",
+        "lượng",
+        "tiết",
+        "dụng",
+        "thích",
+        "liệu"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng các kiến thức đã học để đọc bản vẽ chi tiết; phân tích chi tiết đưa được ra quy trình công nghệ; xác định được các dạng sai hỏng trong gia công nguội nguyên nhân và biện pháp khắc phục",
+      "clo_code": "CLO 2_ME3270",
+      "bloom_level": 1,
+      "keywords": [
+        "công",
+        "phân",
+        "thức",
+        "hỏng",
+        "dạng",
+        "định",
+        "tích",
+        "nguội",
+        "tiết",
+        "trình"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng thành thạo các dụng cụ cầm tay, các dụng cụ đo kiểm để gia công nguội và để kiểm tra sản phẩm cơ khí theo các tiêu chuẩn kỹ thuật",
+      "clo_code": "CLO 3_ME3270",
+      "bloom_level": 3,
+      "keywords": [
+        "chuẩn",
+        "công",
+        "nguội",
+        "thuật",
+        "tiêu",
+        "dụng",
+        "theo",
+        "thạo",
+        "phẩm",
+        "kiểm"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Lựa chọn được phương pháp gia công thích hợp để đạt được các chỉ tiêu yêu cầu kỹ thuật",
+      "clo_code": "CLO 4_ME3270",
+      "bloom_level": 2,
+      "keywords": [
+        "pháp",
+        "công",
+        "phương",
+        "thuật",
+        "tiêu",
+        "chọn",
+        "thích"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kiểm tra, phát hiện và đưa ra biện pháp khắc phục được các dạng sai hỏng khi gia công nguội",
+      "clo_code": "CLO 5_ME3270",
+      "bloom_level": 4,
+      "keywords": [
+        "pháp",
+        "công",
+        "nguội",
+        "phục",
+        "dạng",
+        "khắc",
+        "hỏng",
+        "kiểm",
+        "biện",
+        "phát"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sửa chữa được các dụng cụ gia công bằng tay",
+      "clo_code": "CLO 6_ME3270",
+      "bloom_level": 2,
+      "keywords": [
+        "bằng",
+        "chữa",
+        "công",
+        "dụng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Rèn luyện tính cẩn thận, tự giác, nghiêm túc, trong công việc.",
+      "clo_code": "CLO 7_ME3270",
+      "bloom_level": 2,
+      "keywords": [
+        "nghiêm",
+        "giác",
+        "việc",
+        "tính",
+        "công",
+        "thận",
+        "luyện"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Vận dụng kiến thức khoa học tự nhiên để tính toán, lựa chọn chế độ hàn cho phù hợp.",
+      "clo_code": "CLO 1_ME3271",
+      "bloom_level": 3,
+      "keywords": [
+        "toán",
+        "tính",
+        "khoa",
+        "dụng",
+        "thức",
+        "chọn",
+        "nhiên",
+        "kiến"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng các kiến thức đã học để đọc bản vẽ kết cấu hàn; phân tích vật liệu hàn; chuẩn bị thiết bị, phôi liệu hàn; các vị trí hàn, kết cấu hàn; phát hiện được khuyết tật mối hàn.",
+      "clo_code": "CLO 2_ME3271",
+      "bloom_level": 3,
+      "keywords": [
+        "phát",
+        "chuẩn",
+        "tích",
+        "phôi",
+        "dụng",
+        "phân",
+        "khuyết",
+        "thức",
+        "thiết",
+        "liệu"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Chuẩn bị, kiểm tra được tình trạng của thiết bị, dụng cụ, vật liệu hàn cho phù hợp với từng phương pháp hàn.",
+      "clo_code": "CLO 3_ME3271",
+      "bloom_level": 4,
+      "keywords": [
+        "pháp",
+        "trạng",
+        "chuẩn",
+        "phương",
+        "liệu",
+        "dụng",
+        "thiết",
+        "từng",
+        "tình",
+        "kiểm"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Tính toán, lựa chọn và điều chỉnh được chế độ hàn cho phương pháp hàn điện hồ quang tay.",
+      "clo_code": "CLO 4_ME3271",
+      "bloom_level": 3,
+      "keywords": [
+        "pháp",
+        "chỉnh",
+        "toán",
+        "tính",
+        "phương",
+        "điều",
+        "quang",
+        "chọn",
+        "điện"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hàn được các mối hàn bằng giáp mối, hàn bằng lấp góc trên máy hàn điện hồ quang tay, đảm bảo yêu cầu kỹ thuật.",
+      "clo_code": "CLO 5_ME3271",
+      "bloom_level": 2,
+      "keywords": [
+        "giáp",
+        "thuật",
+        "bằng",
+        "quang",
+        "điện",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kiểm tra, phát hiện và đưa ra biện pháp khắc phục được các dạng khuyết tật mối hàn.",
+      "clo_code": "CLO 6_ME3271",
+      "bloom_level": 4,
+      "keywords": [
+        "pháp",
+        "phục",
+        "dạng",
+        "khuyết",
+        "khắc",
+        "kiểm",
+        "biện",
+        "phát",
+        "hiện"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Rèn luyện tính cẩn thận, tự giác, nghiêm túc, trong công việc hàn.",
+      "clo_code": "CLO 7_ME3271",
+      "bloom_level": 2,
+      "keywords": [
+        "nghiêm",
+        "giác",
+        "việc",
+        "tính",
+        "công",
+        "thận",
+        "luyện"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Trình bày và hiểu được các kiến thức về quy trình bảo dưỡng kỹ thuật, tháo lắp cơ cấu, hệ thống và sửa chữa động cơ;",
+      "clo_code": "CLO 1_ME3263",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "dưỡng",
+        "hiểu",
+        "thuật",
+        "thức",
+        "trình",
+        "thống",
+        "tháo",
+        "chữa",
+        "kiến"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Thực hành kỹ thuật về bảo dưỡng và sửa chữa động cơ",
+      "clo_code": "CLO 2_ME3263",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "dưỡng",
+        "thuật",
+        "hành",
+        "thực",
+        "chữa"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Giải thích và lập được quy trình về kiểm tra bảo dưỡng sữa chữa động cơ. Sử dụng và lựa chọn các trang thiết bị chuyên dụng để chẩn đoán, bảo dưỡng, sửa chữa động cơ",
+      "clo_code": "CLO 3_ME3263",
+      "bloom_level": 2,
+      "keywords": [
+        "trang",
+        "giải",
+        "động",
+        "dưỡng",
+        "đoán",
+        "chuyên",
+        "chẩn",
+        "dụng",
+        "thiết",
+        "trình"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề",
+      "clo_code": "CLO 4_ME3263",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Nắm chắc, phân tích được chức năng, kết cấu, lắp ráp, tình hình làm việc, hoạt động của các cụm, hệ thống, cơ cấu trên xe ô tô",
+      "clo_code": "CLO 1_",
+      "bloom_level": 4,
+      "keywords": [
+        "hình",
+        "động",
+        "chức",
+        "việc",
+        "tích",
+        "hoạt",
+        "năng",
+        "phân",
+        "thống",
+        "tình"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Phân thích được các hiện tượng, nguyên nhân hư hỏng các cụm, hệ thống, cơ cấu trên xe ô tô",
+      "clo_code": "CLO 2_",
+      "bloom_level": 2,
+      "keywords": [
+        "trên",
+        "tượng",
+        "phân",
+        "nhân",
+        "hỏng",
+        "thống",
+        "thích",
+        "nguyên",
+        "hiện"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Áp dụng các kiến thức đã học để chẩn đoán, kiểm tra, bảo dưỡng, sửa chữa các cụm, hệ thống, cơ cấu trên xe ô tô.",
+      "clo_code": "CLO 3_",
+      "bloom_level": 3,
+      "keywords": [
+        "đoán",
+        "dưỡng",
+        "chẩn",
+        "dụng",
+        "thức",
+        "thống",
+        "chữa",
+        "kiểm",
+        "kiến",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề",
+      "clo_code": "CLO 4_",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Mô tả được phương pháp tổ chức, quản lý điều hành; bố trí vận hành trang thiết bị, cơ sở vật chất của  các cơ sở kinh doanh, dịch vụ bảo dưỡng, sửa chữa.",
+      "clo_code": "CLO 1_",
+      "bloom_level": 4,
+      "keywords": [
+        "trang",
+        "pháp",
+        "chức",
+        "kinh",
+        "dưỡng",
+        "doanh",
+        "phương",
+        "chất",
+        "điều",
+        "hành"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Áp dụng các kiến thức đã học để chẩn đoán, kiểm tra, bảo dưỡng, sửa chữa các cụm, hệ thống, cơ cấu trên xe ô tô; sử dụng được dụng cụ, thiết bị đúng yêu cầu; thực hiện được các biện pháp an toàn và vệ sinh công nghiệp.",
+      "clo_code": "CLO 2_",
+      "bloom_level": 3,
+      "keywords": [
+        "đoán",
+        "dưỡng",
+        "công",
+        "đúng",
+        "thức",
+        "sinh",
+        "chữa",
+        "thống",
+        "toàn",
+        "kiểm"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Tổng hợp được các kiến thức lý thuyết, thực tế thu nhập được để hoàn thành các nội dung trong báo cáo thực tập; làm cơ sở lựa chọn đề tài tốt nghiệp, nội dung thực tâp tốt nghiệp.",
+      "clo_code": "CLO 3_",
+      "bloom_level": 6,
+      "keywords": [
+        "thuyết",
+        "hoàn",
+        "nghiệp",
+        "nhập",
+        "dung",
+        "thức",
+        "chọn",
+        "thực",
+        "kiến",
+        "tổng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có phẩm chất đạo đức nghề nghiệp, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp trong bảo dưỡng, sửa chữa ô tô.",
+      "clo_code": "CLO 4_",
+      "bloom_level": 6,
+      "keywords": [
+        "sáng",
+        "dưỡng",
+        "nghiệp",
+        "thay",
+        "việc",
+        "công",
+        "hướng",
+        "chất",
+        "kiếm",
+        "trường"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ chức năng, cấu tạo hoạt động các trang bị điện điện tử trên ô tô",
+      "clo_code": "CLO 1_ME3266",
+      "bloom_level": 2,
+      "keywords": [
+        "trang",
+        "động",
+        "chức",
+        "hiểu",
+        "hoạt",
+        "năng",
+        "điện",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Tháo lắp, bảo dưỡng kiểm tra các cụm chi tiết của hệ thống điện động cơ, điện thân xe.",
+      "clo_code": "CLO 2_ME3266",
+      "bloom_level": 4,
+      "keywords": [
+        "động",
+        "dưỡng",
+        "điện",
+        "tiết",
+        "thân",
+        "thống",
+        "kiểm",
+        "tháo"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có thể sử dụng thiết bị chuyên dùng để chấn đoán hư hỏng các thiết bị điện trên ô tô.",
+      "clo_code": "CLO 3_ME3266",
+      "bloom_level": 3,
+      "keywords": [
+        "đoán",
+        "chuyên",
+        "dụng",
+        "thiết",
+        "dùng",
+        "hỏng",
+        "chấn",
+        "điện",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề",
+      "clo_code": "CLO 4_ME3266",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ cấu tạo và nguyên lý của hệ thống điều hòa không khí trên ô t.ô",
+      "clo_code": "CLO 1_ME3267",
+      "bloom_level": 2,
+      "keywords": [
+        "trên",
+        "hiểu",
+        "điều",
+        "thống",
+        "nguyên",
+        "không"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn các trang thiết bị chuyên dung để chẩn đoán, bảo dưỡng, sửa chữa hệ thống điều hòa không khí trên ô tô",
+      "clo_code": "CLO 2_ME3267",
+      "bloom_level": 3,
+      "keywords": [
+        "trang",
+        "đoán",
+        "trên",
+        "dưỡng",
+        "chuyên",
+        "chẩn",
+        "điều",
+        "dụng",
+        "dung",
+        "thiết"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy về việc cải tiến, nâng cao tuổi bền sử dụng cho các vật tư thiết bị hệ thống điều hòa không khí trên ô tô.",
+      "clo_code": "CLO 3_ME3267",
+      "bloom_level": 3,
+      "keywords": [
+        "trên",
+        "tuổi",
+        "việc",
+        "tiến",
+        "điều",
+        "dụng",
+        "thiết",
+        "thống",
+        "không",
+        "nâng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.",
+      "clo_code": "CLO 4_ME3267",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ chức năng, cấu tạo, nguyên lý của các thiết bị đo chuyên dùng trong ô tô,  khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực sửa chữa ô tô",
+      "clo_code": "CLO 1_ME3268",
+      "bloom_level": 3,
+      "keywords": [
+        "giải",
+        "chức",
+        "hiểu",
+        "chuyên",
+        "dựng",
+        "thuật",
+        "lĩnh",
+        "dụng",
+        "năng",
+        "thiết"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Tính toán, lập báo cáo, thuyết trình, phản biện công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm.",
+      "clo_code": "CLO 2_ME3268",
+      "bloom_level": 3,
+      "keywords": [
+        "thuyết",
+        "phản",
+        "toán",
+        "tính",
+        "công",
+        "việc",
+        "điều",
+        "nhóm",
+        "nhân",
+        "trình"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp và giải quyết vấn đề trong lĩnh vực chẩn đoán sửa chữa ô tô.",
+      "clo_code": "CLO 3_ME3268",
+      "bloom_level": 3,
+      "keywords": [
+        "đoán",
+        "giải",
+        "phản",
+        "việc",
+        "lĩnh",
+        "tích",
+        "chẩn",
+        "năng",
+        "phân",
+        "thống"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp trong chẩn đoán, sửa chữa ô tô.",
+      "clo_code": "CLO 4_ME3268",
+      "bloom_level": 6,
+      "keywords": [
+        "đoán",
+        "sáng",
+        "việc",
+        "công",
+        "chất",
+        "trường",
+        "nghi",
+        "thích",
+        "chữa",
+        "định"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ được các từ vựng Tiếng Anh chuyên ngành thường dùng trong ngành cơ khí",
+      "clo_code": "CLO 1_ATE3269",
+      "bloom_level": 2,
+      "keywords": [
+        "thường",
+        "hiểu",
+        "chuyên",
+        "vựng",
+        "tiếng",
+        "ngành",
+        "dùng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn đúng các thuật ngữ Tiếng Anh chuyên ngành vào từng trường hợp cụ thể",
+      "clo_code": "CLO 2_ATE3269",
+      "bloom_level": 3,
+      "keywords": [
+        "ngành",
+        "chuyên",
+        "thuật",
+        "đúng",
+        "trường",
+        "dụng",
+        "tiếng",
+        "chọn",
+        "từng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy nghiên cứu và đọc hiểu các tài liệu Tiếng Anh chuyên ngành",
+      "clo_code": "CLO 3_ATE3269",
+      "bloom_level": 2,
+      "keywords": [
+        "hiểu",
+        "chuyên",
+        "nghiên",
+        "tiếng",
+        "ngành",
+        "liệu"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      "clo_code": "CLO 4_ATE3269",
+      "bloom_level": 2,
+      "keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kiến thức nền tảng về doanh nghiệp, các hoạt động quản trị sản xuất, tổ chức, điều hành một cơ sở sản xuất, lập quy trình sản xuất, các công cụ quản lý chất lượng.",
+      "clo_code": "CLO 1_ATE3272",
+      "bloom_level": 4,
+      "keywords": [
+        "động",
+        "xuất",
+        "chức",
+        "nghiệp",
+        "doanh",
+        "công",
+        "chất",
+        "điều",
+        "hoạt",
+        "tảng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Khả năng phân tích, lập luận, giải quyết vấn đề, tư duy có hệ thống và nắm vững các vấn đề về các hoạt động quản trị sản xuất và quản lý chất lượng.",
+      "clo_code": "CLO 2_ATE3272",
+      "bloom_level": 3,
+      "keywords": [
+        "vững",
+        "luận",
+        "giải",
+        "động",
+        "xuất",
+        "tích",
+        "chất",
+        "hoạt",
+        "năng",
+        "phân"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có khả năng thành lập nhóm, lãnh đạo nhóm, thảo luận để đưa ra các giải pháp để giải quyết các vấn đề quản trị một cách tối ưu.",
+      "clo_code": "CLO 3_ATE3272",
+      "bloom_level": 3,
+      "keywords": [
+        "luận",
+        "giải",
+        "pháp",
+        "thảo",
+        "năng",
+        "nhóm",
+        "quyết",
+        "cách",
+        "lãnh",
+        "quản"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Khả năng tính toán và lựa chọn, vận dụng các phương pháp trong quản trị sản xuất và chất lượng vào hoạt động sản xuất của doanh nghiệp",
+      "clo_code": "CLO 4_ATE3272",
+      "bloom_level": 3,
+      "keywords": [
+        "pháp",
+        "xuất",
+        "động",
+        "nghiệp",
+        "toán",
+        "tính",
+        "doanh",
+        "phương",
+        "chất",
+        "hoạt"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu được các bước sử dụng phần mềm chẩn đoán kỹ thuật ôtô ELECTUDE",
+      "clo_code": "CLO 1_AET3273",
+      "bloom_level": 2,
+      "keywords": [
+        "đoán",
+        "bước",
+        "electude",
+        "phần",
+        "chẩn",
+        "hiểu",
+        "thuật",
+        "dụng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Trình bày được nhiệm vụ, yêu cầu, phân loại và cấu tạo của các hệ thống động cơ, gầm, điện ôtô",
+      "clo_code": "CLO 2_AET3273",
+      "bloom_level": 2,
+      "keywords": [
+        "nhiệm",
+        "động",
+        "phân",
+        "loại",
+        "trình",
+        "thống",
+        "điện"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Giải thích đúng những hiện tượng, nguyên nhân sai hỏng và phương pháp kiểm tra, chẩn đoán các sai hỏng của các hệ thống động cơ, gầm, điện ôtô; quy trình chẩn đoán ôtô",
+      "clo_code": "CLO 3_AET3273",
+      "bloom_level": 2,
+      "keywords": [
+        "đoán",
+        "giải",
+        "pháp",
+        "động",
+        "điện",
+        "tượng",
+        "chẩn",
+        "những",
+        "phương",
+        "đúng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.",
+      "clo_code": "CLO 4_AET3273",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Vận dụng kiến thức về khoa học tự nhiên, ngoại ngữ, tin học vào lĩnh vực chế tạo phụ tùng.",
+      "clo_code": "CLO1_AET3274",
+      "bloom_level": 3,
+      "keywords": [
+        "lĩnh",
+        "khoa",
+        "tùng",
+        "dụng",
+        "thức",
+        "nhiên",
+        "ngoại",
+        "kiến"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực chế tạo phụ tùng.",
+      "clo_code": "CLO2_AET3274",
+      "bloom_level": 3,
+      "keywords": [
+        "giải",
+        "dựng",
+        "lĩnh",
+        "thuật",
+        "tùng",
+        "dụng",
+        "năng",
+        "quyết"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp và giải quyết vấn đề trong lĩnh vực chế tạo phụ tùng.",
+      "clo_code": "CLO3_AET3274",
+      "bloom_level": 3,
+      "keywords": [
+        "giải",
+        "phản",
+        "việc",
+        "lĩnh",
+        "tích",
+        "tùng",
+        "năng",
+        "phân",
+        "thống",
+        "nhóm"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Tính toán, lập báo cáo, thuyết trình, phản biện, tổ chức công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm",
+      "clo_code": "CLO4_AET3274",
+      "bloom_level": 3,
+      "keywords": [
+        "chức",
+        "thuyết",
+        "phản",
+        "toán",
+        "tính",
+        "công",
+        "việc",
+        "điều",
+        "nhóm",
+        "nhân"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp.",
+      "clo_code": "CLO5_AET3274",
+      "bloom_level": 6,
+      "keywords": [
+        "sáng",
+        "nghiệp",
+        "thay",
+        "việc",
+        "công",
+        "hướng",
+        "chất",
+        "kiếm",
+        "trường",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ thế nào là sản xuất kinh doanh vận tải, thế nào là logistic",
+      "clo_code": "CLO 1_",
+      "bloom_level": 2,
+      "keywords": [
+        "xuất",
+        "logistic",
+        "kinh",
+        "hiểu",
+        "doanh"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn phương tiện vận tải phù hợp với chi phí và hiệu quả hoạt động logistics",
+      "clo_code": "CLO 2_",
+      "bloom_level": 3,
+      "keywords": [
+        "động",
+        "hiệu",
+        "phương",
+        "hoạt",
+        "dụng",
+        "chọn",
+        "logistics",
+        "tiện"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy tổng quan về vận tải và logistics",
+      "clo_code": "CLO 3_",
+      "bloom_level": 2,
+      "keywords": [
+        "logistics",
+        "quan",
+        "tổng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.",
+      "clo_code": "CLO 4_",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu được về quản lý dịch vụ ô tô; Hiểu được quản lý nhân sự trong phòng dịch vụ; Tiêu chuẩn vận hành dịch vụ sau bán hàng của hãng; Đánh giá hoạt động bằng các chỉ số hoạt động dịch vụ",
+      "clo_code": "CLO 1_AET3276",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "hiểu",
+        "phòng",
+        "chuẩn",
+        "bằng",
+        "tiêu",
+        "hoạt",
+        "hàng",
+        "hãng",
+        "hành"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Giải thích được các quy trình về quản lý dịch vụ ô tô; Phân tich được vài trò của quản lý nhân sự trong phòng dịch vụ; lập được tiêu chuẩn vận hành dịch vụ sau bán hàng của hãng;",
+      "clo_code": "CLO 2_AET3276",
+      "bloom_level": 2,
+      "keywords": [
+        "giải",
+        "chuẩn",
+        "phòng",
+        "tiêu",
+        "hàng",
+        "hãng",
+        "phân",
+        "tich",
+        "hành",
+        "nhân"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Quản lý và làm việc nhóm; thuyết trình các vấn đề và các quy trình trong dịch vụ",
+      "clo_code": "CLO 3_AET3276",
+      "bloom_level": 2,
+      "keywords": [
+        "thuyết",
+        "việc",
+        "trình",
+        "nhóm",
+        "dịch",
+        "quản"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Ý thức được vai trò và vị trí của bản thân trong một đại lý ôtô. Có trách nhiệm tích cực làm việc, học tập trong quá trình thực tập",
+      "clo_code": "CLO 4_AET3276",
+      "bloom_level": 2,
+      "keywords": [
+        "trách",
+        "nhiệm",
+        "việc",
+        "tích",
+        "thân",
+        "thức",
+        "trình",
+        "thực"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu được kỹ thuật lái xe cơ bản; các kỹ năng cần thiết của công việc lái xe.",
+      "clo_code": "CLO 1_AET3277",
+      "bloom_level": 2,
+      "keywords": [
+        "hiểu",
+        "công",
+        "việc",
+        "thuật",
+        "năng",
+        "thiết"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Nắm được các kỹ thuật lái xe ô tô trên đường thẳng; đường vòng; vào nhà đậu xe; tập lái trên đường hẹp",
+      "clo_code": "CLO 2_AET3277",
+      "bloom_level": 2,
+      "keywords": [
+        "thẳng",
+        "vòng",
+        "đường",
+        "thuật",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Nắm được cơ bản quy trình bảo dưỡng, chăm sóc nội thất bên trong xe ôtô; Quy trình bảo dướng, chăm sóc khung vở xe ôtô; quy trình bảo dưỡng, chăm sóc khung gầm xe ôtô.",
+      "clo_code": "CLO 3_AET3277",
+      "bloom_level": 2,
+      "keywords": [
+        "dướng",
+        "dưỡng",
+        "chăm",
+        "thất",
+        "trình",
+        "khung"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề",
+      "clo_code": "CLO 4_AET3277",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ động lực học quá trình phanh,các yếu tố ảnh hưởng đến hiệu quả phanh và các giải pháp công nghệ nâng cao hiệu quả phanh. Ý nghĩa của hệ thống phanh điện tử trong hệ thống ô tô thông minh.",
+      "clo_code": "CLO 1_AET3235",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "hiệu",
+        "giải",
+        "pháp",
+        "hiểu",
+        "công",
+        "phanh",
+        "nghĩa",
+        "hưởng",
+        "nghệ"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu và phân tích được kết cấu, nguyên lý làm việc của các hệ phanh điều khiển điện tử. Nắm được được các hiện tượng, nguyên nhân hư hỏng của hệ thống phanh điều khiển điện tử trên xe ô tô.",
+      "clo_code": "CLO 2_AET3235",
+      "bloom_level": 2,
+      "keywords": [
+        "trên",
+        "tượng",
+        "hiểu",
+        "việc",
+        "tích",
+        "phanh",
+        "điều",
+        "phân",
+        "khiển",
+        "nhân"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Áp dụng các kiến thức đã học để chẩn đoán, kiểm tra, bảo dưỡng, sửa chữa hệ thống phanh điều khiển điện tử.",
+      "clo_code": "CLO 3_AET3235",
+      "bloom_level": 3,
+      "keywords": [
+        "đoán",
+        "dưỡng",
+        "điện",
+        "chẩn",
+        "phanh",
+        "điều",
+        "dụng",
+        "thức",
+        "khiển",
+        "thống"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp và phẩm chất các nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề",
+      "clo_code": "CLO 4_AET3235",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Vận dụng kiến thức về khoa học tự nhiên, ngoại ngữ, tin học vào lĩnh vực lắp ráp ô tô.",
+      "clo_code": "CLO1_AET3227",
+      "bloom_level": 3,
+      "keywords": [
+        "lĩnh",
+        "khoa",
+        "dụng",
+        "thức",
+        "nhiên",
+        "ngoại",
+        "kiến"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực lắp ráp ô tô.",
+      "clo_code": "CLO2_AET3227",
+      "bloom_level": 3,
+      "keywords": [
+        "giải",
+        "dựng",
+        "lĩnh",
+        "thuật",
+        "dụng",
+        "năng",
+        "quyết"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp và giải quyết vấn đề trong lĩnh vực lắp ráp ô tô.",
+      "clo_code": "CLO3_AET3227",
+      "bloom_level": 3,
+      "keywords": [
+        "giải",
+        "phản",
+        "việc",
+        "lĩnh",
+        "tích",
+        "năng",
+        "phân",
+        "thống",
+        "nhóm",
+        "quyết"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Tính toán, lập báo cáo, thuyết trình, phản biện, tổ chức công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm",
+      "clo_code": "CLO4_AET3227",
+      "bloom_level": 3,
+      "keywords": [
+        "chức",
+        "thuyết",
+        "phản",
+        "toán",
+        "tính",
+        "công",
+        "việc",
+        "điều",
+        "nhóm",
+        "nhân"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp trong lắp ráp ô tô.",
+      "clo_code": "CLO5_AET3227",
+      "bloom_level": 6,
+      "keywords": [
+        "sáng",
+        "nghiệp",
+        "thay",
+        "việc",
+        "công",
+        "hướng",
+        "chất",
+        "kiếm",
+        "trường",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ chức năng, cấu tạo, nguyên lý hộp số tự động trên ô tô",
+      "clo_code": "CLO 1_AET3236",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "chức",
+        "hiểu",
+        "năng",
+        "nguyên",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu các loại hộp số tự động, ưu nhược điểm từng loại HSTĐ",
+      "clo_code": "CLO 2_AET3236",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "hstđ",
+        "điểm",
+        "hiểu",
+        "nhược",
+        "loại",
+        "từng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy phân tích, xác định  được hư hỏng thường gặp với hộp số tự động",
+      "clo_code": "CLO 3_AET3236",
+      "bloom_level": 1,
+      "keywords": [
+        "động",
+        "thường",
+        "tích",
+        "phân",
+        "hỏng",
+        "định"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.",
+      "clo_code": "CLO 4_AET3236",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ chức năng vai trò các loại xe chuyên dùng trong ngành giao thông vận tải",
+      "clo_code": "CLO 1_AET3226",
+      "bloom_level": 2,
+      "keywords": [
+        "chức",
+        "hiểu",
+        "chuyên",
+        "năng",
+        "loại",
+        "dùng",
+        "thông",
+        "ngành",
+        "giao"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Nắm được nguyên lý kết cấu, làm việc các hệ thống , cơ cấu trên xe chuyên dùng",
+      "clo_code": "CLO 2_AET3226",
+      "bloom_level": 2,
+      "keywords": [
+        "chuyên",
+        "việc",
+        "dùng",
+        "thống",
+        "nguyên",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy phân tích được hư hỏng thường gặp, phương pháp sửa chữa",
+      "clo_code": "CLO 3_AET3226",
+      "bloom_level": 4,
+      "keywords": [
+        "pháp",
+        "thường",
+        "tích",
+        "phương",
+        "phân",
+        "hỏng",
+        "chữa"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.",
+      "clo_code": "CLO 4_AET3226",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu cấu tạo, nguyên lý hoạt động của các thiết bị đo và phạm vi ứng dụng của các thiết bị đo.",
+      "clo_code": "CLO 1_AET3229",
+      "bloom_level": 2,
+      "keywords": [
+        "động",
+        "hiểu",
+        "phạm",
+        "hoạt",
+        "dụng",
+        "thiết",
+        "nguyên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Biết được phương pháp tiến hành các thí nghiệm trên ô tô.",
+      "clo_code": "CLO 2_AET3229",
+      "bloom_level": 2,
+      "keywords": [
+        "pháp",
+        "tiến",
+        "phương",
+        "hành",
+        "biết",
+        "nghiệm",
+        "trên"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Xây dựng được các bài thí nghiệm trong các trường hợp cụ thể.",
+      "clo_code": "CLO 3_AET3229",
+      "bloom_level": 6,
+      "keywords": [
+        "nghiệm",
+        "trường",
+        "dựng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.",
+      "clo_code": "CLO 4_AET3229",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Mô tả được phương pháp tổ chức, quản lý điều hành; bố trí vận hành trang thiết bị, cơ sở vật chất của  các cơ sở kinh doanh, dịch vụ bảo dưỡng, sửa chữa.",
+      "clo_code": "CLO 1_",
+      "bloom_level": 4,
+      "keywords": [
+        "trang",
+        "pháp",
+        "chức",
+        "kinh",
+        "dưỡng",
+        "doanh",
+        "phương",
+        "chất",
+        "điều",
+        "hành"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Áp dụng các kiến thức đã học để chẩn đoán, kiểm tra, bảo dưỡng, sửa chữa các cụm, hệ thống, cơ cấu trên xe ô tô và tổ chức bảo dưỡng, sửa chữa khắc phục hư hỏng xe ô tô. \nKiểm tra đánh giá tình trạng kỹ thuật và lựa chọn công nghệ khắc phục khung vỏ xe ô tô sau va chạm;\nNâng cao kỹ năng tư vấn bán, kinh doanh vật tư phụ tùng, xe ô tô.",
+      "clo_code": "CLO 2_",
+      "bloom_level": 4,
+      "keywords": [
+        "đoán",
+        "dưỡng",
+        "trạng",
+        "công",
+        "doanh",
+        "thức",
+        "hỏng",
+        "chữa",
+        "đánh",
+        "thuật"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Tổng hợp được các kiến thức lý thuyết, thực tế để hoàn thành các nội dung trong báo cáo thực tập; làm cơ sở bổ sung, hoàn thiện đề tài tốt nghiệp, nội dung thực tâp tốt nghiệp.",
+      "clo_code": "CLO 3_",
+      "bloom_level": 6,
+      "keywords": [
+        "thuyết",
+        "hoàn",
+        "nghiệp",
+        "dung",
+        "thức",
+        "thực",
+        "thiện",
+        "sung",
+        "kiến",
+        "tổng"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp trong lĩnh vực công nghệ ô tô.",
+      "clo_code": "CLO 4_",
+      "bloom_level": 6,
+      "keywords": [
+        "sáng",
+        "nghiệp",
+        "thay",
+        "việc",
+        "công",
+        "hướng",
+        "chất",
+        "kiếm",
+        "trường",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Hiểu rõ được nhiệm vụ học phần, vận dụng những kiến thức đã học để hoàn thành một nhiệm vụ khoa học được nêu trong đồ án.",
+      "clo_code": "CLO 1_AET4243",
+      "bloom_level": 2,
+      "keywords": [
+        "nhiệm",
+        "hoàn",
+        "phần",
+        "những",
+        "hiểu",
+        "khoa",
+        "dụng",
+        "thức",
+        "kiến",
+        "thành"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Sử dụng và lựa chọn những kiến thức đã học để thực hiện một trong những nhiệm vụ như Thiết kế chế tạo; thiết kế cải tiến hoặc hoán cải các chi tiết, cụm chi tiết, hệ thống, tổng thành trên ô tô. Kiểm nghiệm độ bền, độ tin cậy, đánh giá chất lượng các chi tiết, cụm chi tiết, hệ thống, tổng thành trên ô tô. Khai thác sử dụng ô tô trong điều kiện thực tế Việt Nam. Khai thác, vận hành, bảo dưỡng các thiết bị kiểm định, chẩn đoán, bảo dưỡng-sửa chữa ô tô. Xây dựng quy trình lắp ráp các tổng thành, hệ thống và ô tô. Xây dựng quy trình công nghệ kiểm định, chẩn đoán, bảo dưỡng, sửa chữa ô tô. Tính toán, khảo sát hệ thống cung cấp các loại nhiên liệu mới, các nguồn năng lượng mới trên ô tô.",
+      "clo_code": "CLO 2_AET4243",
+      "bloom_level": 3,
+      "keywords": [
+        "đoán",
+        "dưỡng",
+        "tiến",
+        "những",
+        "dựng",
+        "chất",
+        "khai",
+        "việt",
+        "công",
+        "thức"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Có tư duy tổng hợp về lich vực khoa học được nêu lên trong nhiệm vụ của đồ án",
+      "clo_code": "CLO 3_AET4243",
+      "bloom_level": 6,
+      "keywords": [
+        "nhiệm",
+        "lich",
+        "tổng",
+        "khoa"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    },
+    {
+      "text": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.",
+      "clo_code": "CLO 4_AET4243",
+      "bloom_level": 2,
+      "keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc",
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "score": 3.0,
+      "label": "positive"
+    }
+  ],
+  "negative_samples": [],
+  "keyword_mappings": {
+    "CLO 1_ME2206": {
+      "primary_keywords": [
+        "hiểu",
+        "dụng",
+        "thức",
+        "thiết",
+        "kiến"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME2206": {
+      "primary_keywords": [
+        "trạng",
+        "thái",
+        "trưng",
+        "đúng",
+        "dụng"
+      ],
+      "secondary_keywords": [
+        "quan",
+        "chọn",
+        "liệu",
+        "liên"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME2206": {
+      "primary_keywords": [
+        "động",
+        "toán",
+        "siêu",
+        "tính",
+        "tích"
+      ],
+      "secondary_keywords": [
+        "chuyển",
+        "tĩnh",
+        "phân",
+        "quan",
+        "chịu"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME2206": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO4_": {
+      "primary_keywords": [
+        "giải",
+        "toán",
+        "dựng",
+        "lĩnh",
+        "thuật"
+      ],
+      "secondary_keywords": [
+        "công",
+        "bằng",
+        "khoa",
+        "dụng",
+        "năng"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 1_": {
+      "primary_keywords": [
+        "trang",
+        "pháp",
+        "chức",
+        "kinh",
+        "dưỡng"
+      ],
+      "secondary_keywords": [
+        "doanh",
+        "phương",
+        "chất",
+        "điều",
+        "hành"
+      ],
+      "bloom_level": 4,
+      "scoring_method": "termfreq"
+    },
+    "CLO 2_": {
+      "primary_keywords": [
+        "đoán",
+        "dưỡng",
+        "trạng",
+        "công",
+        "doanh"
+      ],
+      "secondary_keywords": [
+        "thức",
+        "hỏng",
+        "chữa",
+        "đánh",
+        "thuật"
+      ],
+      "bloom_level": 4,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_": {
+      "primary_keywords": [
+        "thuyết",
+        "hoàn",
+        "nghiệp",
+        "dung",
+        "thức"
+      ],
+      "secondary_keywords": [
+        "thực",
+        "thiện",
+        "sung",
+        "kiến",
+        "tổng"
+      ],
+      "bloom_level": 6,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_": {
+      "primary_keywords": [
+        "sáng",
+        "nghiệp",
+        "thay",
+        "việc",
+        "công"
+      ],
+      "secondary_keywords": [
+        "hướng",
+        "chất",
+        "kiếm",
+        "trường",
+        "nghề"
+      ],
+      "bloom_level": 6,
+      "scoring_method": "termfreq"
+    },
+    "CLO 1_AET3217": {
+      "primary_keywords": [
+        "thống",
+        "toán",
+        "hiểu",
+        "tính"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3217": {
+      "primary_keywords": [
+        "chuẩn",
+        "dựng",
+        "tiêu",
+        "theo",
+        "tổng"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 6,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_AET3217": {
+      "primary_keywords": [
+        "năng",
+        "thuyết",
+        "trình"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 4_AET3217": {
+      "primary_keywords": [
+        "hình",
+        "luận",
+        "giải",
+        "nghiệp",
+        "chuyên"
+      ],
+      "secondary_keywords": [
+        "tích",
+        "chất",
+        "thuật",
+        "năng",
+        "phân"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 1_AET3218": {
+      "primary_keywords": [
+        "trên",
+        "nhận",
+        "biết",
+        "thống",
+        "tổng"
+      ],
+      "secondary_keywords": [
+        "thành"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3218": {
+      "primary_keywords": [
+        "trên",
+        "hiểu",
+        "việc",
+        "thống",
+        "nguyên"
+      ],
+      "secondary_keywords": [
+        "tổng",
+        "thành"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 3_AET3218": {
+      "primary_keywords": [
+        "trên",
+        "giải",
+        "luận",
+        "việc",
+        "thống"
+      ],
+      "secondary_keywords": [
+        "thích",
+        "nguyên",
+        "tổng",
+        "thành"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 4_AET3218": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_AET3219": {
+      "primary_keywords": [
+        "thuật",
+        "điện",
+        "hiểu"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3219": {
+      "primary_keywords": [
+        "trang",
+        "động",
+        "khái",
+        "quát",
+        "chung"
+      ],
+      "secondary_keywords": [
+        "điều",
+        "khiển",
+        "thống",
+        "điện",
+        "trên"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 3_AET3219": {
+      "primary_keywords": [
+        "trang",
+        "động",
+        "hoạt",
+        "thống",
+        "điện"
+      ],
+      "secondary_keywords": [
+        "nguyên",
+        "trên"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 4_AET3219": {
+      "primary_keywords": [
+        "trang",
+        "giải",
+        "trên",
+        "kiến",
+        "tượng"
+      ],
+      "secondary_keywords": [
+        "dụng",
+        "thức",
+        "nhân",
+        "hỏng",
+        "thống"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 5_AET3219": {
+      "primary_keywords": [
+        "điện",
+        "dụng",
+        "thức",
+        "thống",
+        "chữa"
+      ],
+      "secondary_keywords": [
+        "kiểm",
+        "kiến",
+        "trên"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 6_AET3219": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO1_": {
+      "primary_keywords": [
+        "đảng",
+        "pháp",
+        "đường",
+        "nước",
+        "hiểu"
+      ],
+      "secondary_keywords": [
+        "mạng",
+        "việt",
+        "nghĩa",
+        "tưởng",
+        "chính"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO2_": {
+      "primary_keywords": [
+        "nghiệp",
+        "chuyên",
+        "lĩnh",
+        "khoa",
+        "dụng"
+      ],
+      "secondary_keywords": [
+        "thức",
+        "nghề",
+        "nhiên",
+        "ngoại",
+        "kiến"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO3_": {
+      "primary_keywords": [
+        "luyện",
+        "hoàn",
+        "phòng",
+        "chất",
+        "quốc"
+      ],
+      "secondary_keywords": [
+        "giáo",
+        "tinh",
+        "thức",
+        "ninh",
+        "thần"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO5_": {
+      "primary_keywords": [
+        "tiến",
+        "chuyên",
+        "công",
+        "phân",
+        "thích"
+      ],
+      "secondary_keywords": [
+        "liệu",
+        "đánh",
+        "luận",
+        "tích",
+        "thuật"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO6_": {
+      "primary_keywords": [
+        "dưỡng",
+        "chuyên",
+        "dựng",
+        "công",
+        "ngành"
+      ],
+      "secondary_keywords": [
+        "chữa",
+        "định",
+        "hướng",
+        "thuật",
+        "tiết"
+      ],
+      "bloom_level": 6,
+      "scoring_method": "termfreq"
+    },
+    "CLO7_": {
+      "primary_keywords": [
+        "thuyết",
+        "chuyên",
+        "huống",
+        "lĩnh",
+        "tiêu"
+      ],
+      "secondary_keywords": [
+        "hoạt",
+        "dụng",
+        "năng",
+        "linh",
+        "trình"
+      ],
+      "bloom_level": 1,
+      "scoring_method": "distinct"
+    },
+    "CLO8_": {
+      "primary_keywords": [
+        "giải",
+        "động",
+        "quản",
+        "phản",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chuyên",
+        "tích",
+        "hoạt",
+        "năng",
+        "phân"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO9_": {
+      "primary_keywords": [
+        "chuyên",
+        "phòng",
+        "dụng",
+        "tiếng",
+        "lĩnh"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO10_": {
+      "primary_keywords": [
+        "ngành",
+        "dưỡng",
+        "hiểu",
+        "dựng",
+        "công"
+      ],
+      "secondary_keywords": [
+        "thuật",
+        "khai",
+        "chuyển",
+        "thác",
+        "hành"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO11_": {
+      "primary_keywords": [
+        "chức",
+        "thuyết",
+        "phản",
+        "toán",
+        "tính"
+      ],
+      "secondary_keywords": [
+        "công",
+        "việc",
+        "điều",
+        "nhóm",
+        "nhân"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO12_": {
+      "primary_keywords": [
+        "sáng",
+        "công",
+        "chất",
+        "trường",
+        "nhanh"
+      ],
+      "secondary_keywords": [
+        "nghi",
+        "thích",
+        "định",
+        "thần",
+        "thay"
+      ],
+      "bloom_level": 6,
+      "scoring_method": "termfreq"
+    },
+    "CLO 1_ME2201": {
+      "primary_keywords": [
+        "việc",
+        "công",
+        "sinh",
+        "định",
+        "thần"
+      ],
+      "secondary_keywords": [
+        "thành",
+        "lòng",
+        "hướng",
+        "điểm",
+        "nhận"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME2201": {
+      "primary_keywords": [
+        "hiểu",
+        "công",
+        "thuật",
+        "thức",
+        "nghệ"
+      ],
+      "secondary_keywords": [
+        "quan",
+        "ngành",
+        "kiến",
+        "tổng",
+        "liên"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 3_ME2201": {
+      "primary_keywords": [
+        "mình",
+        "viên",
+        "giúp",
+        "khóa",
+        "dàng"
+      ],
+      "secondary_keywords": [
+        "trường",
+        "dung",
+        "sinh",
+        "trình",
+        "chương"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 4_ME2201": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME2205": {
+      "primary_keywords": [
+        "hiểu"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME2205": {
+      "primary_keywords": [
+        "hình",
+        "giải",
+        "toán",
+        "dựng",
+        "tính"
+      ],
+      "secondary_keywords": [
+        "bằng",
+        "dụng",
+        "chọn",
+        "quyết"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME2205": {
+      "primary_keywords": [
+        "động",
+        "toán",
+        "tĩnh",
+        "tính",
+        "tích"
+      ],
+      "secondary_keywords": [
+        "thuật",
+        "phân",
+        "tham",
+        "thiết"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME2205": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME2253": {
+      "primary_keywords": [
+        "động",
+        "nguyên",
+        "hiểu"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME2253": {
+      "primary_keywords": [
+        "việc",
+        "đúng",
+        "dụng",
+        "năng",
+        "chọn"
+      ],
+      "secondary_keywords": [
+        "nguyên"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME2253": {
+      "primary_keywords": [
+        "động",
+        "toán",
+        "tính",
+        "tích",
+        "bánh"
+      ],
+      "secondary_keywords": [
+        "răng",
+        "phân",
+        "thiết",
+        "tổng"
+      ],
+      "bloom_level": 6,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME2253": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME2208": {
+      "primary_keywords": [
+        "thuật",
+        "tiết",
+        "thông",
+        "hiểu"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME2208": {
+      "primary_keywords": [
+        "thuật",
+        "đúng",
+        "tiết",
+        "dụng",
+        "thông"
+      ],
+      "secondary_keywords": [
+        "chọn"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME2208": {
+      "primary_keywords": [
+        "thiết",
+        "toán",
+        "tiết",
+        "tính"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME2208": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME2254": {
+      "primary_keywords": [
+        "hiểu",
+        "dụng",
+        "thức",
+        "thực",
+        "kiến"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME2254": {
+      "primary_keywords": [
+        "thuật",
+        "đúng",
+        "tiết",
+        "dụng",
+        "thông"
+      ],
+      "secondary_keywords": [
+        "chọn"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME2254": {
+      "primary_keywords": [
+        "toán",
+        "tính",
+        "thuật",
+        "theo",
+        "thiết"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME2254": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME2255": {
+      "primary_keywords": [
+        "nguyên",
+        "hiểu",
+        "tiết",
+        "dụng",
+        "dung"
+      ],
+      "secondary_keywords": [
+        "loại",
+        "thước",
+        "kích"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME2255": {
+      "primary_keywords": [
+        "giải",
+        "toán",
+        "đúng",
+        "dụng",
+        "dung"
+      ],
+      "secondary_keywords": [
+        "quan",
+        "chọn",
+        "biết",
+        "thước",
+        "cách"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME2255": {
+      "primary_keywords": [
+        "giải",
+        "hình",
+        "toán",
+        "dựng",
+        "tính"
+      ],
+      "secondary_keywords": [
+        "chuỗi",
+        "tiết",
+        "ghép",
+        "thước",
+        "dạng"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME2255": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME2259": {
+      "primary_keywords": [
+        "hiểu",
+        "tính",
+        "chất",
+        "trúc",
+        "liệu"
+      ],
+      "secondary_keywords": [
+        "quan",
+        "giữa"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME2259": {
+      "primary_keywords": [
+        "hiệu",
+        "toán",
+        "việc",
+        "công",
+        "tính"
+      ],
+      "secondary_keywords": [
+        "dụng",
+        "thiết",
+        "hành",
+        "chọn",
+        "liệu"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME2259": {
+      "primary_keywords": [
+        "trạng",
+        "thay",
+        "thái",
+        "tích",
+        "tính"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "trúc",
+        "dụng",
+        "nhiệt",
+        "phân"
+      ],
+      "bloom_level": 4,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME2259": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME2212": {
+      "primary_keywords": [
+        "pháp",
+        "hiểu",
+        "công",
+        "phương",
+        "nóng"
+      ],
+      "secondary_keywords": [
+        "loại"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME2212": {
+      "primary_keywords": [
+        "công",
+        "dụng",
+        "theo",
+        "dùng",
+        "chọn"
+      ],
+      "secondary_keywords": [
+        "liệu"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME2212": {
+      "primary_keywords": [
+        "phoi",
+        "công",
+        "tích",
+        "phân",
+        "loại"
+      ],
+      "secondary_keywords": [
+        "trình",
+        "không"
+      ],
+      "bloom_level": 4,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME2212": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME2257": {
+      "primary_keywords": [
+        "thống",
+        "thủy",
+        "nguyên",
+        "hiểu"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME2257": {
+      "primary_keywords": [
+        "đúng",
+        "dụng",
+        "chọn",
+        "thực",
+        "thủy"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME2257": {
+      "primary_keywords": [
+        "toán",
+        "tính",
+        "hành",
+        "thiết",
+        "thống"
+      ],
+      "secondary_keywords": [
+        "thủy"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME2257": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME2258": {
+      "primary_keywords": [
+        "động",
+        "thực",
+        "hướng",
+        "phòng",
+        "dụng"
+      ],
+      "secondary_keywords": [
+        "thiết",
+        "hành",
+        "toàn",
+        "nguyên"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 2_ME2258": {
+      "primary_keywords": [
+        "nguồn",
+        "giải",
+        "diode",
+        "cổng",
+        "nhận"
+      ],
+      "secondary_keywords": [
+        "mạch",
+        "transistor",
+        "khảo",
+        "hành",
+        "biết"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 3_ME2258": {
+      "primary_keywords": [
+        "tích",
+        "phục",
+        "mạch",
+        "phân",
+        "khắc"
+      ],
+      "secondary_keywords": [
+        "hỏng",
+        "cách",
+        "điện",
+        "trên"
+      ],
+      "bloom_level": 4,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME2258": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_TET2213": {
+      "primary_keywords": [
+        "hiểu",
+        "những",
+        "chất",
+        "quan",
+        "liên"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_TET2213": {
+      "primary_keywords": [
+        "động",
+        "trao",
+        "phương",
+        "đúng",
+        "nhiệt"
+      ],
+      "secondary_keywords": [
+        "dụng",
+        "thức",
+        "trình",
+        "chọn",
+        "truyền"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_TET2213": {
+      "primary_keywords": [
+        "toán",
+        "trao",
+        "tính",
+        "tích",
+        "diện"
+      ],
+      "secondary_keywords": [
+        "nhiệt",
+        "thiết",
+        "truyền"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_TET2213": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME2256": {
+      "primary_keywords": [
+        "điểm",
+        "hiểu",
+        "dụng"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME2256": {
+      "primary_keywords": [
+        "pháp",
+        "hình",
+        "dựng",
+        "tích",
+        "phương"
+      ],
+      "secondary_keywords": [
+        "đúng",
+        "dụng",
+        "phân",
+        "chọn"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME2256": {
+      "primary_keywords": [
+        "động",
+        "toán",
+        "tính",
+        "hoạt",
+        "thiết"
+      ],
+      "secondary_keywords": [
+        "phỏng",
+        "phẩm"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME2256": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME3234": {
+      "primary_keywords": [
+        "hiểu",
+        "thuật",
+        "ngôn",
+        "trình",
+        "trên"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME3234": {
+      "primary_keywords": [
+        "toán",
+        "tính",
+        "phương",
+        "thuật",
+        "đúng"
+      ],
+      "secondary_keywords": [
+        "điều",
+        "dụng",
+        "thức",
+        "thiết",
+        "khiển"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME3234": {
+      "primary_keywords": [
+        "phần",
+        "tích",
+        "dụng",
+        "phân",
+        "phỏng"
+      ],
+      "secondary_keywords": [
+        "trình"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME3234": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME3260": {
+      "primary_keywords": [
+        "động",
+        "nghiệp",
+        "hiểu",
+        "công",
+        "trường"
+      ],
+      "secondary_keywords": [
+        "toàn"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME3260": {
+      "primary_keywords": [
+        "động",
+        "việc",
+        "phương",
+        "dụng",
+        "quan"
+      ],
+      "secondary_keywords": [
+        "chọn",
+        "toàn",
+        "liên"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME3260": {
+      "primary_keywords": [
+        "động",
+        "xuất",
+        "thực",
+        "toán",
+        "phòng"
+      ],
+      "secondary_keywords": [
+        "tính",
+        "quan",
+        "toàn",
+        "tránh",
+        "liên"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME3260": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_AET3261": {
+      "primary_keywords": [
+        "động",
+        "hiểu",
+        "việc",
+        "tích",
+        "phân"
+      ],
+      "secondary_keywords": [
+        "loại",
+        "nguyên"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3261": {
+      "primary_keywords": [
+        "động",
+        "trục",
+        "khuỷu",
+        "toán",
+        "thanh"
+      ],
+      "secondary_keywords": [
+        "công",
+        "tích",
+        "tính",
+        "dựng",
+        "diễn"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_AET3261": {
+      "primary_keywords": [
+        "động",
+        "tiết",
+        "hoạt",
+        "thống",
+        "nguyên"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 4_AET3261": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_AET3262": {
+      "primary_keywords": [
+        "động",
+        "hiểu",
+        "công",
+        "chuyển",
+        "bằng"
+      ],
+      "secondary_keywords": [
+        "bánh",
+        "suất",
+        "định"
+      ],
+      "bloom_level": 1,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3262": {
+      "primary_keywords": [
+        "kiện",
+        "toán",
+        "tính",
+        "điều",
+        "trước"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_AET3262": {
+      "primary_keywords": [
+        "kinh",
+        "toán",
+        "tính",
+        "năng",
+        "thông"
+      ],
+      "secondary_keywords": [
+        "định"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_AET3262": {
+      "primary_keywords": [
+        "hình",
+        "nghiêm",
+        "nghiệp",
+        "việc",
+        "thái"
+      ],
+      "secondary_keywords": [
+        "chuyên",
+        "đúng",
+        "phong",
+        "thức",
+        "thực"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 1_AET3216": {
+      "primary_keywords": [
+        "động",
+        "toán",
+        "hiểu",
+        "công",
+        "tính"
+      ],
+      "secondary_keywords": [
+        "tiết",
+        "trình",
+        "nghiệm",
+        "kiểm"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3216": {
+      "primary_keywords": [
+        "chuẩn",
+        "dựng",
+        "tiêu",
+        "theo",
+        "tổng"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 6,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_AET3216": {
+      "primary_keywords": [
+        "năng",
+        "thuyết",
+        "trình"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 4_AET3216": {
+      "primary_keywords": [
+        "hình",
+        "luận",
+        "giải",
+        "nghiệp",
+        "chuyên"
+      ],
+      "secondary_keywords": [
+        "tích",
+        "chất",
+        "thuật",
+        "năng",
+        "phân"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 1_AET3221": {
+      "primary_keywords": [
+        "đoán",
+        "thuyết",
+        "chẩn",
+        "hiểu",
+        "công"
+      ],
+      "secondary_keywords": [
+        "thuật",
+        "việt",
+        "nghệ",
+        "kiểm",
+        "định"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3221": {
+      "primary_keywords": [
+        "đoán",
+        "chẩn",
+        "thuật",
+        "dụng",
+        "loại"
+      ],
+      "secondary_keywords": [
+        "thiết",
+        "dùng",
+        "chọn",
+        "kiểm",
+        "định"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_AET3221": {
+      "primary_keywords": [
+        "công",
+        "tổng",
+        "thuật",
+        "nghệ",
+        "trình"
+      ],
+      "secondary_keywords": [
+        "thực",
+        "kiểm",
+        "định",
+        "hiện"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_AET3221": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_AET3222": {
+      "primary_keywords": [
+        "dưỡng",
+        "hiểu",
+        "thức",
+        "chữa",
+        "cách"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3222": {
+      "primary_keywords": [
+        "khác",
+        "dưỡng",
+        "công",
+        "dụng",
+        "nhau"
+      ],
+      "secondary_keywords": [
+        "loại",
+        "nghệ",
+        "trình",
+        "chọn",
+        "thống"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_AET3222": {
+      "primary_keywords": [
+        "pháp",
+        "tuổi",
+        "dưỡng",
+        "phương",
+        "chữa"
+      ],
+      "secondary_keywords": [
+        "nâng",
+        "thuổi"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 4_AET3222": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_AET3224": {
+      "primary_keywords": [
+        "động",
+        "hoạt",
+        "thống",
+        "điện",
+        "nguyên"
+      ],
+      "secondary_keywords": [
+        "trên"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3224": {
+      "primary_keywords": [
+        "giải",
+        "toán",
+        "tượng",
+        "tính",
+        "nhân"
+      ],
+      "secondary_keywords": [
+        "hỏng",
+        "thống",
+        "thích",
+        "điện",
+        "nguyên"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 3_AET3224": {
+      "primary_keywords": [
+        "điện",
+        "dụng",
+        "thức",
+        "thống",
+        "chữa"
+      ],
+      "secondary_keywords": [
+        "kiểm",
+        "kiến"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_AET3224": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME3270": {
+      "primary_keywords": [
+        "giải",
+        "công",
+        "chất",
+        "hưởng",
+        "lượng"
+      ],
+      "secondary_keywords": [
+        "tiết",
+        "dụng",
+        "thích",
+        "liệu"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME3270": {
+      "primary_keywords": [
+        "công",
+        "phân",
+        "thức",
+        "hỏng",
+        "dạng"
+      ],
+      "secondary_keywords": [
+        "định",
+        "tích",
+        "nguội",
+        "tiết",
+        "trình"
+      ],
+      "bloom_level": 1,
+      "scoring_method": "distinct"
+    },
+    "CLO 3_ME3270": {
+      "primary_keywords": [
+        "chuẩn",
+        "công",
+        "nguội",
+        "thuật",
+        "tiêu"
+      ],
+      "secondary_keywords": [
+        "dụng",
+        "theo",
+        "thạo",
+        "phẩm",
+        "kiểm"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME3270": {
+      "primary_keywords": [
+        "pháp",
+        "công",
+        "phương",
+        "thuật",
+        "tiêu"
+      ],
+      "secondary_keywords": [
+        "chọn",
+        "thích"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 5_ME3270": {
+      "primary_keywords": [
+        "pháp",
+        "công",
+        "nguội",
+        "phục",
+        "dạng"
+      ],
+      "secondary_keywords": [
+        "khắc",
+        "hỏng",
+        "kiểm",
+        "biện",
+        "phát"
+      ],
+      "bloom_level": 4,
+      "scoring_method": "termfreq"
+    },
+    "CLO 6_ME3270": {
+      "primary_keywords": [
+        "bằng",
+        "chữa",
+        "công",
+        "dụng"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 7_ME3270": {
+      "primary_keywords": [
+        "nghiêm",
+        "giác",
+        "việc",
+        "tính",
+        "công"
+      ],
+      "secondary_keywords": [
+        "thận",
+        "luyện"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME3271": {
+      "primary_keywords": [
+        "toán",
+        "tính",
+        "khoa",
+        "dụng",
+        "thức"
+      ],
+      "secondary_keywords": [
+        "chọn",
+        "nhiên",
+        "kiến"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 2_ME3271": {
+      "primary_keywords": [
+        "phát",
+        "chuẩn",
+        "tích",
+        "phôi",
+        "dụng"
+      ],
+      "secondary_keywords": [
+        "phân",
+        "khuyết",
+        "thức",
+        "thiết",
+        "liệu"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME3271": {
+      "primary_keywords": [
+        "pháp",
+        "trạng",
+        "chuẩn",
+        "phương",
+        "liệu"
+      ],
+      "secondary_keywords": [
+        "dụng",
+        "thiết",
+        "từng",
+        "tình",
+        "kiểm"
+      ],
+      "bloom_level": 4,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME3271": {
+      "primary_keywords": [
+        "pháp",
+        "chỉnh",
+        "toán",
+        "tính",
+        "phương"
+      ],
+      "secondary_keywords": [
+        "điều",
+        "quang",
+        "chọn",
+        "điện"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 5_ME3271": {
+      "primary_keywords": [
+        "giáp",
+        "thuật",
+        "bằng",
+        "quang",
+        "điện"
+      ],
+      "secondary_keywords": [
+        "trên"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 6_ME3271": {
+      "primary_keywords": [
+        "pháp",
+        "phục",
+        "dạng",
+        "khuyết",
+        "khắc"
+      ],
+      "secondary_keywords": [
+        "kiểm",
+        "biện",
+        "phát",
+        "hiện"
+      ],
+      "bloom_level": 4,
+      "scoring_method": "termfreq"
+    },
+    "CLO 7_ME3271": {
+      "primary_keywords": [
+        "nghiêm",
+        "giác",
+        "việc",
+        "tính",
+        "công"
+      ],
+      "secondary_keywords": [
+        "thận",
+        "luyện"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME3263": {
+      "primary_keywords": [
+        "động",
+        "dưỡng",
+        "hiểu",
+        "thuật",
+        "thức"
+      ],
+      "secondary_keywords": [
+        "trình",
+        "thống",
+        "tháo",
+        "chữa",
+        "kiến"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME3263": {
+      "primary_keywords": [
+        "động",
+        "dưỡng",
+        "thuật",
+        "hành",
+        "thực"
+      ],
+      "secondary_keywords": [
+        "chữa"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 3_ME3263": {
+      "primary_keywords": [
+        "trang",
+        "giải",
+        "động",
+        "dưỡng",
+        "đoán"
+      ],
+      "secondary_keywords": [
+        "chuyên",
+        "chẩn",
+        "dụng",
+        "thiết",
+        "trình"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 4_ME3263": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME3266": {
+      "primary_keywords": [
+        "trang",
+        "động",
+        "chức",
+        "hiểu",
+        "hoạt"
+      ],
+      "secondary_keywords": [
+        "năng",
+        "điện",
+        "trên"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME3266": {
+      "primary_keywords": [
+        "động",
+        "dưỡng",
+        "điện",
+        "tiết",
+        "thân"
+      ],
+      "secondary_keywords": [
+        "thống",
+        "kiểm",
+        "tháo"
+      ],
+      "bloom_level": 4,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME3266": {
+      "primary_keywords": [
+        "đoán",
+        "chuyên",
+        "dụng",
+        "thiết",
+        "dùng"
+      ],
+      "secondary_keywords": [
+        "hỏng",
+        "chấn",
+        "điện",
+        "trên"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME3266": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME3267": {
+      "primary_keywords": [
+        "trên",
+        "hiểu",
+        "điều",
+        "thống",
+        "nguyên"
+      ],
+      "secondary_keywords": [
+        "không"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ME3267": {
+      "primary_keywords": [
+        "trang",
+        "đoán",
+        "trên",
+        "dưỡng",
+        "chuyên"
+      ],
+      "secondary_keywords": [
+        "chẩn",
+        "điều",
+        "dụng",
+        "dung",
+        "thiết"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME3267": {
+      "primary_keywords": [
+        "trên",
+        "tuổi",
+        "việc",
+        "tiến",
+        "điều"
+      ],
+      "secondary_keywords": [
+        "dụng",
+        "thiết",
+        "thống",
+        "không",
+        "nâng"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME3267": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ME3268": {
+      "primary_keywords": [
+        "giải",
+        "chức",
+        "hiểu",
+        "chuyên",
+        "dựng"
+      ],
+      "secondary_keywords": [
+        "thuật",
+        "lĩnh",
+        "dụng",
+        "năng",
+        "thiết"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 2_ME3268": {
+      "primary_keywords": [
+        "thuyết",
+        "phản",
+        "toán",
+        "tính",
+        "công"
+      ],
+      "secondary_keywords": [
+        "việc",
+        "điều",
+        "nhóm",
+        "nhân",
+        "trình"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ME3268": {
+      "primary_keywords": [
+        "đoán",
+        "giải",
+        "phản",
+        "việc",
+        "lĩnh"
+      ],
+      "secondary_keywords": [
+        "tích",
+        "chẩn",
+        "năng",
+        "phân",
+        "thống"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ME3268": {
+      "primary_keywords": [
+        "đoán",
+        "sáng",
+        "việc",
+        "công",
+        "chất"
+      ],
+      "secondary_keywords": [
+        "trường",
+        "nghi",
+        "thích",
+        "chữa",
+        "định"
+      ],
+      "bloom_level": 6,
+      "scoring_method": "termfreq"
+    },
+    "CLO 1_ATE3269": {
+      "primary_keywords": [
+        "thường",
+        "hiểu",
+        "chuyên",
+        "vựng",
+        "tiếng"
+      ],
+      "secondary_keywords": [
+        "ngành",
+        "dùng"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_ATE3269": {
+      "primary_keywords": [
+        "ngành",
+        "chuyên",
+        "thuật",
+        "đúng",
+        "trường"
+      ],
+      "secondary_keywords": [
+        "dụng",
+        "tiếng",
+        "chọn",
+        "từng"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ATE3269": {
+      "primary_keywords": [
+        "hiểu",
+        "chuyên",
+        "nghiên",
+        "tiếng",
+        "ngành"
+      ],
+      "secondary_keywords": [
+        "liệu"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 4_ATE3269": {
+      "primary_keywords": [
+        "tích",
+        "nghiêm",
+        "thức",
+        "thái"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_ATE3272": {
+      "primary_keywords": [
+        "động",
+        "xuất",
+        "chức",
+        "nghiệp",
+        "doanh"
+      ],
+      "secondary_keywords": [
+        "công",
+        "chất",
+        "điều",
+        "hoạt",
+        "tảng"
+      ],
+      "bloom_level": 4,
+      "scoring_method": "termfreq"
+    },
+    "CLO 2_ATE3272": {
+      "primary_keywords": [
+        "vững",
+        "luận",
+        "giải",
+        "động",
+        "xuất"
+      ],
+      "secondary_keywords": [
+        "tích",
+        "chất",
+        "hoạt",
+        "năng",
+        "phân"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_ATE3272": {
+      "primary_keywords": [
+        "luận",
+        "giải",
+        "pháp",
+        "thảo",
+        "năng"
+      ],
+      "secondary_keywords": [
+        "nhóm",
+        "quyết",
+        "cách",
+        "lãnh",
+        "quản"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_ATE3272": {
+      "primary_keywords": [
+        "pháp",
+        "xuất",
+        "động",
+        "nghiệp",
+        "toán"
+      ],
+      "secondary_keywords": [
+        "tính",
+        "doanh",
+        "phương",
+        "chất",
+        "hoạt"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 1_AET3273": {
+      "primary_keywords": [
+        "đoán",
+        "bước",
+        "electude",
+        "phần",
+        "chẩn"
+      ],
+      "secondary_keywords": [
+        "hiểu",
+        "thuật",
+        "dụng"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3273": {
+      "primary_keywords": [
+        "nhiệm",
+        "động",
+        "phân",
+        "loại",
+        "trình"
+      ],
+      "secondary_keywords": [
+        "thống",
+        "điện"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 3_AET3273": {
+      "primary_keywords": [
+        "đoán",
+        "giải",
+        "pháp",
+        "động",
+        "điện"
+      ],
+      "secondary_keywords": [
+        "tượng",
+        "chẩn",
+        "những",
+        "phương",
+        "đúng"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 4_AET3273": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO1_AET3274": {
+      "primary_keywords": [
+        "lĩnh",
+        "khoa",
+        "tùng",
+        "dụng",
+        "thức"
+      ],
+      "secondary_keywords": [
+        "nhiên",
+        "ngoại",
+        "kiến"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO2_AET3274": {
+      "primary_keywords": [
+        "giải",
+        "dựng",
+        "lĩnh",
+        "thuật",
+        "tùng"
+      ],
+      "secondary_keywords": [
+        "dụng",
+        "năng",
+        "quyết"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO3_AET3274": {
+      "primary_keywords": [
+        "giải",
+        "phản",
+        "việc",
+        "lĩnh",
+        "tích"
+      ],
+      "secondary_keywords": [
+        "tùng",
+        "năng",
+        "phân",
+        "thống",
+        "nhóm"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO4_AET3274": {
+      "primary_keywords": [
+        "chức",
+        "thuyết",
+        "phản",
+        "toán",
+        "tính"
+      ],
+      "secondary_keywords": [
+        "công",
+        "việc",
+        "điều",
+        "nhóm",
+        "nhân"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO5_AET3274": {
+      "primary_keywords": [
+        "sáng",
+        "nghiệp",
+        "thay",
+        "việc",
+        "công"
+      ],
+      "secondary_keywords": [
+        "hướng",
+        "chất",
+        "kiếm",
+        "trường",
+        "nghề"
+      ],
+      "bloom_level": 6,
+      "scoring_method": "termfreq"
+    },
+    "CLO 1_AET3276": {
+      "primary_keywords": [
+        "động",
+        "hiểu",
+        "phòng",
+        "chuẩn",
+        "bằng"
+      ],
+      "secondary_keywords": [
+        "tiêu",
+        "hoạt",
+        "hàng",
+        "hãng",
+        "hành"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3276": {
+      "primary_keywords": [
+        "giải",
+        "chuẩn",
+        "phòng",
+        "tiêu",
+        "hàng"
+      ],
+      "secondary_keywords": [
+        "hãng",
+        "phân",
+        "tich",
+        "hành",
+        "nhân"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 3_AET3276": {
+      "primary_keywords": [
+        "thuyết",
+        "việc",
+        "trình",
+        "nhóm",
+        "dịch"
+      ],
+      "secondary_keywords": [
+        "quản"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 4_AET3276": {
+      "primary_keywords": [
+        "trách",
+        "nhiệm",
+        "việc",
+        "tích",
+        "thân"
+      ],
+      "secondary_keywords": [
+        "thức",
+        "trình",
+        "thực"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_AET3277": {
+      "primary_keywords": [
+        "hiểu",
+        "công",
+        "việc",
+        "thuật",
+        "năng"
+      ],
+      "secondary_keywords": [
+        "thiết"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3277": {
+      "primary_keywords": [
+        "thẳng",
+        "vòng",
+        "đường",
+        "thuật",
+        "trên"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 3_AET3277": {
+      "primary_keywords": [
+        "dướng",
+        "dưỡng",
+        "chăm",
+        "thất",
+        "trình"
+      ],
+      "secondary_keywords": [
+        "khung"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 4_AET3277": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_AET3235": {
+      "primary_keywords": [
+        "động",
+        "hiệu",
+        "giải",
+        "pháp",
+        "hiểu"
+      ],
+      "secondary_keywords": [
+        "công",
+        "phanh",
+        "nghĩa",
+        "hưởng",
+        "nghệ"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3235": {
+      "primary_keywords": [
+        "trên",
+        "tượng",
+        "hiểu",
+        "việc",
+        "tích"
+      ],
+      "secondary_keywords": [
+        "phanh",
+        "điều",
+        "phân",
+        "khiển",
+        "nhân"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 3_AET3235": {
+      "primary_keywords": [
+        "đoán",
+        "dưỡng",
+        "điện",
+        "chẩn",
+        "phanh"
+      ],
+      "secondary_keywords": [
+        "điều",
+        "dụng",
+        "thức",
+        "khiển",
+        "thống"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_AET3235": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO1_AET3227": {
+      "primary_keywords": [
+        "lĩnh",
+        "khoa",
+        "dụng",
+        "thức",
+        "nhiên"
+      ],
+      "secondary_keywords": [
+        "ngoại",
+        "kiến"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO2_AET3227": {
+      "primary_keywords": [
+        "giải",
+        "dựng",
+        "lĩnh",
+        "thuật",
+        "dụng"
+      ],
+      "secondary_keywords": [
+        "năng",
+        "quyết"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO3_AET3227": {
+      "primary_keywords": [
+        "giải",
+        "phản",
+        "việc",
+        "lĩnh",
+        "tích"
+      ],
+      "secondary_keywords": [
+        "năng",
+        "phân",
+        "thống",
+        "nhóm",
+        "quyết"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO4_AET3227": {
+      "primary_keywords": [
+        "chức",
+        "thuyết",
+        "phản",
+        "toán",
+        "tính"
+      ],
+      "secondary_keywords": [
+        "công",
+        "việc",
+        "điều",
+        "nhóm",
+        "nhân"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO5_AET3227": {
+      "primary_keywords": [
+        "sáng",
+        "nghiệp",
+        "thay",
+        "việc",
+        "công"
+      ],
+      "secondary_keywords": [
+        "hướng",
+        "chất",
+        "kiếm",
+        "trường",
+        "nghề"
+      ],
+      "bloom_level": 6,
+      "scoring_method": "termfreq"
+    },
+    "CLO 1_AET3236": {
+      "primary_keywords": [
+        "động",
+        "chức",
+        "hiểu",
+        "năng",
+        "nguyên"
+      ],
+      "secondary_keywords": [
+        "trên"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3236": {
+      "primary_keywords": [
+        "động",
+        "hstđ",
+        "điểm",
+        "hiểu",
+        "nhược"
+      ],
+      "secondary_keywords": [
+        "loại",
+        "từng"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 3_AET3236": {
+      "primary_keywords": [
+        "động",
+        "thường",
+        "tích",
+        "phân",
+        "hỏng"
+      ],
+      "secondary_keywords": [
+        "định"
+      ],
+      "bloom_level": 1,
+      "scoring_method": "distinct"
+    },
+    "CLO 4_AET3236": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_AET3226": {
+      "primary_keywords": [
+        "chức",
+        "hiểu",
+        "chuyên",
+        "năng",
+        "loại"
+      ],
+      "secondary_keywords": [
+        "dùng",
+        "thông",
+        "ngành",
+        "giao"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3226": {
+      "primary_keywords": [
+        "chuyên",
+        "việc",
+        "dùng",
+        "thống",
+        "nguyên"
+      ],
+      "secondary_keywords": [
+        "trên"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 3_AET3226": {
+      "primary_keywords": [
+        "pháp",
+        "thường",
+        "tích",
+        "phương",
+        "phân"
+      ],
+      "secondary_keywords": [
+        "hỏng",
+        "chữa"
+      ],
+      "bloom_level": 4,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_AET3226": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_AET3229": {
+      "primary_keywords": [
+        "động",
+        "hiểu",
+        "phạm",
+        "hoạt",
+        "dụng"
+      ],
+      "secondary_keywords": [
+        "thiết",
+        "nguyên"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET3229": {
+      "primary_keywords": [
+        "pháp",
+        "tiến",
+        "phương",
+        "hành",
+        "biết"
+      ],
+      "secondary_keywords": [
+        "nghiệm",
+        "trên"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 3_AET3229": {
+      "primary_keywords": [
+        "nghiệm",
+        "trường",
+        "dựng"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 6,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_AET3229": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 1_AET4243": {
+      "primary_keywords": [
+        "nhiệm",
+        "hoàn",
+        "phần",
+        "những",
+        "hiểu"
+      ],
+      "secondary_keywords": [
+        "khoa",
+        "dụng",
+        "thức",
+        "kiến",
+        "thành"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    },
+    "CLO 2_AET4243": {
+      "primary_keywords": [
+        "đoán",
+        "dưỡng",
+        "tiến",
+        "những",
+        "dựng"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "khai",
+        "việt",
+        "công",
+        "thức"
+      ],
+      "bloom_level": 3,
+      "scoring_method": "termfreq"
+    },
+    "CLO 3_AET4243": {
+      "primary_keywords": [
+        "nhiệm",
+        "lich",
+        "tổng",
+        "khoa"
+      ],
+      "secondary_keywords": [],
+      "bloom_level": 6,
+      "scoring_method": "termfreq"
+    },
+    "CLO 4_AET4243": {
+      "primary_keywords": [
+        "hình",
+        "hiệu",
+        "nghiệp",
+        "chuyên",
+        "việc"
+      ],
+      "secondary_keywords": [
+        "chất",
+        "năng",
+        "thiết",
+        "nhân",
+        "nghề"
+      ],
+      "bloom_level": 2,
+      "scoring_method": "distinct"
+    }
+  },
+  "bloom_examples": {
+    "1": [
+      "Vận dụng tốt các kỹ năng: giao tiếp, thuyết trình, đàm phán, xác định mục tiêu và lập kế hoạch, xử lý linh hoạt các tình huống trong lĩnh vực chuyên môn.",
+      "Hiểu rõ các khái niệm, các định nghĩa và tính chất cơ bản của các phép chiếu",
+      "Hiểu được động học, động lực học bánh xe ô, xác định lực cản, cân bằng lực và công suất khi ô tô di chuyển",
+      "Sử dụng các kiến thức đã học để đọc bản vẽ chi tiết; phân tích chi tiết đưa được ra quy trình công nghệ; xác định được các dạng sai hỏng trong gia công nguội nguyên nhân và biện pháp khắc phục",
+      "Có tư duy phân tích, xác định  được hư hỏng thường gặp với hộp số tự động"
+    ],
+    "2": [
+      "Hiểu rõ được các kiến thức cần thiết về tác dụng cơ học",
+      "Có ý thức, thái độ học tập nghiêm túc, tích cực",
+      ") và bố cục thành các chương như sau: Chương 1. Khái niệm chung về bản vẽ điện, điện tử: 3 (02 LT; 01 BT) Chương 2. Các ký hiệu, quy ước dùng trong bản vẽ điện, điện tử: 09 (06 LT; 03 BT) Chương 3. Vẽ sơ đồ điện: 12 (09 LT; 03 BT) Chương 4. Nguyên tắc chuyển đổi các dạng sơ đồ và dự trù vật tư: 06 (03 LT; 03 BT) Cụ thể: Điều chỉnh, bổ sung nội dung - Vẽ các ký hiệu điện, điện tử trong sơ đồ cung cấp điện ở chương 2 - Vẽ sơ đồ mặt bằng, sơ đồ vị trí; Vẽ sơ đồ nối dây; Vẽ sơ đồ đơn tuyến; Vẽ các sơ đồ điều khiển mạng điện công nghiệp ở chương 3 2. Ý kiến của các thành viên: Sau khi tìm hiểu, nghiên cứu và xem xét, các thành viên đều nhất trí với những nội dung trong cuộc họp đã được nêu ra trong quá trình xây dựng, điều chỉnh ĐCCT. Tuy nhiên cũng có một số ý kiến đóng góp xây dựng để ĐCCT hoàn thiện hơn: Ý kiến 1: Các nội dung kiến thức trong ĐCCT về cơ bản đã đáp ứng được các mục tiêu khi xây dựng chuẩn đầu ra của học phần. Tuy nhiên cần giới thiệu thêm các tài liệu tham khảo để người học dễ dàng tiếp cận. Ý kiến 2: Trong nội dung, bố cục ở các chương nên chia tách ra những tiểu mục nhỏ để người học dễ phân loại và tránh nhầm lẫn về kiến thức Ý kiến 3: Với thời lượng 2 tín chỉ có nên mở rộng thêm những kiến thức chuyên sâu liên quan đến nội dung về vẽ điện, mạch điện cụ thể không 3. Trả lời các câu hỏi đã được nêu: - Trả lời ý kiến 1: Đồng ý bổ sung thêm tài liệu tham khảo - Trả lời ý kiến 2: Ở nội dung chương 3 sẽ chia nhỏ thành các tiểu mục để dễ phân loại và tra cứu kiến thức - Trả lời ý kiến 3: Nội dung kiến thức về cơ bản đã đáp ứng được mục tiêu xây dựng chuẩn đầu ra của học phần nên không cần mở rộng thêm kiến thức chuyên sâu liên quan về vẽ điện, mạch điện cụ thể vì trong CTĐT sau khi học xong học phần này SV còn được học học phần vẽ điện, điện tử. 4. Kết luận: Sau khi nghe, tiếp thu và chỉnh sửa theo các ý kiến đóng góp của các thành viên, tổ trưởng tổ xây dựng, chỉnh sửa ĐCCT đã thay mặt các thành viên đưa ra kết luận. - Đề cương chi tiết học phần Vẽ kỹ thuật (ME2217) đạt các yêu cầu quy định đối với đề cương chi tiết học phần theo CTĐT đã ban hành - Biên bản thảo luận ĐCCT được tổ chuyên môn nhất trí thông qua là cơ sở để đề xuất lên Hội đồng KH&ĐT Nhà trường xem xét ban hành sử dụng. Phiên họp kết thúc vào hồi 11 giờ 00, ngày 21 tháng 08 năm 2023. Các thành viên trong cuộc họp 100% nhất trí theo kết luận cuộc họp.",
+      ") và bố cục thành các chương như sau: Chương 1. Các khái niệm cơ bản về hệ tiên đề tĩnh học: 03 LT/BT Chương 2. Lý thuyết hệ lực: 08 LT/BT Chương 3. Ma sát giữa các vật rắn: 03 LT/BT Chương 4. Trọng tâm của vật rắn: 03 LT/BT Chương 5. Động học điểm: 03 LT/BT Chương 6. Chuyển động cơ bản của vật rắn: 10 LT/BT Cụ thể: Điều chỉnh, bổ sung nội dung - Các bài toán cơ bản của tĩnh học; các bài toán hệ vật ở chương 2 - Các phương pháp khảo sát chuyển động của điểm ở chương 5 2. Ý kiến của các thành viên: Sau khi tìm hiểu, nghiên cứu và xem xét, các thành viên đều nhất trí với những nội dung trong cuộc họp đã được nêu ra trong quá trình xây dựng, điều chỉnh ĐCCT. Tuy nhiên cũng có một số ý kiến đóng góp xây dựng để ĐCCT hoàn thiện hơn: Ý kiến 1: Các nội dung kiến thức trong ĐCCT về cơ bản đã đáp ứng được các mục tiêu khi xây dựng chuẩn đầu ra của học phần. Tuy nhiên cần bổ sung phương pháp dạy học tương thích với CĐR của CTĐT Ý kiến 2: Khối lượng kiến thức được phân bổ rõ ràng trong từng chương, bố cục sắp xếp hợp lý, khoa học phù hợp với chuẩn đầu ra. Nhưng cần bổ sung phần thực hành vào ĐCCT không Ý kiến 3: ĐCCT được trình bày đầy đủ các nội dung và đúng với biểu mẫu ban hành của Nhà trường 3. Trả lời các câu hỏi đã được nêu: - Trả lời ý kiến 1: Đồng ý bổ sung phương pháp dạy học phù hợp (PP1, 2, 3, 7, 16) - Trả lời ý kiến 2: Với thời lượng 2 tín chỉ, là môn học cơ sở ngành nên chưa cần thiết bổ sung phần thực hành trong ĐCCT 4. Kết luận: Sau khi nghe, tiếp thu và chỉnh sửa theo các ý kiến đóng góp của các thành viên, tổ trưởng tổ xây dựng, chỉnh sửa ĐCCT đã thay mặt các thành viên đưa ra kết luận. - Đề cương chi tiết học phần Cơ lý thuyết (ME2214) đạt các yêu cầu quy định đối với đề cương chi tiết học phần theo CTĐT đã ban hành - Biên bản thảo luận ĐCCT được tổ chuyên môn nhất trí thông qua là cơ sở để đề xuất lên Hội đồng KH&ĐT Nhà trường xem xét ban hành sử dụng. Phiên họp kết thúc vào hồi 11 giờ 00, ngày 21 tháng 08 năm 2023. Các thành viên trong cuộc họp 100% nhất trí theo kết luận cuộc họp.",
+      "Hiểu rõ các quy ước về biểu diễn của các Tiêu chuẩn trình bày bản vẽ theo TCVN và ISO",
+      "Có tư duy không gian, hiểu biết vận dụng tốt các quy ước biểu diễn vật thể phù hợp các Tiêu chuẩn quốc gia và quốc tế",
+      "Có ý thức, thái độ học tập nghiêm túc. Rèn luyện tác phong khoa học, kiên nhẫn, tỷ mỷ, chính xác của người kỹ sư thiết kế.",
+      "Hiểu và  có kiến thức cơ bản về cấu tạo, nguyên lý làm việc của các cụm tổng thành  của ô tô và có khả năng thiết kế tối ưu các cụm cơ bản của ô tô.",
+      "Nhận biết về cấu tạo của các cơ cấu, hệ thống, tổng thành trên ôtô.",
+      "Hiểu được về cấu tạo, nguyên lý làm việc của các hệ thống, cơ cấu, tổng thành trên ôtô"
+    ],
+    "3": [
+      "Sử dụng và lựa chọn đúng các đặc trưng, trạng thái cơ học liên quan đến sức bền vật liệu",
+      "Có tư duy phân tích và tính toán được các bài toán liên quan đến sức bền vật liệu (chuyển vị, siêu tĩnh, hệ lực chịu tải động...)",
+      "Sử dụng các kiến thức Hình họa và các Tiêu chuẩn để vẽ các bản vẽ biểu diễn vật thể, các bản vẽ chi tiết bằng cách sử dụng dụng cụ và vật liệu vẽ. Hiểu các khái niệm dung sai, nhám bề mặt, các quy ước về vẽ mối ghép, các phương pháp truyền động… để trình bày trong các bản vẽ lắp và bản vẽ chi tiết.",
+      "Vận dụng kiến thức có khả năng tính toán thiết kế các chi tiết, cụm, tổng thành hệ thống thuộc gầm ô tô",
+      "Phân tích được cấu tạo, nguyên lý làm việc của các hệ thống, tổng thành; vận dụng được các kiến thức để tính toán, thiết kế một số chi tiết, cụm, tổng thành, hệ thống thuộc gầm ô tô.",
+      "Có ý thức, thái độ cầu thị, nghiêm túc, thực hiện đúng các nội quy, quy chế. Từ đó, hình thành tác phong làm việc chuyên nghiệp.",
+      "Áp dụng các kiến thức đã học để kiểm tra, sửa chữa các hệ thống điện – điện tử trên  ô tô",
+      "Vận dụng kiến thức về khoa học tự nhiên, xã hội, Ngoại ngữ, tin học vào lĩnh vực chuyên môn, nghề nghiệp.",
+      "Khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực công nghệ kỹ thuật ô tô bằng cách áp dụng các kiến thức khoa học. kỹ thuật, toán học, vật lý.",
+      "Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp, dự báo, quản lý, dẫn dắt và giải quyết vấn đề trong các hoạt động chuyên môn."
+    ],
+    "4": [
+      "Có tư duy phân tích được quá trình thay đổi cấu trúc, trạng thái, tính chất của vật liệu khi có tác dụng của nhiệt độ, áp lực của nhiệt luyện",
+      "Có tư duy phân tích được các quá trình gia công kim loại (không tạo phoi và tạo phoi)",
+      "Phân tích các lỗi sai, hỏng hóc và cách khắc phục trên các mạch điện ô tô",
+      "Kiểm tra, phát hiện và đưa ra biện pháp khắc phục được các dạng sai hỏng khi gia công nguội",
+      "Chuẩn bị, kiểm tra được tình trạng của thiết bị, dụng cụ, vật liệu hàn cho phù hợp với từng phương pháp hàn.",
+      "Kiểm tra, phát hiện và đưa ra biện pháp khắc phục được các dạng khuyết tật mối hàn.",
+      "Nắm chắc, phân tích được chức năng, kết cấu, lắp ráp, tình hình làm việc, hoạt động của các cụm, hệ thống, cơ cấu trên xe ô tô",
+      "Mô tả được phương pháp tổ chức, quản lý điều hành; bố trí vận hành trang thiết bị, cơ sở vật chất của  các cơ sở kinh doanh, dịch vụ bảo dưỡng, sửa chữa.",
+      "Tháo lắp, bảo dưỡng kiểm tra các cụm chi tiết của hệ thống điện động cơ, điện thân xe.",
+      "Kiến thức nền tảng về doanh nghiệp, các hoạt động quản trị sản xuất, tổ chức, điều hành một cơ sở sản xuất, lập quy trình sản xuất, các công cụ quản lý chất lượng."
+    ],
+    "5": [],
+    "6": [
+      "Năng lực chuyên môn để có thể tham gia thiết kế, chế tạo, vận hành, bảo trì, bảo dưỡng, sửa chữa ô tô truyền thống, xe ô tô điện và các chi tiết, phụ tùng của ô tô; Định hướng xây dựng các giải pháp công nghệ,\n kỹ thuật cho các lĩnh vực liên quan đến ngành ôtô",
+      "Có phẩm chất đạo đức nghề nghiệp, tinh thần học tập nghiêm túc, năng lực nghiên cứu độc lập, tư duy sáng tạo, thích nghi nhanh với sự thay đổi của môi trường, có khả năng định hướng và tìm kiếm cơ hội phát triển nghề nghiệp, thực hiện tốt trách nhiệm công dân.",
+      "Có tư duy phân tích, tính toán, thiết kế và tổng hợp một số cơ cấu máy (động học, động lực học, cơ cấu cam, hệ bánh răng)",
+      "Tổng hợp, xây dựng các bản vẽ theo tiêu chuẩn",
+      "Tổng hợp, xây dựng các bản vẽ theo tiêu chuẩn",
+      "Tổng hợp được các kiến thức lý thuyết, thực tế thu nhập được để hoàn thành các nội dung trong báo cáo thực tập; làm cơ sở lựa chọn đề tài tốt nghiệp, nội dung thực tâp tốt nghiệp.",
+      "Có phẩm chất đạo đức nghề nghiệp, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp trong bảo dưỡng, sửa chữa ô tô.",
+      "Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp trong chẩn đoán, sửa chữa ô tô.",
+      "Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp.",
+      "Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp trong lắp ráp ô tô."
+    ]
+  },
+  "assessment_rubrics": {}
+}

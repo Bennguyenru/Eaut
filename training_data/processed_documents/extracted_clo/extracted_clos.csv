@@ -1,0 +1,362 @@
+clo_code,course_code,description,pi_code,plo_code,assessment_level,bloom_level,weight,keywords,assessment_methods
+CLO 1_ME2206,ME2206,Hiểu rõ được các kiến thức cần thiết về tác dụng cơ học,PI 4.1,PLO4,PI 4.1,2,1.0,"['hiểu', 'dụng', 'thức', 'thiết', 'kiến']",[]
+CLO 2_ME2206,ME2206,"Sử dụng và lựa chọn đúng các đặc trưng, trạng thái cơ học liên quan đến sức bền vật liệu",PI 4.2,PLO4,PI 4.2,3,1.0,"['trạng', 'thái', 'trưng', 'đúng', 'dụng', 'quan', 'chọn', 'liệu', 'liên']",[]
+CLO 3_ME2206,ME2206,"Có tư duy phân tích và tính toán được các bài toán liên quan đến sức bền vật liệu (chuyển vị, siêu tĩnh, hệ lực chịu tải động...)",PI 8.2,PLO8,PI 8.2,3,1.0,"['động', 'toán', 'siêu', 'tính', 'tích', 'chuyển', 'tĩnh', 'phân', 'quan', 'chịu']",[]
+CLO 4_ME2206,ME2206,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO4_,,") và bố cục thành các chương như sau: Chương 1. Khái niệm chung về bản vẽ điện, điện tử: 3 (02 LT; 01 BT) Chương 2. Các ký hiệu, quy ước dùng trong bản vẽ điện, điện tử: 09 (06 LT; 03 BT) Chương 3. Vẽ sơ đồ điện: 12 (09 LT; 03 BT) Chương 4. Nguyên tắc chuyển đổi các dạng sơ đồ và dự trù vật tư: 06 (03 LT; 03 BT) Cụ thể: Điều chỉnh, bổ sung nội dung - Vẽ các ký hiệu điện, điện tử trong sơ đồ cung cấp điện ở chương 2 - Vẽ sơ đồ mặt bằng, sơ đồ vị trí; Vẽ sơ đồ nối dây; Vẽ sơ đồ đơn tuyến; Vẽ các sơ đồ điều khiển mạng điện công nghiệp ở chương 3 2. Ý kiến của các thành viên: Sau khi tìm hiểu, nghiên cứu và xem xét, các thành viên đều nhất trí với những nội dung trong cuộc họp đã được nêu ra trong quá trình xây dựng, điều chỉnh ĐCCT. Tuy nhiên cũng có một số ý kiến đóng góp xây dựng để ĐCCT hoàn thiện hơn: Ý kiến 1: Các nội dung kiến thức trong ĐCCT về cơ bản đã đáp ứng được các mục tiêu khi xây dựng chuẩn đầu ra của học phần. Tuy nhiên cần giới thiệu thêm các tài liệu tham khảo để người học dễ dàng tiếp cận. Ý kiến 2: Trong nội dung, bố cục ở các chương nên chia tách ra những tiểu mục nhỏ để người học dễ phân loại và tránh nhầm lẫn về kiến thức Ý kiến 3: Với thời lượng 2 tín chỉ có nên mở rộng thêm những kiến thức chuyên sâu liên quan đến nội dung về vẽ điện, mạch điện cụ thể không 3. Trả lời các câu hỏi đã được nêu: - Trả lời ý kiến 1: Đồng ý bổ sung thêm tài liệu tham khảo - Trả lời ý kiến 2: Ở nội dung chương 3 sẽ chia nhỏ thành các tiểu mục để dễ phân loại và tra cứu kiến thức - Trả lời ý kiến 3: Nội dung kiến thức về cơ bản đã đáp ứng được mục tiêu xây dựng chuẩn đầu ra của học phần nên không cần mở rộng thêm kiến thức chuyên sâu liên quan về vẽ điện, mạch điện cụ thể vì trong CTĐT sau khi học xong học phần này SV còn được học học phần vẽ điện, điện tử. 4. Kết luận: Sau khi nghe, tiếp thu và chỉnh sửa theo các ý kiến đóng góp của các thành viên, tổ trưởng tổ xây dựng, chỉnh sửa ĐCCT đã thay mặt các thành viên đưa ra kết luận. - Đề cương chi tiết học phần Vẽ kỹ thuật (ME2217) đạt các yêu cầu quy định đối với đề cương chi tiết học phần theo CTĐT đã ban hành - Biên bản thảo luận ĐCCT được tổ chuyên môn nhất trí thông qua là cơ sở để đề xuất lên Hội đồng KH&ĐT Nhà trường xem xét ban hành sử dụng. Phiên họp kết thúc vào hồi 11 giờ 00, ngày 21 tháng 08 năm 2023. Các thành viên trong cuộc họp 100% nhất trí theo kết luận cuộc họp.",,,,2,1.0,"['tách', 'biên', 'thức', 'khiển', 'thông', 'dạng', 'định', 'chỉnh', 'thay', 'thuật']",[]
+CLO4_,,") và bố cục thành các chương như sau: Chương 1. Các khái niệm cơ bản về hệ tiên đề tĩnh học: 03 LT/BT Chương 2. Lý thuyết hệ lực: 08 LT/BT Chương 3. Ma sát giữa các vật rắn: 03 LT/BT Chương 4. Trọng tâm của vật rắn: 03 LT/BT Chương 5. Động học điểm: 03 LT/BT Chương 6. Chuyển động cơ bản của vật rắn: 10 LT/BT Cụ thể: Điều chỉnh, bổ sung nội dung - Các bài toán cơ bản của tĩnh học; các bài toán hệ vật ở chương 2 - Các phương pháp khảo sát chuyển động của điểm ở chương 5 2. Ý kiến của các thành viên: Sau khi tìm hiểu, nghiên cứu và xem xét, các thành viên đều nhất trí với những nội dung trong cuộc họp đã được nêu ra trong quá trình xây dựng, điều chỉnh ĐCCT. Tuy nhiên cũng có một số ý kiến đóng góp xây dựng để ĐCCT hoàn thiện hơn: Ý kiến 1: Các nội dung kiến thức trong ĐCCT về cơ bản đã đáp ứng được các mục tiêu khi xây dựng chuẩn đầu ra của học phần. Tuy nhiên cần bổ sung phương pháp dạy học tương thích với CĐR của CTĐT Ý kiến 2: Khối lượng kiến thức được phân bổ rõ ràng trong từng chương, bố cục sắp xếp hợp lý, khoa học phù hợp với chuẩn đầu ra. Nhưng cần bổ sung phần thực hành vào ĐCCT không Ý kiến 3: ĐCCT được trình bày đầy đủ các nội dung và đúng với biểu mẫu ban hành của Nhà trường 3. Trả lời các câu hỏi đã được nêu: - Trả lời ý kiến 1: Đồng ý bổ sung phương pháp dạy học phù hợp (PP1, 2, 3, 7, 16) - Trả lời ý kiến 2: Với thời lượng 2 tín chỉ, là môn học cơ sở ngành nên chưa cần thiết bổ sung phần thực hành trong ĐCCT 4. Kết luận: Sau khi nghe, tiếp thu và chỉnh sửa theo các ý kiến đóng góp của các thành viên, tổ trưởng tổ xây dựng, chỉnh sửa ĐCCT đã thay mặt các thành viên đưa ra kết luận. - Đề cương chi tiết học phần Cơ lý thuyết (ME2214) đạt các yêu cầu quy định đối với đề cương chi tiết học phần theo CTĐT đã ban hành - Biên bản thảo luận ĐCCT được tổ chuyên môn nhất trí thông qua là cơ sở để đề xuất lên Hội đồng KH&ĐT Nhà trường xem xét ban hành sử dụng. Phiên họp kết thúc vào hồi 11 giờ 00, ngày 21 tháng 08 năm 2023. Các thành viên trong cuộc họp 100% nhất trí theo kết luận cuộc họp.",,,,2,1.0,"['tĩnh', 'ràng', 'biên', 'thức', 'thông', 'thích', 'định', 'chỉnh', 'toán', 'thay']",[]
+CLO 1_,,Hiểu rõ các quy ước về biểu diễn của các Tiêu chuẩn trình bày bản vẽ theo TCVN và ISO,PI 4.3,PLO4,PI 4.3,2,1.0,"['hiểu', 'tiêu', 'tcvn', 'theo', 'chuâ']",[]
+CLO 2_,,"Sử dụng các kiến thức Hình họa và các Tiêu chuẩn để vẽ các bản vẽ biểu diễn vật thể, các bản vẽ chi tiết bằng cách sử dụng dụng cụ và vật liệu vẽ. Hiểu các khái niệm dung sai, nhám bề mặt, các quy ước về vẽ mối ghép, các phương pháp truyền động… để trình bày trong các bản vẽ lắp và bản vẽ chi tiết.",PI 4.3,PLO4,PI 4.3,3,1.0,"['phương', 'tiêu', 'dụng', 'dung', 'chuâ', 'truyê']",[]
+CLO 3_,,"Có tư duy không gian, hiểu biết vận dụng tốt các quy ước biểu diễn vật thể phù hợp các Tiêu chuẩn quốc gia và quốc tế",PI 4.3,PLO4,PI 4.3,2,1.0,"['chuâ', 'tiêu', 'gian', 'không']",[]
+CLO 4_,,"Có ý thức, thái độ học tập nghiêm túc. Rèn luyện tác phong khoa học, kiên nhẫn, tỷ mỷ, chính xác của người kỹ sư thiết kế.",PI 12.4,PLO12,PI 12.4,2,1.0,"['nghiêm', 'thái', 'ngươ', 'khoa', 'phong', 'thiê', 'luyê', 'thức', 'kiên']",[]
+CLO 1_AET3217,AET3217,"Hiểu và  có kiến thức cơ bản về cấu tạo, nguyên lý làm việc của các cụm tổng thành  của ô tô và có khả năng thiết kế tối ưu các cụm cơ bản của ô tô.",PI4.2,PLO4,PI4.2,2,1.0,"['kiến', 'hiểu', 'việc', 'năng', 'thức', 'thiết', 'nguyên', 'tổng', 'thành']",[]
+CLO 2_AET3217,AET3217,"Vận dụng kiến thức có khả năng tính toán thiết kế các chi tiết, cụm, tổng thành hệ thống thuộc gầm ô tô",PI5.2,PLO5,PI5.2,3,1.0,"['toán', 'tính', 'thuộc', 'tiết', 'dụng', 'năng', 'thức', 'thiết', 'thống', 'kiến']",[]
+CLO 3_AET3217,AET3217,"Phân tích được cấu tạo, nguyên lý làm việc của các hệ thống, tổng thành; vận dụng được các kiến thức để tính toán, thiết kế một số chi tiết, cụm, tổng thành, hệ thống thuộc gầm ô tô.",PI11.1,PLO11,PI11.1,3,1.0,"['kiến', 'toán', 'việc', 'tính', 'tích', 'thuộc', 'tiết', 'dụng', 'phân', 'thức']",[]
+CLO 4_AET3217,AET3217,"Có ý thức, thái độ cầu thị, nghiêm túc, thực hiện đúng các nội quy, quy chế. Từ đó, hình thành tác phong làm việc chuyên nghiệp.","PI12.3
+PI12.4",PLO12,"PI12.3
+PI12.4",3,1.0,"['hình', 'nghiêm', 'nghiệp', 'việc', 'thái', 'chuyên', 'đúng', 'phong', 'thức', 'thực']",[]
+CLO 1_AET3218,AET3218,"Nhận biết về cấu tạo của các cơ cấu, hệ thống, tổng thành trên ôtô.",PI4.1,PLO4,PI4.1,2,1.0,"['trên', 'nhận', 'biết', 'thống', 'tổng', 'thành']",[]
+CLO 2_AET3218,AET3218,"Hiểu được về cấu tạo, nguyên lý làm việc của các hệ thống, cơ cấu, tổng thành trên ôtô","PI6.1
+PI6.2",PLO6,"PI6.1
+PI6.2",2,1.0,"['trên', 'hiểu', 'việc', 'thống', 'nguyên', 'tổng', 'thành']",[]
+CLO 3_AET3218,AET3218,"Giải thích và lập luận về cấu tạo, nguyên lý làm việc của các cơ cấu, hệ thống, tổng thành trên ôtô.",PI6.1,PLO6,PI6.1,2,1.0,"['trên', 'giải', 'luận', 'việc', 'thống', 'thích', 'nguyên', 'tổng', 'thành']",[]
+CLO 4_AET3218,AET3218,"Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề","PI12.3 
+PI12.4",PLO12,"PI12.3 
+PI12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_AET3219,AET3219,Hiểu được các kỹ thuật điện cơ bản,PI4.1,PLO4,PI4.1,2,1.0,"['thuật', 'điện', 'hiểu']",[]
+CLO 2_AET3219,AET3219,"Khái quát chung các cơ cấu, hệ thống trang bị điện cơ bản và điều khiển tự động trên xe ô tô.",PI4.2,PLO4,PI4.2,2,1.0,"['trang', 'động', 'khái', 'quát', 'chung', 'điều', 'khiển', 'thống', 'điện', 'trên']",[]
+CLO 3_AET3219,AET3219,"Mô tả được cấu tạo, nguyên lý hoạt động của các cơ cấu, hệ thống  trang bị điện cơ bản trên ô tô.",PI4.1,PLO4,PI4.1,2,1.0,"['trang', 'động', 'hoạt', 'thống', 'điện', 'nguyên', 'trên']",[]
+CLO 4_AET3219,AET3219,"Giải thích được các hiện tượng, nguyên nhân hư hỏng của các cơ cấu, hệ thống trang bị điện- điện tử trên ô tô.  Áp dụng các kiến thức đã học để kiểm tra, sửa chữa các hệ thống điện – điện tử trên  ô tô","PI4.1
+PI4.2",PLO4,"PI4.1
+PI4.2",2,1.0,"['trang', 'giải', 'trên', 'kiến', 'tượng', 'dụng', 'thức', 'nhân', 'hỏng', 'thống']",[]
+CLO 5_AET3219,AET3219,"Áp dụng các kiến thức đã học để kiểm tra, sửa chữa các hệ thống điện – điện tử trên  ô tô","PI5.1
+PI5.2",PLO5,"PI5.1
+PI5.2",3,1.0,"['điện', 'dụng', 'thức', 'thống', 'chữa', 'kiểm', 'kiến', 'trên']",[]
+CLO 6_AET3219,AET3219,"Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.","PI12.2 
+PI12.3",PLO12,"PI12.2 
+PI12.3",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO1_,,"Hiểu rõ các nguyên lý cơ bản của chủ nghĩa Mác - Lênin, đường lối cách mạng của Đảng Cộng sản Việt Nam, tư tưởng Hồ Chí Minh; chính sách, pháp luật của Nhà nước.",,,,2,1.0,"['đảng', 'pháp', 'đường', 'nước', 'hiểu', 'mạng', 'việt', 'nghĩa', 'tưởng', 'chính']",[]
+CLO2_,,"Vận dụng kiến thức về khoa học tự nhiên, xã hội, Ngoại ngữ, tin học vào lĩnh vực chuyên môn, nghề nghiệp.",,,,3,1.0,"['nghiệp', 'chuyên', 'lĩnh', 'khoa', 'dụng', 'thức', 'nghề', 'nhiên', 'ngoại', 'kiến']",[]
+CLO3_,,Hoàn thành kiến thức Quốc phòng - an ninh và Giáo dục thể chất để tự rèn luyện về tinh thần và thể chất.,,,,2,1.0,"['luyện', 'hoàn', 'phòng', 'chất', 'quốc', 'giáo', 'tinh', 'thức', 'ninh', 'thần']",[]
+CLO4_,,"Khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực công nghệ kỹ thuật ô tô bằng cách áp dụng các kiến thức khoa học. kỹ thuật, toán học, vật lý.",,,,3,1.0,"['giải', 'toán', 'dựng', 'lĩnh', 'thuật', 'công', 'bằng', 'khoa', 'dụng', 'năng']",[]
+CLO5_,,"Khả năng phát triển và tiến hành thực hành, phân tích, giải thích dữ liệu, sử dụng đánh giá kỹ thuật để đưa ra các kết luận cho các vấn đề chuyên môn trong lĩnh vực công nghệ kỹ thuật ô tô.",,,,2,1.0,"['tiến', 'chuyên', 'công', 'phân', 'thích', 'liệu', 'đánh', 'luận', 'tích', 'thuật']",[]
+CLO6_,,"Năng lực chuyên môn để có thể tham gia thiết kế, chế tạo, vận hành, bảo trì, bảo dưỡng, sửa chữa ô tô truyền thống, xe ô tô điện và các chi tiết, phụ tùng của ô tô; Định hướng xây dựng các giải pháp công nghệ,
+ kỹ thuật cho các lĩnh vực liên quan đến ngành ôtô",,,,6,1.0,"['dưỡng', 'chuyên', 'dựng', 'công', 'ngành', 'chữa', 'định', 'hướng', 'thuật', 'tiết']",[]
+CLO7_,,"Vận dụng tốt các kỹ năng: giao tiếp, thuyết trình, đàm phán, xác định mục tiêu và lập kế hoạch, xử lý linh hoạt các tình huống trong lĩnh vực chuyên môn.",,,,1,1.0,"['thuyết', 'chuyên', 'huống', 'lĩnh', 'tiêu', 'hoạt', 'dụng', 'năng', 'linh', 'trình']",[]
+CLO8_,,"Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp, dự báo, quản lý, dẫn dắt và giải quyết vấn đề trong các hoạt động chuyên môn.",,,,3,1.0,"['giải', 'động', 'quản', 'phản', 'việc', 'chuyên', 'tích', 'hoạt', 'năng', 'phân']",[]
+CLO9_,,"Sử dụng được Tiếng Anh cơ bản, tin học văn phòng, tin học ứng dụng trong lĩnh vực chuyên môn.",,,,3,1.0,"['chuyên', 'phòng', 'dụng', 'tiếng', 'lĩnh']",[]
+CLO10_,,"Đọc hiểu và xây dựng được bản vẽ kỹ thuật; Khai thác, vận hành, quản lý; Bảo trì, bảo dưỡng, sửa chữa; Tư vấn, chuyển giao công nghệ về lĩnh vực ngành công nghệ kỹ thuật ô tô.",,,,2,1.0,"['ngành', 'dưỡng', 'hiểu', 'dựng', 'công', 'thuật', 'khai', 'chuyển', 'thác', 'hành']",[]
+CLO11_,,"Tính toán, lập báo cáo, thuyết trình, phản biện, tổ chức công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm",,,,3,1.0,"['chức', 'thuyết', 'phản', 'toán', 'tính', 'công', 'việc', 'điều', 'nhóm', 'nhân']",[]
+CLO12_,,"Có phẩm chất đạo đức nghề nghiệp, tinh thần học tập nghiêm túc, năng lực nghiên cứu độc lập, tư duy sáng tạo, thích nghi nhanh với sự thay đổi của môi trường, có khả năng định hướng và tìm kiếm cơ hội phát triển nghề nghiệp, thực hiện tốt trách nhiệm công dân.",,,,6,1.0,"['sáng', 'công', 'chất', 'trường', 'nhanh', 'nghi', 'thích', 'định', 'thần', 'thay']",[]
+CLO 1_ME2201,ME2201,"Nhận biết và hình thành quan điểm nghề nghiệp, Định hướng nghề nghiệp, giúp cho sinh viên hiểu biết về công việc sẽ làm sau khi tốt nghiệp nhằm nâng cao lòng yêu nghề và tinh thần học tập;",PI 2.1,PLO2,PI 2.1,2,1.0,"['việc', 'công', 'sinh', 'định', 'thần', 'thành', 'lòng', 'hướng', 'điểm', 'nhận']",[]
+CLO 2_ME2201,ME2201,"Hiểu sơ bộ các kiến thức cơ bản liên quan đến ngành công nghệ kỹ thuật ôtô, kiến thức tổng quan về ôtô;",PI 4.1,PLO4,PI 4.1,2,1.0,"['hiểu', 'công', 'thuật', 'thức', 'nghệ', 'quan', 'ngành', 'kiến', 'tổng', 'liên']",[]
+CLO 3_ME2201,ME2201,Nắm bắt tốt nội dung chương trình của khóa học giúp sinh viên có thể dễ dàng nắm rõ lộ trình học tập của mình trong quá trình học tại trường.,PI 12.2,PLO12,PI 12.2,2,1.0,"['mình', 'viên', 'giúp', 'khóa', 'dàng', 'trường', 'dung', 'sinh', 'trình', 'chương']",[]
+CLO 4_ME2201,ME2201,"Có ý thức, thái độ học tập nghiêm túc, tích cực.",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_,,"Hiểu rõ các khái niệm, các định nghĩa và tính chất cơ bản của các phép chiếu",PI 4.3,PLO4,PI 4.3,1,1.0,"['hiểu', 'tính', 'khái', 'chất', 'phép', 'chiếu', 'niệm', 'định', 'nghĩa']",[]
+CLO 2_,,"Nắm vững các quy tắc biểu diễn các yếu tố cơ bản trong không gian: Điểm, đường thẳng, mặt phẳng, đường cong và các mặt. Sử dụng nhuần nhuyễn phương pháp hai hình chiếu vuông góc để giải quyết các bài toán về vị trí và các bài toán về lượng",PI 4.3,PLO4,PI 4.3,3,1.0,"['vững', 'đường', 'diễn', 'lượng', 'chiếu', 'phẳng', 'toán', 'điểm', 'cong', 'gian']",[]
+CLO 3_,,"Có tư duy không gian, vẽ được chính xác các bài toán tìm giao tuyến",PI 4.3,PLO4,PI 4.3,2,1.0,"['toán', 'chính', 'tuyến', 'giao', 'gian', 'không']",[]
+CLO 4_,,"Có ý thức, thái độ học tập nghiêm túc. Rèn luyện tác phong khoa học,  kiên nhẫn, tỷ mỷ, chính xác của người kỹ sư thiết kế.",PI 12.4,PLO12,PI 12.4,2,1.0,"['nghiêm', 'thái', 'ngươ', 'khoa', 'phong', 'thiê', 'luyê', 'thức', 'kiên']",[]
+CLO 1_,,"Hiểu rõ các khái niệm cơ bản trong AutoCAD, công dụng và các ứng dụng của phần mềm trong vẽ thiết kế",PI 4.3,PLO4,PI 4.3,2,1.0,"['hiểu', 'công', 'phần', 'khái', 'dụng', 'thiết', 'niệm', 'autocad']",[]
+CLO 2_,,"Thông thuộc các lệnh vẽ, các lệnh chỉnh sửa, cách tạo Layer, tạo khối Block, tạo mảng Array. Biết hình thành bản vẽ trên các Model và Layout",PI 4.3,PLO4,PI 4.3,2,1.0,"['layer', 'hình', 'chỉnh', 'lệnh', 'thuộc', 'khối', 'block', 'array', 'layout', 'thông']",[]
+CLO 3_,,"Có kỹ năng sử dụng máy tính, làm chủ phần mềm thiết kế để hoàn thiện các bản vẽ 2D",PI 4.3,PLO4,PI 4.3,3,1.0,"['hoàn', 'phần', 'tính', 'dụng', 'năng', 'thiết', 'thiện']",[]
+CLO 4_,,"Có ý thức, thái độ học tập nghiêm túc. Rèn luyện tác phong khoa học, kiên nhẫn, tỷ mỷ, chính xác của người kỹ sư thiết kế.",PI 12.4,PLO12,PI 12.4,2,1.0,"['nghiêm', 'thái', 'ngươ', 'khoa', 'phong', 'thiê', 'luyê', 'thức', 'kiên']",[]
+CLO 1_ME2205,ME2205,Hiểu rõ các hệ về lực cơ học,PI 4.1,PLO4,PI 4.1,2,1.0,['hiểu'],[]
+CLO 2_ME2205,ME2205,Sử dụng và lựa chọn tính toán xây dựng mô hình lực và cân bằng lực để giải quyết bài toán về lực,PI 4.2,PLO4,PI 4.2,3,1.0,"['hình', 'giải', 'toán', 'dựng', 'tính', 'bằng', 'dụng', 'chọn', 'quyết']",[]
+CLO 3_ME2205,ME2205,"Có tư duy phân tích và tính toán, thiết kế các tham số kỹ thuật của bài toán cơ học, tĩnh học, động học và động lực học",PI 10.1,PLO10,PI 10.1,3,1.0,"['động', 'toán', 'tĩnh', 'tính', 'tích', 'thuật', 'phân', 'tham', 'thiết']",[]
+CLO 4_ME2205,ME2205,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.1,PLO12,PI 12.1,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_ME2253,ME2253,"Hiểu rõ và mô tả được nguyên lý cấu tạo, động học và động lực học của cơ cấu và máy",PI 4.1,PLO4,PI 4.1,2,1.0,"['động', 'nguyên', 'hiểu']",[]
+CLO 2_ME2253,ME2253,Sử dụng và lựa chọn đúng cơ cấu máy phù hợp với nguyên lý và khả năng làm việc,PI 5.1,PLO5,PI 5.1,3,1.0,"['việc', 'đúng', 'dụng', 'năng', 'chọn', 'nguyên']",[]
+CLO 3_ME2253,ME2253,"Có tư duy phân tích, tính toán, thiết kế và tổng hợp một số cơ cấu máy (động học, động lực học, cơ cấu cam, hệ bánh răng)",PI 10.2,PLO10,PI 10.2,6,1.0,"['động', 'toán', 'tính', 'tích', 'bánh', 'răng', 'phân', 'thiết', 'tổng']",[]
+CLO 4_ME2253,ME2253,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_ME2208,ME2208,Hiểu rõ được các thông số kỹ thuật của chi tiết máy,PI 4.1,PLO4,PI 4.1,2,1.0,"['thuật', 'tiết', 'thông', 'hiểu']",[]
+CLO 2_ME2208,ME2208,Sử dụng và lựa chọn đúng các thông số kỹ thuật của chi tiết máy,PI 4.2,PLO4,PI 4.2,3,1.0,"['thuật', 'đúng', 'tiết', 'dụng', 'thông', 'chọn']",[]
+CLO 3_ME2208,ME2208,"Có tư duy tính toán, thiết kế được một chi tiết máy cụ thể",PI 6.2,PLO6,PI 6.2,3,1.0,"['thiết', 'toán', 'tiết', 'tính']",[]
+CLO 4_ME2208,ME2208,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_ME2254,ME2254,Hiểu rõ được các kiến thức đã học để có thể áp dụng vào thực tế,PI 4.1,PLO4,PI 4.1,2,1.0,"['hiểu', 'dụng', 'thức', 'thực', 'kiến']",[]
+CLO 2_ME2254,ME2254,"Sử dụng và lựa chọn đúng các thông số kỹ thuật của chi tiết máy, cơ cấu máy",PI 4.2,PLO4,PI 4.2,3,1.0,"['thuật', 'đúng', 'tiết', 'dụng', 'thông', 'chọn']",[]
+CLO 3_ME2254,ME2254,"Có tư duy tính toán, thiết kế đảm bảo các yêu cầu kỹ thuật của một số cơ cấu máy theo yêu cầu",PI 6.2,PLO6,PI 6.2,3,1.0,"['toán', 'tính', 'thuật', 'theo', 'thiết']",[]
+CLO 4_ME2254,ME2254,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_ME2255,ME2255,"Hiểu rõ được các kích thước, dung sai kích thước chi tiết, nguyên lý cấu tạo các loại dụng cụ đo",PI 4.1,PLO4,PI 4.1,2,1.0,"['nguyên', 'hiểu', 'tiết', 'dụng', 'dung', 'loại', 'thước', 'kích']",[]
+CLO 2_ME2255,ME2255,"Sử dụng và lựa chọn đúng các kích thước, dung sai kích thước để áp dụng giải các bài toán liên quan đến kích thước. Biết sử dụng các dụng cụ đo cơ bản, bảo quản đúng cách các dụng cụ đo",PI 5.1,PLO5,PI 5.1,3,1.0,"['giải', 'toán', 'đúng', 'dụng', 'dung', 'quan', 'chọn', 'biết', 'thước', 'cách']",[]
+CLO 3_ME2255,ME2255,"Có tư duy tính toán giải các bài toán về lắp ghép,  xây dựng chuỗi kích thước và đo được hình dạng các chi tiết",PI 8.2,PLO8,PI 8.2,3,1.0,"['giải', 'hình', 'toán', 'dựng', 'tính', 'chuỗi', 'tiết', 'ghép', 'thước', 'dạng']",[]
+CLO 4_ME2255,ME2255,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_ME2259,ME2259,Hiểu rõ được mối quan hệ giữa cấu trúc và các tính chất của vật liệu,PI 4.1,PLO4,PI 4.1,2,1.0,"['hiểu', 'tính', 'chất', 'trúc', 'liệu', 'quan', 'giữa']",[]
+CLO 2_ME2259,ME2259,"Sử dụng và lựa chọn được vật liệu hiệu quả trong công việc từ thiết kế, tính toán gia công, lắp ráp, vận hành",PI 5.1,PLO5,PI 5.1,3,1.0,"['hiệu', 'toán', 'việc', 'công', 'tính', 'dụng', 'thiết', 'hành', 'chọn', 'liệu']",[]
+CLO 3_ME2259,ME2259,"Có tư duy phân tích được quá trình thay đổi cấu trúc, trạng thái, tính chất của vật liệu khi có tác dụng của nhiệt độ, áp lực của nhiệt luyện",PI 6.2,PLO6,PI 6.2,4,1.0,"['trạng', 'thay', 'thái', 'tích', 'tính', 'chất', 'trúc', 'dụng', 'nhiệt', 'phân']",[]
+CLO 4_ME2259,ME2259,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_ME2212,ME2212,Hiểu rõ được các phương pháp gia công nóng và gia công cắt gọt kim loại,PI 4.2,PLO4,PI 4.2,2,1.0,"['pháp', 'hiểu', 'công', 'phương', 'nóng', 'loại']",[]
+CLO 2_ME2212,ME2212,Sử dụng và lựa chọn được vật liệu dùng trong gia công cơ khí và chế độ gia công phù hợp kèm theo,PI 5.2,PLO5,PI 5.2,3,1.0,"['công', 'dụng', 'theo', 'dùng', 'chọn', 'liệu']",[]
+CLO 3_ME2212,ME2212,Có tư duy phân tích được các quá trình gia công kim loại (không tạo phoi và tạo phoi),PI 6.1,PLO6,PI 6.1,4,1.0,"['phoi', 'công', 'tích', 'phân', 'loại', 'trình', 'không']",[]
+CLO 4_ME2212,ME2212,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_ME2257,ME2257,Hiểu rõ được kết cấu và nguyên lý của các hệ thống thủy lực và khí nén,PI 4.1,PLO4,PI 4.1,2,1.0,"['thống', 'thủy', 'nguyên', 'hiểu']",[]
+CLO 2_ME2257,ME2257,Sử dụng và lựa chọn đúng cơ cấu thủy lực và khí nén phù hợp với yêu cầu của thực tế,PI 4.3,PLO4,PI 4.3,3,1.0,"['đúng', 'dụng', 'chọn', 'thực', 'thủy']",[]
+CLO 3_ME2257,ME2257,"Có tư duy tính toán, thiết kế, lắp đặt, vận hành hệ thống thủy lực và khí nén",PI 6.2,PLO6,PI 6.2,3,1.0,"['toán', 'tính', 'hành', 'thiết', 'thống', 'thủy']",[]
+CLO 4_ME2257,ME2257,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_,,"Hiểu rõ thế nào mạch điện ( 1 pha, 3 pha, các cách mắc nối trong mạch)",PI 4.1,PLO4,PI 4.1,2,1.0,"['điện', 'cách', 'mạch', 'hiểu']",[]
+CLO 2_,,Sử dụng kiến thức mạch điện áp dụng điều khiển động cơ điện,PI 5.2,PLO5,PI 5.2,3,1.0,"['kiến', 'động', 'điều', 'mạch', 'dụng', 'thức', 'khiển', 'điện']",[]
+CLO 3_,,"Có tư duy tổng quan về mạch điện, động cơ điện",PI 6.1,PLO6,PI 6.1,2,1.0,"['động', 'mạch', 'quan', 'điện', 'tổng']",[]
+CLO 4_,,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_,,"Có kiến thức tổng quan về Diode bán dẫn, nguồn cung cấp.",PI 4.1,PLO4,PI 4.1,2,1.0,"['nguồn', 'diode', 'thức', 'cung', 'quan', 'kiến', 'tổng']",[]
+CLO 2_,,"Có kiến thức về cấu tạo, nguyên lý hoạt động của Transistor lưỡng cực; Có kiến thức về cấu tạo nguyên tắc hoạt động của mạch khuếch đại thuật toán OP AMP.",PI 5.2,PLO5,PI 5.2,2,1.0,"['động', 'kiến', 'toán', 'thuật', 'lưỡng', 'hoạt', 'mạch', 'khuếch', 'transistor', 'thức']",[]
+CLO 3_,,"Các kiến thức tổng quan về mạch số ( cổng logic, định lý, các phép toán logic .. ).",PI 6.1,PLO6,PI 6.1,2,1.0,"['cổng', 'toán', 'mạch', 'phép', 'thức', 'logic', 'quan', 'định', 'kiến', 'tổng']",[]
+CLO 4_,,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_ME2258,ME2258,"Hướng dẫn sử dụng các thiết bị, nguyên tắc an toàn lao động trong phòng thực hành",PI 5.1,PLO5,PI 5.1,3,1.0,"['động', 'thực', 'hướng', 'phòng', 'dụng', 'thiết', 'hành', 'toàn', 'nguyên']",[]
+CLO 2_ME2258,ME2258,"Thực hành nhận biết, đo kiểm mạch điện, diode, Transistor, nguồn; Thực hành khảo sát cổng logic, giải mã và mã hoá logic",PI 5.2,PLO5,PI 5.2,2,1.0,"['nguồn', 'giải', 'diode', 'cổng', 'nhận', 'mạch', 'transistor', 'khảo', 'hành', 'biết']",[]
+CLO 3_ME2258,ME2258,"Phân tích các lỗi sai, hỏng hóc và cách khắc phục trên các mạch điện ô tô",PI 11.1,PLO11,PI 11.1,4,1.0,"['tích', 'phục', 'mạch', 'phân', 'khắc', 'hỏng', 'cách', 'điện', 'trên']",[]
+CLO 4_ME2258,ME2258,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_TET2213,TET2213,Hiểu rõ được những vấn đề liên quan về môi chất,PI 4.1,PLO4,PI 4.1,2,1.0,"['hiểu', 'những', 'chất', 'quan', 'liên']",[]
+CLO 2_TET2213,TET2213,"Sử dụng và lựa chọn được một chu trình nhiệt động phù hợp, đúng phương thức truyền nhiệt (dẫn nhiệt, trao đổi nhiệt đối lưu, trao đổi nhiệt bức xạ)",PI 5.2,PLO5,PI 5.2,3,1.0,"['động', 'trao', 'phương', 'đúng', 'nhiệt', 'dụng', 'thức', 'trình', 'chọn', 'truyền']",[]
+CLO 3_TET2213,TET2213,Có tư duy tính toán được hệ số truyền nhiệt và tính được sơ bộ diện tích thiết bị trao đổi nhiệt,PI 10.2,PLO10,PI 10.2,3,1.0,"['toán', 'trao', 'tính', 'tích', 'diện', 'nhiệt', 'thiết', 'truyền']",[]
+CLO 4_TET2213,TET2213,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.1,PLO12,PI 12.1,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_ME2256,ME2256,Hiểu rõ được đặc điểm và lợi ích khi sử dụng CAE,PI 4.2,PLO4,PI 4.2,2,1.0,"['điểm', 'hiểu', 'dụng']",[]
+CLO 2_ME2256,ME2256,"Sử dụng và lựa chọn đúng phương pháp phân tích, xây dựng mô hình CAE",PI 6.1,PLO6,PI 6.1,3,1.0,"['pháp', 'hình', 'dựng', 'tích', 'phương', 'đúng', 'dụng', 'phân', 'chọn']",[]
+CLO 3_ME2256,ME2256,"Có tư duy tính toán, thiết kế, mô phỏng hoạt động của sản phẩm",PI 10.2,PLO10,PI 10.2,3,1.0,"['động', 'toán', 'tính', 'hoạt', 'thiết', 'phỏng', 'phẩm']",[]
+CLO 4_ME2256,ME2256,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_ME3234,ME3234,Hiểu rõ các kỹ thuật lập trình ngôn ngữ cho hệ PLC trên nền ngôn ngữ lập trình cơ bản,PI 4.2,PLO4,PI 4.2,2,1.0,"['hiểu', 'thuật', 'ngôn', 'trình', 'trên']",[]
+CLO 2_ME3234,ME3234,"Sử dụng và lựa chọn đúng các phương thức tính toán, thiết kế hệ thống điều khiển logic và điều khiển quá trình kỹ thuật",PI 6.1,PLO6,PI 6.1,3,1.0,"['toán', 'tính', 'phương', 'thuật', 'đúng', 'điều', 'dụng', 'thức', 'thiết', 'khiển']",[]
+CLO 3_ME3234,ME3234,Có tư duy phân tích và sử dụng phần mềm lập trình và mô phỏng PLC,PI 10.2,PLO10,PI 10.2,3,1.0,"['phần', 'tích', 'dụng', 'phân', 'phỏng', 'trình']",[]
+CLO 4_ME3234,ME3234,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_ME3260,ME3260,Hiểu rõ được vai trò của công tác an toàn trong lao động và môi trường công nghiệp,PI 4.3,PLO4,PI 4.3,2,1.0,"['động', 'nghiệp', 'hiểu', 'công', 'trường', 'toàn']",[]
+CLO 2_ME3260,ME3260,Sử dụng và lựa chọn được các phương án phù hợp liên quan đến an toàn lao động tại nơi làm việc,PI 6.1,PLO6,PI 6.1,3,1.0,"['động', 'việc', 'phương', 'dụng', 'quan', 'chọn', 'toàn', 'liên']",[]
+CLO 3_ME3260,ME3260,"Có tư duy tính toán, phòng tránh được các tai nạn liên quan đến an toàn lao động trong sản xuất thực tế",PI 11.3,PLO11,PI 11.3,3,1.0,"['động', 'xuất', 'thực', 'toán', 'phòng', 'tính', 'quan', 'toàn', 'tránh', 'liên']",[]
+CLO 4_ME3260,ME3260,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_AET3261,AET3261,Hiểu và phân tích được các loại động cơ đốt trong và nguyên lý làm việc của động cơ;,"PI4.1
+PI4.2",PLO4,"PI4.1
+PI4.2",2,1.0,"['động', 'hiểu', 'việc', 'tích', 'phân', 'loại', 'nguyên']",[]
+CLO 2_AET3261,AET3261,"Phân tích được đồ thị công, đồ thi pha phối khí của động cơ đốt trong. Tính toán, xây dựng được các biểu thức, đồ thị biểu diễn quy luật dịch chuyển của cơ cấu trục khuỷu - thanh truyền.","PI11.1
+PI11.2",PLO11,"PI11.1
+PI11.2",3,1.0,"['động', 'trục', 'khuỷu', 'toán', 'thanh', 'công', 'tích', 'tính', 'dựng', 'diễn']",[]
+CLO 3_AET3261,AET3261,"Nắm được cấu tạo cụ thể các chi tiết trong các cơ cấu các hệ thống của động cơ đốt trong. Nguyên tắc hoạt động của cơ cấu, hệ thống.","PI6.1
+PI6.2",PLO6,"PI6.1
+PI6.2",2,1.0,"['động', 'tiết', 'hoạt', 'thống', 'nguyên']",[]
+CLO 4_AET3261,AET3261,"Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề","PI12.3 
+PI12.4",PLO12,"PI12.3 
+PI12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_AET3262,AET3262,"Hiểu được động học, động lực học bánh xe ô, xác định lực cản, cân bằng lực và công suất khi ô tô di chuyển",PI4.1,PLO4,PI4.1,1,1.0,"['động', 'hiểu', 'công', 'chuyển', 'bằng', 'bánh', 'suất', 'định']",[]
+CLO 2_AET3262,AET3262,Tính toán sức kéo ô tô trong điều kiện cho trước,PI5.1,PLO5,PI5.1,3,1.0,"['kiện', 'toán', 'tính', 'điều', 'trước']",[]
+CLO 3_AET3262,AET3262,"Tính toán tính ổn định, kinh tế và khả năng thông qua của xe","PI5.1
+PI5.2",PLO5,"PI5.1
+PI5.2",3,1.0,"['kinh', 'toán', 'tính', 'năng', 'thông', 'định']",[]
+CLO 4_AET3262,AET3262,"Có ý thức, thái độ cầu thị, nghiêm túc, thực hiện đúng các nội quy, quy chế. Từ đó, hình thành tác phong làm việc chuyên nghiệp.","PI12.3
+PI12.4",PLO12,"PI12.3
+PI12.4",3,1.0,"['hình', 'nghiêm', 'nghiệp', 'việc', 'thái', 'chuyên', 'đúng', 'phong', 'thức', 'thực']",[]
+CLO 1_AET3216,AET3216,"Hiểu và tính toán được chu trình công tác, động học và động lực học, kiểm nghiệm bền các chi tiết cơ bản của động cơ.",PI4.2,PLO4,PI4.2,2,1.0,"['động', 'toán', 'hiểu', 'công', 'tính', 'tiết', 'trình', 'nghiệm', 'kiểm']",[]
+CLO 2_AET3216,AET3216,"Tổng hợp, xây dựng các bản vẽ theo tiêu chuẩn",PI5.2,PLO5,PI5.2,6,1.0,"['chuẩn', 'dựng', 'tiêu', 'theo', 'tổng']",[]
+CLO 3_AET3216,AET3216,"Kỹ năng thuyết trình, bảo vệ đồ án",PI10.1,PLO10,PI10.1,2,1.0,"['năng', 'thuyết', 'trình']",[]
+CLO 4_AET3216,AET3216,"Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ: Lập luận, phân tích và giải quyết các vấn đề kỹ thuật.",PI12.3,PLO12,PI12.3,3,1.0,"['hình', 'luận', 'giải', 'nghiệp', 'chuyên', 'tích', 'chất', 'thuật', 'năng', 'phân']",[]
+CLO 1_AET3221,AET3221,"Hiểu rõ cơ sở lý thuyết về chẩn đoán kỹ thuật ô tô, công nghệ chẩn đoán, công tác kiểm định kỹ thuật ô tô ở Việt Nam",PI .6.1,,PI .6.1,2,1.0,"['đoán', 'thuyết', 'chẩn', 'hiểu', 'công', 'thuật', 'việt', 'nghệ', 'kiểm', 'định']",[]
+CLO 2_AET3221,AET3221,Sử dụng và lựa chọn các loại thiết bị chẩn đoán phù hợp dùng trong chẩn đoán và kiểm định kỹ thuật ô tô,PI .5.2,,PI .5.2,3,1.0,"['đoán', 'chẩn', 'thuật', 'dụng', 'loại', 'thiết', 'dùng', 'chọn', 'kiểm', 'định']",[]
+CLO 3_AET3221,AET3221,Có tư duy tổng hợp để có thể thực hiện quy trình công nghệ kiểm định kỹ thuật ô tô,PI .8.2,,PI .8.2,3,1.0,"['công', 'tổng', 'thuật', 'nghệ', 'trình', 'thực', 'kiểm', 'định', 'hiện']",[]
+CLO 4_AET3221,AET3221,"Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.","PI12.3
+PI12.4",PLO12,"PI12.3
+PI12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_AET3222,AET3222,Hiểu rõ cách thức sửa chữa và bảo dưỡng ô tô,PI .10.1,,PI .10.1,2,1.0,"['dưỡng', 'hiểu', 'thức', 'chữa', 'cách']",[]
+CLO 2_AET3222,AET3222,"Sử dụng và lựa chọn được quy trình công nghệ bảo dưỡng, sửa chữa các hệ thống, tổng thành cho từng loại xe khác nhau.",PI .5.1,,PI .5.1,3,1.0,"['khác', 'dưỡng', 'công', 'dụng', 'nhau', 'loại', 'nghệ', 'trình', 'chọn', 'thống']",[]
+CLO 3_AET3222,AET3222,"Có tư duy về sửa chữa bảo dưỡng xe, các phương pháp nâng cao thuổi thọ và tuổi bền của xe",PI .8.1,,PI .8.1,2,1.0,"['pháp', 'tuổi', 'dưỡng', 'phương', 'chữa', 'nâng', 'thuổi']",[]
+CLO 4_AET3222,AET3222,"Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.","PI12.3
+PI12.4",PLO12,"PI12.3
+PI12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_AET3217,AET3217,"Hiểu và tính toán được các cơ cấu, hệ thống cơ bản của gầm ô tô.",PI5.2,PLO5,PI5.2,2,1.0,"['thống', 'toán', 'hiểu', 'tính']",[]
+CLO 2_AET3217,AET3217,"Tổng hợp, xây dựng các bản vẽ theo tiêu chuẩn",PI10.1,PLO10,PI10.1,6,1.0,"['chuẩn', 'dựng', 'tiêu', 'theo', 'tổng']",[]
+CLO 3_AET3217,AET3217,"Kỹ năng thuyết trình, bảo vệ đồ án",PI11.1,PLO11,PI11.1,2,1.0,"['năng', 'thuyết', 'trình']",[]
+CLO 4_AET3217,AET3217,"Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ: Lập luận, phân tích và giải quyết các vấn đề kỹ thuật.",PI12.3,PLO12,PI12.3,3,1.0,"['hình', 'luận', 'giải', 'nghiệp', 'chuyên', 'tích', 'chất', 'thuật', 'năng', 'phân']",[]
+CLO 1_AET3224,AET3224,"Mô tả các cơ cấu, hệ thống cơ điện tử trên ô tô, nguyên lý hoạt động của các cơ cấu, hệ thống cơ điện tử ôtô.","PI4.1
+PI4.2",PLO4,"PI4.1
+PI4.2",2,1.0,"['động', 'hoạt', 'thống', 'điện', 'nguyên', 'trên']",[]
+CLO 2_AET3224,AET3224,"Tính toán giải thích  các hiện tượng, nguyên nhân hư hỏng của các cơ cấu, hệ thống cơ điện tử ôtô","PI5.1
+PI5.2",PLO5,"PI5.1
+PI5.2",2,1.0,"['giải', 'toán', 'tượng', 'tính', 'nhân', 'hỏng', 'thống', 'thích', 'điện', 'nguyên']",[]
+CLO 3_AET3224,AET3224,"Áp dụng các kiến thức đã học để kiểm tra, sửa chữa các hệ thống cơ điện tử ô tô","PI6.1
+PI6.2",PLO6,"PI6.1
+PI6.2",3,1.0,"['điện', 'dụng', 'thức', 'thống', 'chữa', 'kiểm', 'kiến']",[]
+CLO 4_AET3224,AET3224,"Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề","PI12.3
+PI12.4",PLO12,"PI12.3
+PI12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_,,"Hiểu rõ về cấu tạo, các bộ phận chính trên ô tô điện, hiểu rõ về pin và hệ thống điều khiển trên ô tô điện",PI .4.1,,PI .4.1,2,1.0,"['hiểu', 'điều', 'chính', 'khiển', 'thống', 'phận', 'điện', 'trên']",[]
+CLO 2_,,"Sử dụng và lựa chọn các công cụ để tính toán lựa chọn động lực học xe điện, tính toán về pin, quãng đường xe đi được",PI .10.1,,PI .10.1,3,1.0,"['động', 'đường', 'toán', 'công', 'tính', 'quãng', 'dụng', 'chọn', 'điện']",[]
+CLO 3_,,"Có tư duy về bộ điều khiển của xe điện, xây dụng bộ điều khiển dựa trên những công cụ phần mềm matlap",PI .6.2,,PI .6.2,2,1.0,"['matlap', 'phần', 'những', 'công', 'điều', 'dụng', 'khiển', 'điện', 'trên']",[]
+CLO 4_,,"Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.","PI12.3
+PI12.4",PLO12,"PI12.3
+PI12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_ME3270,ME3270,"Giải thích được sự ảnh hưởng của dụng cụ cắt, vật liệu gia công đến chất lượng bề mặt chi tiết.",PI 4.1,PLO4,PI 4.1,2,1.0,"['giải', 'công', 'chất', 'hưởng', 'lượng', 'tiết', 'dụng', 'thích', 'liệu']",[]
+CLO 2_ME3270,ME3270,Sử dụng các kiến thức đã học để đọc bản vẽ chi tiết; phân tích chi tiết đưa được ra quy trình công nghệ; xác định được các dạng sai hỏng trong gia công nguội nguyên nhân và biện pháp khắc phục,PI 4.3,PLO4,PI 4.3,1,1.0,"['công', 'phân', 'thức', 'hỏng', 'dạng', 'định', 'tích', 'nguội', 'tiết', 'trình']",[]
+CLO 3_ME3270,ME3270,"Sử dụng thành thạo các dụng cụ cầm tay, các dụng cụ đo kiểm để gia công nguội và để kiểm tra sản phẩm cơ khí theo các tiêu chuẩn kỹ thuật",PI 5.1,PLO5,PI 5.1,3,1.0,"['chuẩn', 'công', 'nguội', 'thuật', 'tiêu', 'dụng', 'theo', 'thạo', 'phẩm', 'kiểm']",[]
+CLO 4_ME3270,ME3270,Lựa chọn được phương pháp gia công thích hợp để đạt được các chỉ tiêu yêu cầu kỹ thuật,PI 10.2,PLO10,PI 10.2,2,1.0,"['pháp', 'công', 'phương', 'thuật', 'tiêu', 'chọn', 'thích']",[]
+CLO 5_ME3270,ME3270,"Kiểm tra, phát hiện và đưa ra biện pháp khắc phục được các dạng sai hỏng khi gia công nguội",PI 11.1,PLO11,PI 11.1,4,1.0,"['pháp', 'công', 'nguội', 'phục', 'dạng', 'khắc', 'hỏng', 'kiểm', 'biện', 'phát']",[]
+CLO 6_ME3270,ME3270,Sửa chữa được các dụng cụ gia công bằng tay,PI 11.2,PLO11,PI 11.2,2,1.0,"['bằng', 'chữa', 'công', 'dụng']",[]
+CLO 7_ME3270,ME3270,"Rèn luyện tính cẩn thận, tự giác, nghiêm túc, trong công việc.",PI 12.3,PLO12,PI 12.3,2,1.0,"['nghiêm', 'giác', 'việc', 'tính', 'công', 'thận', 'luyện']",[]
+CLO 1_ME3271,ME3271,"Vận dụng kiến thức khoa học tự nhiên để tính toán, lựa chọn chế độ hàn cho phù hợp.",PI 4.1,PLO4,PI 4.1,3,1.0,"['toán', 'tính', 'khoa', 'dụng', 'thức', 'chọn', 'nhiên', 'kiến']",[]
+CLO 2_ME3271,ME3271,"Sử dụng các kiến thức đã học để đọc bản vẽ kết cấu hàn; phân tích vật liệu hàn; chuẩn bị thiết bị, phôi liệu hàn; các vị trí hàn, kết cấu hàn; phát hiện được khuyết tật mối hàn.",PI 4.3,PLO4,PI 4.3,3,1.0,"['phát', 'chuẩn', 'tích', 'phôi', 'dụng', 'phân', 'khuyết', 'thức', 'thiết', 'liệu']",[]
+CLO 3_ME3271,ME3271,"Chuẩn bị, kiểm tra được tình trạng của thiết bị, dụng cụ, vật liệu hàn cho phù hợp với từng phương pháp hàn.",PI 4.3,PLO4,PI 4.3,4,1.0,"['pháp', 'trạng', 'chuẩn', 'phương', 'liệu', 'dụng', 'thiết', 'từng', 'tình', 'kiểm']",[]
+CLO 4_ME3271,ME3271,"Tính toán, lựa chọn và điều chỉnh được chế độ hàn cho phương pháp hàn điện hồ quang tay.",PI 6.1,PLO6,PI 6.1,3,1.0,"['pháp', 'chỉnh', 'toán', 'tính', 'phương', 'điều', 'quang', 'chọn', 'điện']",[]
+CLO 5_ME3271,ME3271,"Hàn được các mối hàn bằng giáp mối, hàn bằng lấp góc trên máy hàn điện hồ quang tay, đảm bảo yêu cầu kỹ thuật.",PI 6.1,PLO6,PI 6.1,2,1.0,"['giáp', 'thuật', 'bằng', 'quang', 'điện', 'trên']",[]
+CLO 6_ME3271,ME3271,"Kiểm tra, phát hiện và đưa ra biện pháp khắc phục được các dạng khuyết tật mối hàn.",PI 11.2,PLO11,PI 11.2,4,1.0,"['pháp', 'phục', 'dạng', 'khuyết', 'khắc', 'kiểm', 'biện', 'phát', 'hiện']",[]
+CLO 7_ME3271,ME3271,"Rèn luyện tính cẩn thận, tự giác, nghiêm túc, trong công việc hàn.",PI 12.3,PLO12,PI 12.3,2,1.0,"['nghiêm', 'giác', 'việc', 'tính', 'công', 'thận', 'luyện']",[]
+CLO 1_ME3263,ME3263,"Trình bày và hiểu được các kiến thức về quy trình bảo dưỡng kỹ thuật, tháo lắp cơ cấu, hệ thống và sửa chữa động cơ;",PI5.1,PLO5,PI5.1,2,1.0,"['động', 'dưỡng', 'hiểu', 'thuật', 'thức', 'trình', 'thống', 'tháo', 'chữa', 'kiến']",[]
+CLO 2_ME3263,ME3263,Thực hành kỹ thuật về bảo dưỡng và sửa chữa động cơ,PI8.1,PLO8,PI8.1,2,1.0,"['động', 'dưỡng', 'thuật', 'hành', 'thực', 'chữa']",[]
+CLO 3_ME3263,ME3263,"Giải thích và lập được quy trình về kiểm tra bảo dưỡng sữa chữa động cơ. Sử dụng và lựa chọn các trang thiết bị chuyên dụng để chẩn đoán, bảo dưỡng, sửa chữa động cơ",PI6.1,PLO6,PI6.1,2,1.0,"['trang', 'giải', 'động', 'dưỡng', 'đoán', 'chuyên', 'chẩn', 'dụng', 'thiết', 'trình']",[]
+CLO 4_ME3263,ME3263,"Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề","PI 12.3
+PI 12.4",PLO12,"PI 12.3
+PI 12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_,,"Nắm chắc, phân tích được chức năng, kết cấu, lắp ráp, tình hình làm việc, hoạt động của các cụm, hệ thống, cơ cấu trên xe ô tô",PI5.1,PLO5,PI5.1,4,1.0,"['hình', 'động', 'chức', 'việc', 'tích', 'hoạt', 'năng', 'phân', 'thống', 'tình']",[]
+CLO 2_,,"Phân thích được các hiện tượng, nguyên nhân hư hỏng các cụm, hệ thống, cơ cấu trên xe ô tô",PI8.1,PLO8,PI8.1,2,1.0,"['trên', 'tượng', 'phân', 'nhân', 'hỏng', 'thống', 'thích', 'nguyên', 'hiện']",[]
+CLO 3_,,"Áp dụng các kiến thức đã học để chẩn đoán, kiểm tra, bảo dưỡng, sửa chữa các cụm, hệ thống, cơ cấu trên xe ô tô.",PI6.1,PLO6,PI6.1,3,1.0,"['đoán', 'dưỡng', 'chẩn', 'dụng', 'thức', 'thống', 'chữa', 'kiểm', 'kiến', 'trên']",[]
+CLO 4_,,"Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề","PI 12.3
+PI12.4",PLO12,"PI 12.3
+PI12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_,,"Mô tả được phương pháp tổ chức, quản lý điều hành; bố trí vận hành trang thiết bị, cơ sở vật chất của  các cơ sở kinh doanh, dịch vụ bảo dưỡng, sửa chữa.","PI4.1
+PI4.2",PLO4,"PI4.1
+PI4.2",4,1.0,"['trang', 'pháp', 'chức', 'kinh', 'dưỡng', 'doanh', 'phương', 'chất', 'điều', 'hành']",[]
+CLO 2_,,"Áp dụng các kiến thức đã học để chẩn đoán, kiểm tra, bảo dưỡng, sửa chữa các cụm, hệ thống, cơ cấu trên xe ô tô; sử dụng được dụng cụ, thiết bị đúng yêu cầu; thực hiện được các biện pháp an toàn và vệ sinh công nghiệp.","PI11.1
+PI11.2",PLO11,"PI11.1
+PI11.2",3,1.0,"['đoán', 'dưỡng', 'công', 'đúng', 'thức', 'sinh', 'chữa', 'thống', 'toàn', 'kiểm']",[]
+CLO 3_,,"Tổng hợp được các kiến thức lý thuyết, thực tế thu nhập được để hoàn thành các nội dung trong báo cáo thực tập; làm cơ sở lựa chọn đề tài tốt nghiệp, nội dung thực tâp tốt nghiệp.","PI8.1 
+PI8.2",PLO8,"PI8.1 
+PI8.2",6,1.0,"['thuyết', 'hoàn', 'nghiệp', 'nhập', 'dung', 'thức', 'chọn', 'thực', 'kiến', 'tổng']",[]
+CLO 4_,,"Có phẩm chất đạo đức nghề nghiệp, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp trong bảo dưỡng, sửa chữa ô tô.","PI12.2 
+PI12.3",PLO12,"PI12.2 
+PI12.3",6,1.0,"['sáng', 'dưỡng', 'nghiệp', 'thay', 'việc', 'công', 'hướng', 'chất', 'kiếm', 'trường']",[]
+CLO 1_ME3266,ME3266,"Hiểu rõ chức năng, cấu tạo hoạt động các trang bị điện điện tử trên ô tô","PI5.1
+PI5.2",PLO5,"PI5.1
+PI5.2",2,1.0,"['trang', 'động', 'chức', 'hiểu', 'hoạt', 'năng', 'điện', 'trên']",[]
+CLO 2_ME3266,ME3266,"Tháo lắp, bảo dưỡng kiểm tra các cụm chi tiết của hệ thống điện động cơ, điện thân xe.",PI6.1,PLO6,PI6.1,4,1.0,"['động', 'dưỡng', 'điện', 'tiết', 'thân', 'thống', 'kiểm', 'tháo']",[]
+CLO 3_ME3266,ME3266,Có thể sử dụng thiết bị chuyên dùng để chấn đoán hư hỏng các thiết bị điện trên ô tô.,PI10.1,PLO10,PI10.1,3,1.0,"['đoán', 'chuyên', 'dụng', 'thiết', 'dùng', 'hỏng', 'chấn', 'điện', 'trên']",[]
+CLO 4_ME3266,ME3266,"Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề","PI 12.3
+PI 12.4",PLO12,"PI 12.3
+PI 12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_ME3267,ME3267,Hiểu rõ cấu tạo và nguyên lý của hệ thống điều hòa không khí trên ô t.ô,PI 6.2,PLO6,PI 6.2,2,1.0,"['trên', 'hiểu', 'điều', 'thống', 'nguyên', 'không']",[]
+CLO 2_ME3267,ME3267,"Sử dụng và lựa chọn các trang thiết bị chuyên dung để chẩn đoán, bảo dưỡng, sửa chữa hệ thống điều hòa không khí trên ô tô",PI 8.1,PLO8,PI 8.1,3,1.0,"['trang', 'đoán', 'trên', 'dưỡng', 'chuyên', 'chẩn', 'điều', 'dụng', 'dung', 'thiết']",[]
+CLO 3_ME3267,ME3267,"Có tư duy về việc cải tiến, nâng cao tuổi bền sử dụng cho các vật tư thiết bị hệ thống điều hòa không khí trên ô tô.",PI 10.2,PLO10,PI 10.2,3,1.0,"['trên', 'tuổi', 'việc', 'tiến', 'điều', 'dụng', 'thiết', 'thống', 'không', 'nâng']",[]
+CLO 4_ME3267,ME3267,"Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.","PI12.3
+PI12.4",PLO12,"PI12.3
+PI12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_ME3268,ME3268,"Hiểu rõ chức năng, cấu tạo, nguyên lý của các thiết bị đo chuyên dùng trong ô tô,  khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực sửa chữa ô tô","PI4.1
+PI4.2",PLO4,"PI4.1
+PI4.2",3,1.0,"['giải', 'chức', 'hiểu', 'chuyên', 'dựng', 'thuật', 'lĩnh', 'dụng', 'năng', 'thiết']",[]
+CLO 2_ME3268,ME3268,"Tính toán, lập báo cáo, thuyết trình, phản biện công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm.","PI11.1
+PI11.2",PLO11,"PI11.1
+PI11.2",3,1.0,"['thuyết', 'phản', 'toán', 'tính', 'công', 'việc', 'điều', 'nhóm', 'nhân', 'trình']",[]
+CLO 3_ME3268,ME3268,"Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp và giải quyết vấn đề trong lĩnh vực chẩn đoán sửa chữa ô tô.","PI8.1 
+PI8.2",PLO8,"PI8.1 
+PI8.2",3,1.0,"['đoán', 'giải', 'phản', 'việc', 'lĩnh', 'tích', 'chẩn', 'năng', 'phân', 'thống']",[]
+CLO 4_ME3268,ME3268,"Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp trong chẩn đoán, sửa chữa ô tô.","PI12.2 
+PI12.3",PLO12,"PI12.2 
+PI12.3",6,1.0,"['đoán', 'sáng', 'việc', 'công', 'chất', 'trường', 'nghi', 'thích', 'chữa', 'định']",[]
+CLO 1_ATE3269,ATE3269,Hiểu rõ được các từ vựng Tiếng Anh chuyên ngành thường dùng trong ngành cơ khí,PI 2.2,PLO2,PI 2.2,2,1.0,"['thường', 'hiểu', 'chuyên', 'vựng', 'tiếng', 'ngành', 'dùng']",[]
+CLO 2_ATE3269,ATE3269,Sử dụng và lựa chọn đúng các thuật ngữ Tiếng Anh chuyên ngành vào từng trường hợp cụ thể,PI 7.1,PLO7,PI 7.1,3,1.0,"['ngành', 'chuyên', 'thuật', 'đúng', 'trường', 'dụng', 'tiếng', 'chọn', 'từng']",[]
+CLO 3_ATE3269,ATE3269,Có tư duy nghiên cứu và đọc hiểu các tài liệu Tiếng Anh chuyên ngành,PI 9.2,PLO9,PI 9.2,2,1.0,"['hiểu', 'chuyên', 'nghiên', 'tiếng', 'ngành', 'liệu']",[]
+CLO 4_ATE3269,ATE3269,"Có ý thức, thái độ học tập nghiêm túc, tích cực",PI 12.4,PLO12,PI 12.4,2,1.0,"['tích', 'nghiêm', 'thức', 'thái']",[]
+CLO 1_ATE3272,ATE3272,"Kiến thức nền tảng về doanh nghiệp, các hoạt động quản trị sản xuất, tổ chức, điều hành một cơ sở sản xuất, lập quy trình sản xuất, các công cụ quản lý chất lượng.",PI 2.1,PLO2,PI 2.1,4,1.0,"['động', 'xuất', 'chức', 'nghiệp', 'doanh', 'công', 'chất', 'điều', 'hoạt', 'tảng']",[]
+CLO 2_ATE3272,ATE3272,"Khả năng phân tích, lập luận, giải quyết vấn đề, tư duy có hệ thống và nắm vững các vấn đề về các hoạt động quản trị sản xuất và quản lý chất lượng.",PI 7.2,PLO7,PI 7.2,3,1.0,"['vững', 'luận', 'giải', 'động', 'xuất', 'tích', 'chất', 'hoạt', 'năng', 'phân']",[]
+CLO 3_ATE3272,ATE3272,"Có khả năng thành lập nhóm, lãnh đạo nhóm, thảo luận để đưa ra các giải pháp để giải quyết các vấn đề quản trị một cách tối ưu.",PI 7.2,PLO7,PI 7.2,3,1.0,"['luận', 'giải', 'pháp', 'thảo', 'năng', 'nhóm', 'quyết', 'cách', 'lãnh', 'quản']",[]
+CLO 4_ATE3272,ATE3272,"Khả năng tính toán và lựa chọn, vận dụng các phương pháp trong quản trị sản xuất và chất lượng vào hoạt động sản xuất của doanh nghiệp",PI 11.3,PLO11,PI 11.3,3,1.0,"['pháp', 'xuất', 'động', 'nghiệp', 'toán', 'tính', 'doanh', 'phương', 'chất', 'hoạt']",[]
+CLO 1_AET3273,AET3273,Hiểu được các bước sử dụng phần mềm chẩn đoán kỹ thuật ôtô ELECTUDE,PI9.1,PLO9,PI9.1,2,1.0,"['đoán', 'bước', 'electude', 'phần', 'chẩn', 'hiểu', 'thuật', 'dụng']",[]
+CLO 2_AET3273,AET3273,"Trình bày được nhiệm vụ, yêu cầu, phân loại và cấu tạo của các hệ thống động cơ, gầm, điện ôtô",PI5.1,PLO5,PI5.1,2,1.0,"['nhiệm', 'động', 'phân', 'loại', 'trình', 'thống', 'điện']",[]
+CLO 3_AET3273,AET3273,"Giải thích đúng những hiện tượng, nguyên nhân sai hỏng và phương pháp kiểm tra, chẩn đoán các sai hỏng của các hệ thống động cơ, gầm, điện ôtô; quy trình chẩn đoán ôtô",PI6.1,PLO6,PI6.1,2,1.0,"['đoán', 'giải', 'pháp', 'động', 'điện', 'tượng', 'chẩn', 'những', 'phương', 'đúng']",[]
+CLO 4_AET3273,AET3273,"Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.","PI12.3
+PI12.4",PLO12,"PI12.3
+PI12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO1_AET3274,AET3274,"Vận dụng kiến thức về khoa học tự nhiên, ngoại ngữ, tin học vào lĩnh vực chế tạo phụ tùng.","PI 2.1
+PI 2.2",PLO2,"PI 2.1
+PI 2.2",3,1.0,"['lĩnh', 'khoa', 'tùng', 'dụng', 'thức', 'nhiên', 'ngoại', 'kiến']",[]
+CLO2_AET3274,AET3274,"Khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực chế tạo phụ tùng.","PI 4.1
+PI 4.2",PLO4,"PI 4.1
+PI 4.2",3,1.0,"['giải', 'dựng', 'lĩnh', 'thuật', 'tùng', 'dụng', 'năng', 'quyết']",[]
+CLO3_AET3274,AET3274,"Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp và giải quyết vấn đề trong lĩnh vực chế tạo phụ tùng.","PI 8.1
+PI 8.2",PLO8,"PI 8.1
+PI 8.2",3,1.0,"['giải', 'phản', 'việc', 'lĩnh', 'tích', 'tùng', 'năng', 'phân', 'thống', 'nhóm']",[]
+CLO4_AET3274,AET3274,"Tính toán, lập báo cáo, thuyết trình, phản biện, tổ chức công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm","PI11.1
+PI11.2",PLO11,"PI11.1
+PI11.2",3,1.0,"['chức', 'thuyết', 'phản', 'toán', 'tính', 'công', 'việc', 'điều', 'nhóm', 'nhân']",[]
+CLO5_AET3274,AET3274,"Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp.","PI12.2 
+PI12.3",PLO12,"PI12.2 
+PI12.3",6,1.0,"['sáng', 'nghiệp', 'thay', 'việc', 'công', 'hướng', 'chất', 'kiếm', 'trường', 'nghề']",[]
+CLO 1_,,"Hiểu rõ thế nào là sản xuất kinh doanh vận tải, thế nào là logistic",PI 8.1,PLO8,PI 8.1,2,1.0,"['xuất', 'logistic', 'kinh', 'hiểu', 'doanh']",[]
+CLO 2_,,Sử dụng và lựa chọn phương tiện vận tải phù hợp với chi phí và hiệu quả hoạt động logistics,PI 9.1,PLO9,PI 9.1,3,1.0,"['động', 'hiệu', 'phương', 'hoạt', 'dụng', 'chọn', 'logistics', 'tiện']",[]
+CLO 3_,,Có tư duy tổng quan về vận tải và logistics,PI 7.1,PLO7,PI 7.1,2,1.0,"['logistics', 'quan', 'tổng']",[]
+CLO 4_,,"Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.","PI12.3
+PI12.4",PLO12,"PI12.3
+PI12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_AET3276,AET3276,Hiểu được về quản lý dịch vụ ô tô; Hiểu được quản lý nhân sự trong phòng dịch vụ; Tiêu chuẩn vận hành dịch vụ sau bán hàng của hãng; Đánh giá hoạt động bằng các chỉ số hoạt động dịch vụ,"PI10.1
+PI10.2",PLO10,"PI10.1
+PI10.2",2,1.0,"['động', 'hiểu', 'phòng', 'chuẩn', 'bằng', 'tiêu', 'hoạt', 'hàng', 'hãng', 'hành']",[]
+CLO 2_AET3276,AET3276,Giải thích được các quy trình về quản lý dịch vụ ô tô; Phân tich được vài trò của quản lý nhân sự trong phòng dịch vụ; lập được tiêu chuẩn vận hành dịch vụ sau bán hàng của hãng;,PI6.1,PLO6,PI6.1,2,1.0,"['giải', 'chuẩn', 'phòng', 'tiêu', 'hàng', 'hãng', 'phân', 'tich', 'hành', 'nhân']",[]
+CLO 3_AET3276,AET3276,Quản lý và làm việc nhóm; thuyết trình các vấn đề và các quy trình trong dịch vụ,PI8.1,PLO8,PI8.1,2,1.0,"['thuyết', 'việc', 'trình', 'nhóm', 'dịch', 'quản']",[]
+CLO 4_AET3276,AET3276,"Ý thức được vai trò và vị trí của bản thân trong một đại lý ôtô. Có trách nhiệm tích cực làm việc, học tập trong quá trình thực tập",PI12.3,PLO12,PI12.3,2,1.0,"['trách', 'nhiệm', 'việc', 'tích', 'thân', 'thức', 'trình', 'thực']",[]
+CLO 1_AET3277,AET3277,Hiểu được kỹ thuật lái xe cơ bản; các kỹ năng cần thiết của công việc lái xe.,PI4 .1,PLO4,PI4 .1,2,1.0,"['hiểu', 'công', 'việc', 'thuật', 'năng', 'thiết']",[]
+CLO 2_AET3277,AET3277,Nắm được các kỹ thuật lái xe ô tô trên đường thẳng; đường vòng; vào nhà đậu xe; tập lái trên đường hẹp,PI6.1,PLO6,PI6.1,2,1.0,"['thẳng', 'vòng', 'đường', 'thuật', 'trên']",[]
+CLO 3_AET3277,AET3277,"Nắm được cơ bản quy trình bảo dưỡng, chăm sóc nội thất bên trong xe ôtô; Quy trình bảo dướng, chăm sóc khung vở xe ôtô; quy trình bảo dưỡng, chăm sóc khung gầm xe ôtô.","PI 6.1
+PI6.2",PLO6,"PI 6.1
+PI6.2",2,1.0,"['dướng', 'dưỡng', 'chăm', 'thất', 'trình', 'khung']",[]
+CLO 4_AET3277,AET3277,"Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề","PI12.3 
+PI12.4",PLO12,"PI12.3 
+PI12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_AET3235,AET3235,"Hiểu rõ động lực học quá trình phanh,các yếu tố ảnh hưởng đến hiệu quả phanh và các giải pháp công nghệ nâng cao hiệu quả phanh. Ý nghĩa của hệ thống phanh điện tử trong hệ thống ô tô thông minh.",PI4.1,PLO4,PI4.1,2,1.0,"['động', 'hiệu', 'giải', 'pháp', 'hiểu', 'công', 'phanh', 'nghĩa', 'hưởng', 'nghệ']",[]
+CLO 2_AET3235,AET3235,"Hiểu và phân tích được kết cấu, nguyên lý làm việc của các hệ phanh điều khiển điện tử. Nắm được được các hiện tượng, nguyên nhân hư hỏng của hệ thống phanh điều khiển điện tử trên xe ô tô.","PI5.1
+PI5.2",PLO5,"PI5.1
+PI5.2",2,1.0,"['trên', 'tượng', 'hiểu', 'việc', 'tích', 'phanh', 'điều', 'phân', 'khiển', 'nhân']",[]
+CLO 3_AET3235,AET3235,"Áp dụng các kiến thức đã học để chẩn đoán, kiểm tra, bảo dưỡng, sửa chữa hệ thống phanh điều khiển điện tử.","PI6.1
+PI6.2",PLO6,"PI6.1
+PI6.2",3,1.0,"['đoán', 'dưỡng', 'điện', 'chẩn', 'phanh', 'điều', 'dụng', 'thức', 'khiển', 'thống']",[]
+CLO 4_AET3235,AET3235,"Kỹ năng chuyên nghiệp và phẩm chất các nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề","PI12.3
+PI12.4",PLO12,"PI12.3
+PI12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO1_AET3227,AET3227,"Vận dụng kiến thức về khoa học tự nhiên, ngoại ngữ, tin học vào lĩnh vực lắp ráp ô tô.","PI 2.1
+PI 2.2",PLO2,"PI 2.1
+PI 2.2",3,1.0,"['lĩnh', 'khoa', 'dụng', 'thức', 'nhiên', 'ngoại', 'kiến']",[]
+CLO2_AET3227,AET3227,"Khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực lắp ráp ô tô.","PI 4.1
+PI 4.2",PLO4,"PI 4.1
+PI 4.2",3,1.0,"['giải', 'dựng', 'lĩnh', 'thuật', 'dụng', 'năng', 'quyết']",[]
+CLO3_AET3227,AET3227,"Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp và giải quyết vấn đề trong lĩnh vực lắp ráp ô tô.","PI 8.1
+PI 8.2",PLO8,"PI 8.1
+PI 8.2",3,1.0,"['giải', 'phản', 'việc', 'lĩnh', 'tích', 'năng', 'phân', 'thống', 'nhóm', 'quyết']",[]
+CLO4_AET3227,AET3227,"Tính toán, lập báo cáo, thuyết trình, phản biện, tổ chức công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm","PI11.1
+PI11.2",PLO11,"PI11.1
+PI11.2",3,1.0,"['chức', 'thuyết', 'phản', 'toán', 'tính', 'công', 'việc', 'điều', 'nhóm', 'nhân']",[]
+CLO5_AET3227,AET3227,"Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp trong lắp ráp ô tô.","PI12.2 
+PI12.3",PLO12,"PI12.2 
+PI12.3",6,1.0,"['sáng', 'nghiệp', 'thay', 'việc', 'công', 'hướng', 'chất', 'kiếm', 'trường', 'nghề']",[]
+CLO 1_AET3236,AET3236,"Hiểu rõ chức năng, cấu tạo, nguyên lý hộp số tự động trên ô tô",PI5 .1,PLO5,PI5 .1,2,1.0,"['động', 'chức', 'hiểu', 'năng', 'nguyên', 'trên']",[]
+CLO 2_AET3236,AET3236,"Hiểu các loại hộp số tự động, ưu nhược điểm từng loại HSTĐ",PI6 .2,PLO6,PI6 .2,2,1.0,"['động', 'hstđ', 'điểm', 'hiểu', 'nhược', 'loại', 'từng']",[]
+CLO 3_AET3236,AET3236,"Có tư duy phân tích, xác định  được hư hỏng thường gặp với hộp số tự động",PI10.1,PLO10,PI10.1,1,1.0,"['động', 'thường', 'tích', 'phân', 'hỏng', 'định']",[]
+CLO 4_AET3236,AET3236,"Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.","PI 12.3
+PI 12.4",PLO12,"PI 12.3
+PI 12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_AET3226,AET3226,Hiểu rõ chức năng vai trò các loại xe chuyên dùng trong ngành giao thông vận tải,"PI4.1
+PI4.2",PLO4,"PI4.1
+PI4.2",2,1.0,"['chức', 'hiểu', 'chuyên', 'năng', 'loại', 'dùng', 'thông', 'ngành', 'giao']",[]
+CLO 2_AET3226,AET3226,"Nắm được nguyên lý kết cấu, làm việc các hệ thống , cơ cấu trên xe chuyên dùng","PI5.1
+PI5.2",PLO5,"PI5.1
+PI5.2",2,1.0,"['chuyên', 'việc', 'dùng', 'thống', 'nguyên', 'trên']",[]
+CLO 3_AET3226,AET3226,"Có tư duy phân tích được hư hỏng thường gặp, phương pháp sửa chữa","PI6.1
+PI6.2",PLO6,"PI6.1
+PI6.2",4,1.0,"['pháp', 'thường', 'tích', 'phương', 'phân', 'hỏng', 'chữa']",[]
+CLO 4_AET3226,AET3226,"Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.","PI12.3
+PI12.4",PLO12,"PI12.3
+PI12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_AET3229,AET3229,"Hiểu cấu tạo, nguyên lý hoạt động của các thiết bị đo và phạm vi ứng dụng của các thiết bị đo.",PI4.2,PLO4,PI4.2,2,1.0,"['động', 'hiểu', 'phạm', 'hoạt', 'dụng', 'thiết', 'nguyên']",[]
+CLO 2_AET3229,AET3229,Biết được phương pháp tiến hành các thí nghiệm trên ô tô.,PI5.1,PLO5,PI5.1,2,1.0,"['pháp', 'tiến', 'phương', 'hành', 'biết', 'nghiệm', 'trên']",[]
+CLO 3_AET3229,AET3229,Xây dựng được các bài thí nghiệm trong các trường hợp cụ thể.,"PI6.1
+PI6.2",PLO6,"PI6.1
+PI6.2",6,1.0,"['nghiệm', 'trường', 'dựng']",[]
+CLO 4_AET3229,AET3229,"Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.",PI12.4,PLO12,PI12.4,2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]
+CLO 1_,,"Mô tả được phương pháp tổ chức, quản lý điều hành; bố trí vận hành trang thiết bị, cơ sở vật chất của  các cơ sở kinh doanh, dịch vụ bảo dưỡng, sửa chữa.","PI4.1
+PI4.2",PLO4,"PI4.1
+PI4.2",4,1.0,"['trang', 'pháp', 'chức', 'kinh', 'dưỡng', 'doanh', 'phương', 'chất', 'điều', 'hành']",[]
+CLO 2_,,"Áp dụng các kiến thức đã học để chẩn đoán, kiểm tra, bảo dưỡng, sửa chữa các cụm, hệ thống, cơ cấu trên xe ô tô và tổ chức bảo dưỡng, sửa chữa khắc phục hư hỏng xe ô tô. 
+Kiểm tra đánh giá tình trạng kỹ thuật và lựa chọn công nghệ khắc phục khung vỏ xe ô tô sau va chạm;
+Nâng cao kỹ năng tư vấn bán, kinh doanh vật tư phụ tùng, xe ô tô.","PI8.1
+PI8.2",PLO8,"PI8.1
+PI8.2",4,1.0,"['đoán', 'dưỡng', 'trạng', 'công', 'doanh', 'thức', 'hỏng', 'chữa', 'đánh', 'thuật']",[]
+CLO 3_,,"Tổng hợp được các kiến thức lý thuyết, thực tế để hoàn thành các nội dung trong báo cáo thực tập; làm cơ sở bổ sung, hoàn thiện đề tài tốt nghiệp, nội dung thực tâp tốt nghiệp.","PI11.1
+PI11.2",PLO11,"PI11.1
+PI11.2",6,1.0,"['thuyết', 'hoàn', 'nghiệp', 'dung', 'thức', 'thực', 'thiện', 'sung', 'kiến', 'tổng']",[]
+CLO 4_,,"Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp trong lĩnh vực công nghệ ô tô.","PI12.2 
+PI12.3",PLO12,"PI12.2 
+PI12.3",6,1.0,"['sáng', 'nghiệp', 'thay', 'việc', 'công', 'hướng', 'chất', 'kiếm', 'trường', 'nghề']",[]
+CLO 1_AET4243,AET4243,"Hiểu rõ được nhiệm vụ học phần, vận dụng những kiến thức đã học để hoàn thành một nhiệm vụ khoa học được nêu trong đồ án.",PI 7.1,PLO7,PI 7.1,2,1.0,"['nhiệm', 'hoàn', 'phần', 'những', 'hiểu', 'khoa', 'dụng', 'thức', 'kiến', 'thành']",[]
+CLO 2_AET4243,AET4243,"Sử dụng và lựa chọn những kiến thức đã học để thực hiện một trong những nhiệm vụ như Thiết kế chế tạo; thiết kế cải tiến hoặc hoán cải các chi tiết, cụm chi tiết, hệ thống, tổng thành trên ô tô. Kiểm nghiệm độ bền, độ tin cậy, đánh giá chất lượng các chi tiết, cụm chi tiết, hệ thống, tổng thành trên ô tô. Khai thác sử dụng ô tô trong điều kiện thực tế Việt Nam. Khai thác, vận hành, bảo dưỡng các thiết bị kiểm định, chẩn đoán, bảo dưỡng-sửa chữa ô tô. Xây dựng quy trình lắp ráp các tổng thành, hệ thống và ô tô. Xây dựng quy trình công nghệ kiểm định, chẩn đoán, bảo dưỡng, sửa chữa ô tô. Tính toán, khảo sát hệ thống cung cấp các loại nhiên liệu mới, các nguồn năng lượng mới trên ô tô.",PI 5.2,PLO5,PI 5.2,3,1.0,"['đoán', 'dưỡng', 'tiến', 'những', 'dựng', 'chất', 'khai', 'việt', 'công', 'thức']",[]
+CLO 3_AET4243,AET4243,Có tư duy tổng hợp về lich vực khoa học được nêu lên trong nhiệm vụ của đồ án,PI 8.1,PLO8,PI 8.1,6,1.0,"['nhiệm', 'lich', 'tổng', 'khoa']",[]
+CLO 4_AET4243,AET4243,"Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề.","PI12.3
+PI12.4",PLO12,"PI12.3
+PI12.4",2,1.0,"['hình', 'hiệu', 'nghiệp', 'chuyên', 'việc', 'chất', 'năng', 'thiết', 'nhân', 'nghề']",[]

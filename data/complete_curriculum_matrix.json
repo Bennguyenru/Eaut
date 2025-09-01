@@ -1,0 +1,393 @@
+{
+  "curriculum_matrix": {
+    "program_info": {
+      "program_name": "Công nghệ kỹ thuật Ô tô",
+      "program_code": "7510205",
+      "total_credits": 150,
+      "version": "Khóa 14",
+      "last_updated": "2023-09-29"
+    },
+    "plo_pi_matrix": [
+      {
+        "plo_code": "PLO1",
+        "performance_indicators": [
+          {
+            "pi_code": "PI 1.1",
+            "weight": 0.6,
+            "assessment_methods": ["Thi lý thuyết", "Bài tập", "Thảo luận"]
+          },
+          {
+            "pi_code": "PI 1.2", 
+            "weight": 0.4,
+            "assessment_methods": ["Thi lý thuyết", "Báo cáo", "Thảo luận"]
+          }
+        ]
+      },
+      {
+        "plo_code": "PLO2",
+        "performance_indicators": [
+          {
+            "pi_code": "PI 2.1",
+            "weight": 0.7,
+            "assessment_methods": ["Thi lý thuyết", "Bài tập", "Thực hành"]
+          },
+          {
+            "pi_code": "PI 2.2",
+            "weight": 0.3,
+            "assessment_methods": ["Thi thực hành", "Dự án", "Bài tập"]
+          }
+        ]
+      },
+      {
+        "plo_code": "PLO3",
+        "performance_indicators": [
+          {
+            "pi_code": "PI 3.1",
+            "weight": 0.6,
+            "assessment_methods": ["Thi lý thuyết", "Thực hành"]
+          },
+          {
+            "pi_code": "PI 3.2",
+            "weight": 0.4,
+            "assessment_methods": ["Thực hành", "Đánh giá thể lực"]
+          }
+        ]
+      },
+      {
+        "plo_code": "PLO4",
+        "performance_indicators": [
+          {
+            "pi_code": "PI 4.1",
+            "weight": 0.4,
+            "assessment_methods": ["Bài tập", "Thi lý thuyết", "Thực hành"]
+          },
+          {
+            "pi_code": "PI 4.2",
+            "weight": 0.3,
+            "assessment_methods": ["Thực hành", "Báo cáo", "Thi thực hành"]
+          },
+          {
+            "pi_code": "PI 4.3",
+            "weight": 0.3,
+            "assessment_methods": ["Đồ án", "Thi thực hành", "Bài tập"]
+          }
+        ]
+      },
+      {
+        "plo_code": "PLO5",
+        "performance_indicators": [
+          {
+            "pi_code": "PI 5.1",
+            "weight": 0.5,
+            "assessment_methods": ["Thực hành", "Báo cáo", "Thi thực hành"]
+          },
+          {
+            "pi_code": "PI 5.2",
+            "weight": 0.5,
+            "assessment_methods": ["Đồ án", "Dự án", "Thi thực hành"]
+          }
+        ]
+      },
+      {
+        "plo_code": "PLO6",
+        "performance_indicators": [
+          {
+            "pi_code": "PI 6.1",
+            "weight": 0.7,
+            "assessment_methods": ["Đồ án", "Thực hành", "Dự án", "Thực tập"]
+          },
+          {
+            "pi_code": "PI 6.2",
+            "weight": 0.3,
+            "assessment_methods": ["Báo cáo", "Thuyết trình", "Dự án"]
+          }
+        ]
+      },
+      {
+        "plo_code": "PLO7",
+        "performance_indicators": [
+          {
+            "pi_code": "PI 7.1",
+            "weight": 0.6,
+            "assessment_methods": ["Thuyết trình", "Báo cáo", "Thảo luận nhóm"]
+          },
+          {
+            "pi_code": "PI 7.2",
+            "weight": 0.4,
+            "assessment_methods": ["Thảo luận", "Dự án nhóm", "Tình huống"]
+          }
+        ]
+      },
+      {
+        "plo_code": "PLO8",
+        "performance_indicators": [
+          {
+            "pi_code": "PI 8.1",
+            "weight": 0.5,
+            "assessment_methods": ["Dự án nhóm", "Thảo luận", "Báo cáo nhóm"]
+          },
+          {
+            "pi_code": "PI 8.2",
+            "weight": 0.5,
+            "assessment_methods": ["Dự án", "Tình huống", "Báo cáo"]
+          }
+        ]
+      },
+      {
+        "plo_code": "PLO9",
+        "performance_indicators": [
+          {
+            "pi_code": "PI 9.1",
+            "weight": 0.6,
+            "assessment_methods": ["Thi thực hành", "Bài tập", "Dự án"]
+          },
+          {
+            "pi_code": "PI 9.2",
+            "weight": 0.4,
+            "assessment_methods": ["Thi tiếng Anh", "Báo cáo tiếng Anh", "Thuyết trình"]
+          }
+        ]
+      },
+      {
+        "plo_code": "PLO10",
+        "performance_indicators": [
+          {
+            "pi_code": "PI 10.1",
+            "weight": 0.6,
+            "assessment_methods": ["Đồ án", "Thực hành", "Thi thực hành"]
+          },
+          {
+            "pi_code": "PI 10.2",
+            "weight": 0.4,
+            "assessment_methods": ["Dự án", "Thực tập", "Báo cáo"]
+          }
+        ]
+      },
+      {
+        "plo_code": "PLO11",
+        "performance_indicators": [
+          {
+            "pi_code": "PI 11.1",
+            "weight": 0.6,
+            "assessment_methods": ["Báo cáo", "Dự án", "Thuyết trình"]
+          },
+          {
+            "pi_code": "PI 11.2",
+            "weight": 0.4,
+            "assessment_methods": ["Dự án nhóm", "Đánh giá lãnh đạo", "Báo cáo"]
+          }
+        ]
+      },
+      {
+        "plo_code": "PLO12",
+        "performance_indicators": [
+          {
+            "pi_code": "PI 12.1",
+            "weight": 0.3,
+            "assessment_methods": ["Tự đánh giá", "Kế hoạch học tập", "Báo cáo nghiên cứu"]
+          },
+          {
+            "pi_code": "PI 12.2",
+            "weight": 0.2,
+            "assessment_methods": ["Kế hoạch nghề nghiệp", "Thuyết trình", "Báo cáo"]
+          },
+          {
+            "pi_code": "PI 12.3",
+            "weight": 0.3,
+            "assessment_methods": ["Đánh giá đạo đức", "Tự đánh giá", "Đánh giá đồng đẳng"]
+          },
+          {
+            "pi_code": "PI 12.4",
+            "weight": 0.2,
+            "assessment_methods": ["Đánh giá thái độ", "Chuyên cần", "Tham gia lớp"]
+          }
+        ]
+      }
+    ],
+    "course_plo_matrix": [
+      {
+        "course_code": "SSH1201",
+        "course_name": "Triết học Mác - Lênin",
+        "course_credits": 3,
+        "course_type": "Lý luận chính trị",
+        "plo_contributions": [
+          {"plo_code": "PLO1", "pi_codes": ["PI 1.1"], "contribution_level": "T", "weight": 0.9}
+        ]
+      },
+      {
+        "course_code": "SSH1202",
+        "course_name": "Kinh tế chính trị Mác - Lênin",
+        "course_credits": 2,
+        "course_type": "Lý luận chính trị",
+        "plo_contributions": [
+          {"plo_code": "PLO1", "pi_codes": ["PI 1.1", "PI 1.2"], "contribution_level": "T", "weight": 0.8}
+        ]
+      },
+      {
+        "course_code": "ME2252",
+        "course_name": "Vẽ kỹ thuật cơ khí",
+        "course_credits": 3,
+        "course_type": "Cơ sở ngành",
+        "plo_contributions": [
+          {"plo_code": "PLO4", "pi_codes": ["PI 4.3"], "contribution_level": "U", "weight": 0.9},
+          {"plo_code": "PLO12", "pi_codes": ["PI 12.4"], "contribution_level": "U", "weight": 0.7}
+        ]
+      },
+      {
+        "course_code": "ME2205",
+        "course_name": "Cơ học kỹ thuật",
+        "course_credits": 3,
+        "course_type": "Cơ sở ngành",
+        "plo_contributions": [
+          {"plo_code": "PLO4", "pi_codes": ["PI 4.1", "PI 4.2"], "contribution_level": "U", "weight": 0.9},
+          {"plo_code": "PLO10", "pi_codes": ["PI 10.1"], "contribution_level": "U", "weight": 0.8},
+          {"plo_code": "PLO12", "pi_codes": ["PI 12.1"], "contribution_level": "U", "weight": 0.7}
+        ]
+      },
+      {
+        "course_code": "AET3261",
+        "course_name": "Kết cấu động cơ đốt trong",
+        "course_credits": 3,
+        "course_type": "Chuyên ngành",
+        "plo_contributions": [
+          {"plo_code": "PLO4", "pi_codes": ["PI 4.2"], "contribution_level": "U", "weight": 0.8},
+          {"plo_code": "PLO5", "pi_codes": ["PI 5.1", "PI 5.2"], "contribution_level": "U", "weight": 0.9},
+          {"plo_code": "PLO12", "pi_codes": ["PI 12.1"], "contribution_level": "U", "weight": 0.7}
+        ]
+      },
+      {
+        "course_code": "AET3218",
+        "course_name": "Cấu tạo ô tô",
+        "course_credits": 3,
+        "course_type": "Chuyên ngành",
+        "plo_contributions": [
+          {"plo_code": "PLO5", "pi_codes": ["PI 5.1"], "contribution_level": "U", "weight": 0.8},
+          {"plo_code": "PLO6", "pi_codes": ["PI 6.1"], "contribution_level": "U", "weight": 0.8},
+          {"plo_code": "PLO10", "pi_codes": ["PI 10.1"], "contribution_level": "U", "weight": 0.9},
+          {"plo_code": "PLO12", "pi_codes": ["PI 12.3"], "contribution_level": "U", "weight": 0.7}
+        ]
+      },
+      {
+        "course_code": "AET3262",
+        "course_name": "Lý thuyết ô tô",
+        "course_credits": 3,
+        "course_type": "Chuyên ngành",
+        "plo_contributions": [
+          {"plo_code": "PLO5", "pi_codes": ["PI 5.1", "PI 5.2"], "contribution_level": "U", "weight": 0.9},
+          {"plo_code": "PLO6", "pi_codes": ["PI 6.1"], "contribution_level": "U", "weight": 0.8}
+        ]
+      },
+      {
+        "course_code": "AET3217",
+        "course_name": "Kết cấu - tính toán ô tô",
+        "course_credits": 3,
+        "course_type": "Chuyên ngành",
+        "plo_contributions": [
+          {"plo_code": "PLO5", "pi_codes": ["PI 5.2"], "contribution_level": "U", "weight": 0.9},
+          {"plo_code": "PLO6", "pi_codes": ["PI 6.1"], "contribution_level": "U", "weight": 0.8},
+          {"plo_code": "PLO10", "pi_codes": ["PI 10.1"], "contribution_level": "U", "weight": 0.8}
+        ]
+      },
+      {
+        "course_code": "AET3219",
+        "course_name": "Trang bị điện trên ô tô",
+        "course_credits": 3,
+        "course_type": "Chuyên ngành",
+        "plo_contributions": [
+          {"plo_code": "PLO5", "pi_codes": ["PI 5.1"], "contribution_level": "U", "weight": 0.8},
+          {"plo_code": "PLO6", "pi_codes": ["PI 6.2"], "contribution_level": "U", "weight": 0.8},
+          {"plo_code": "PLO10", "pi_codes": ["PI 10.1"], "contribution_level": "U", "weight": 0.8}
+        ]
+      },
+      {
+        "course_code": "AET3221",
+        "course_name": "Chẩn đoán và kiểm định kỹ thuật ô tô",
+        "course_credits": 3,
+        "course_type": "Chuyên ngành",
+        "plo_contributions": [
+          {"plo_code": "PLO5", "pi_codes": ["PI 5.1"], "contribution_level": "U", "weight": 0.8},
+          {"plo_code": "PLO10", "pi_codes": ["PI 10.1"], "contribution_level": "U", "weight": 0.9}
+        ]
+      },
+      {
+        "course_code": "AET3222",
+        "course_name": "Công nghệ bảo dưỡng, sửa chữa ô tô",
+        "course_credits": 3,
+        "course_type": "Chuyên ngành",
+        "plo_contributions": [
+          {"plo_code": "PLO6", "pi_codes": ["PI 6.1"], "contribution_level": "U", "weight": 0.9},
+          {"plo_code": "PLO10", "pi_codes": ["PI 10.1"], "contribution_level": "U", "weight": 0.9}
+        ]
+      },
+      {
+        "course_code": "AET3224",
+        "course_name": "Cơ điện tử trên ô tô",
+        "course_credits": 3,
+        "course_type": "Chuyên ngành",
+        "plo_contributions": [
+          {"plo_code": "PLO5", "pi_codes": ["PI 5.1"], "contribution_level": "U", "weight": 0.8},
+          {"plo_code": "PLO6", "pi_codes": ["PI 6.2"], "contribution_level": "U", "weight": 0.9}
+        ]
+      },
+      {
+        "course_code": "AET3228",
+        "course_name": "Ô tô điện",
+        "course_credits": 3,
+        "course_type": "Chuyên ngành",
+        "plo_contributions": [
+          {"plo_code": "PLO5", "pi_codes": ["PI 5.1"], "contribution_level": "U", "weight": 0.8},
+          {"plo_code": "PLO6", "pi_codes": ["PI 6.1", "PI 6.2"], "contribution_level": "U", "weight": 0.9}
+        ]
+      }
+    ],
+    "assessment_distribution": {
+      "by_plo": {
+        "PLO1": {"courses": 5, "total_credits": 11, "percentage": 7.3},
+        "PLO2": {"courses": 8, "total_credits": 24, "percentage": 16.0},
+        "PLO3": {"courses": 2, "total_credits": 11, "percentage": 7.3},
+        "PLO4": {"courses": 12, "total_credits": 38, "percentage": 25.3},
+        "PLO5": {"courses": 15, "total_credits": 45, "percentage": 30.0},
+        "PLO6": {"courses": 10, "total_credits": 30, "percentage": 20.0},
+        "PLO7": {"courses": 8, "total_credits": 18, "percentage": 12.0},
+        "PLO8": {"courses": 6, "total_credits": 15, "percentage": 10.0},
+        "PLO9": {"courses": 5, "total_credits": 12, "percentage": 8.0},
+        "PLO10": {"courses": 12, "total_credits": 36, "percentage": 24.0},
+        "PLO11": {"courses": 8, "total_credits": 20, "percentage": 13.3},
+        "PLO12": {"courses": 20, "total_credits": 50, "percentage": 33.3}
+      },
+      "by_course_type": {
+        "ly_thuyet_chinh_tri": {"courses": 5, "credits": 11, "plo_coverage": ["PLO1"]},
+        "khoa_hoc_xa_hoi": {"courses": 2, "credits": 5, "plo_coverage": ["PLO1", "PLO7"]},
+        "khoa_hoc_tu_nhien": {"courses": 5, "credits": 15, "plo_coverage": ["PLO2", "PLO4"]},
+        "ngoai_ngu": {"courses": 3, "credits": 9, "plo_coverage": ["PLO9"]},
+        "co_so_nganh": {"courses": 12, "credits": 38, "plo_coverage": ["PLO4", "PLO5", "PLO10", "PLO12"]},
+        "chuyen_nganh": {"courses": 18, "credits": 59, "plo_coverage": ["PLO5", "PLO6", "PLO10", "PLO11", "PLO12"]},
+        "thuc_tap_do_an": {"courses": 2, "credits": 13, "plo_coverage": ["PLO6", "PLO7", "PLO8", "PLO11", "PLO12"]}
+      }
+    },
+    "quality_assurance": {
+      "plo_coverage": {
+        "fully_covered": ["PLO4", "PLO5", "PLO6", "PLO10", "PLO12"],
+        "adequately_covered": ["PLO1", "PLO2", "PLO7", "PLO8", "PLO11"],
+        "minimally_covered": ["PLO3", "PLO9"],
+        "coverage_percentage": 91.7
+      },
+      "assessment_balance": {
+        "theory_percentage": 35,
+        "practice_percentage": 45,
+        "project_percentage": 20,
+        "balance_score": "Good"
+      },
+      "bloom_distribution": {
+        "remember": 15,
+        "understand": 25,
+        "apply": 30,
+        "analyze": 20,
+        "evaluate": 8,
+        "create": 2,
+        "distribution_score": "Balanced"
+      }
+    }
+  }
+}
+

@@ -1,0 +1,13 @@
+id,clo_id,keyword_category,keywords,weight,description
+1,1,technical_terms,"tiêu chuẩn,TCVN,ISO,quy ước,biểu diễn,bản vẽ kỹ thuật",1.0,Từ khóa kỹ thuật về tiêu chuẩn
+2,1,concepts,"khổ giấy,tỷ lệ,chữ viết,ghi kích thước",0.8,Khái niệm cơ bản về bản vẽ
+3,2,drawing_skills,"vẽ hình học,hình chiếu,mặt cắt,hình cắt,dụng cụ vẽ",1.0,Kỹ năng vẽ kỹ thuật
+4,2,technical_knowledge,"dung sai,nhám bề mặt,mối ghép,truyền động",0.9,Kiến thức kỹ thuật chuyên sâu
+5,3,spatial_thinking,"tư duy không gian,hình chiếu vuông góc,biểu diễn vật thể",1.0,Tư duy không gian
+6,3,standards,"tiêu chuẩn quốc gia,tiêu chuẩn quốc tế,quy ước biểu diễn",0.8,Hiểu biết về tiêu chuẩn
+7,4,attitude,"ý thức,thái độ,nghiêm túc,tác phong khoa học,kiên nhẫn,tỷ mỷ,chính xác",1.0,Thái độ học tập
+8,5,mechanics_fundamentals,"hệ lực,tĩnh học,động học,cân bằng lực,nguyên lý cơ bản",1.0,Nguyên lý cơ học cơ bản
+9,6,force_analysis,"mô hình lực,phương trình cân bằng,giải quyết bài toán,phân tích lực",1.0,Phân tích và mô hình hóa lực
+10,7,design_calculation,"phân tích,tính toán,thiết kế,tham số kỹ thuật,cơ học ứng dụng",1.0,Tính toán thiết kế kỹ thuật
+11,8,learning_attitude,"ý thức học tập,thái độ tích cực,nghiêm túc,chuyên cần",1.0,Thái độ và ý thức học tập
+

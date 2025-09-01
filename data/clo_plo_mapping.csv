@@ -1,0 +1,10 @@
+id,clo_id,plo_id,weight,mapping_type,notes
+1,1,4,1.0,direct,CLO1 ME2252 → PLO4 qua PI4.3
+2,2,4,1.0,direct,CLO2 ME2252 → PLO4 qua PI4.3
+3,3,4,1.0,direct,CLO3 ME2252 → PLO4 qua PI4.3
+4,4,12,1.0,direct,CLO4 ME2252 → PLO12 qua PI12.4
+5,5,4,1.0,direct,CLO1 ME2205 → PLO4 qua PI4.1
+6,6,4,1.0,direct,CLO2 ME2205 → PLO4 qua PI4.2
+7,7,10,1.0,direct,CLO3 ME2205 → PLO10 qua PI10.1
+8,8,12,1.0,direct,CLO4 ME2205 → PLO12 qua PI12.1
+

@@ -1,0 +1,357 @@
+{
+  "bloom_level_2": {
+    "name": "Hiểu (Understand)",
+    "description": "Rubric cho Bloom taxonomy level 2",
+    "criteria": {
+      "excellent": {
+        "score_range": [
+          3.5,
+          4.0
+        ],
+        "description": "Hiểu sâu sắc và giải thích rõ ràng các khái niệm",
+        "indicators": [
+          "Giải thích rõ ràng",
+          "So sánh chính xác",
+          "Phân loại đúng"
+        ]
+      },
+      "good": {
+        "score_range": [
+          2.5,
+          3.4
+        ],
+        "description": "Hiểu tốt và giải thích được hầu hết khái niệm",
+        "indicators": [
+          "Giải thích tốt",
+          "So sánh hợp lý",
+          "Phân loại cơ bản"
+        ]
+      },
+      "satisfactory": {
+        "score_range": [
+          2.0,
+          2.4
+        ],
+        "description": "Hiểu cơ bản các khái niệm chính",
+        "indicators": [
+          "Giải thích đơn giản",
+          "So sánh cơ bản",
+          "Phân loại được"
+        ]
+      },
+      "needs_improvement": {
+        "score_range": [
+          1.0,
+          1.9
+        ],
+        "description": "Hiểu hạn chế, giải thích chưa rõ ràng",
+        "indicators": [
+          "Giải thích chưa rõ",
+          "So sánh thiếu chính xác",
+          "Phân loại sai"
+        ]
+      },
+      "unsatisfactory": {
+        "score_range": [
+          0.0,
+          0.9
+        ],
+        "description": "Không hiểu hoặc hiểu sai các khái niệm",
+        "indicators": [
+          "Không giải thích được",
+          "Không so sánh được",
+          "Không phân loại được"
+        ]
+      }
+    },
+    "sample_clos": [
+      "CLO 1_ME2206",
+      "CLO 4_ME2206",
+      "CLO4_"
+    ]
+  },
+  "bloom_level_3": {
+    "name": "Áp dụng (Apply)",
+    "description": "Rubric cho Bloom taxonomy level 3",
+    "criteria": {
+      "excellent": {
+        "score_range": [
+          3.5,
+          4.0
+        ],
+        "description": "Áp dụng kiến thức chính xác và linh hoạt trong nhiều tình huống",
+        "indicators": [
+          "Vận dụng linh hoạt",
+          "Thực hiện chính xác",
+          "Giải quyết hiệu quả"
+        ]
+      },
+      "good": {
+        "score_range": [
+          2.5,
+          3.4
+        ],
+        "description": "Áp dụng kiến thức đúng trong hầu hết tình huống",
+        "indicators": [
+          "Vận dụng tốt",
+          "Thực hiện đúng",
+          "Giải quyết được"
+        ]
+      },
+      "satisfactory": {
+        "score_range": [
+          2.0,
+          2.4
+        ],
+        "description": "Áp dụng kiến thức cơ bản trong tình huống quen thuộc",
+        "indicators": [
+          "Vận dụng cơ bản",
+          "Thực hiện đơn giản",
+          "Giải quyết một phần"
+        ]
+      },
+      "needs_improvement": {
+        "score_range": [
+          1.0,
+          1.9
+        ],
+        "description": "Áp dụng kiến thức chưa chính xác",
+        "indicators": [
+          "Vận dụng hạn chế",
+          "Thực hiện chưa đúng",
+          "Giải quyết thiếu"
+        ]
+      },
+      "unsatisfactory": {
+        "score_range": [
+          0.0,
+          0.9
+        ],
+        "description": "Không áp dụng được kiến thức",
+        "indicators": [
+          "Không vận dụng được",
+          "Không thực hiện được",
+          "Không giải quyết được"
+        ]
+      }
+    },
+    "sample_clos": [
+      "CLO 2_ME2206",
+      "CLO 3_ME2206",
+      "CLO 2_"
+    ]
+  },
+  "bloom_level_6": {
+    "name": "Sáng tạo (Create)",
+    "description": "Rubric cho Bloom taxonomy level 6",
+    "criteria": {
+      "excellent": {
+        "score_range": [
+          3.5,
+          4.0
+        ],
+        "description": "Sáng tạo độc đáo, khả thi và có giá trị cao",
+        "indicators": [
+          "Ý tưởng độc đáo",
+          "Thiết kế sáng tạo",
+          "Sản phẩm hoàn chỉnh"
+        ]
+      },
+      "good": {
+        "score_range": [
+          2.5,
+          3.4
+        ],
+        "description": "Sáng tạo tốt với ý tưởng mới",
+        "indicators": [
+          "Ý tưởng mới",
+          "Thiết kế tốt",
+          "Sản phẩm khả thi"
+        ]
+      },
+      "satisfactory": {
+        "score_range": [
+          2.0,
+          2.4
+        ],
+        "description": "Sáng tạo cơ bản với ý tưởng đơn giản",
+        "indicators": [
+          "Ý tưởng cơ bản",
+          "Thiết kế đơn giản",
+          "Sản phẩm cơ bản"
+        ]
+      },
+      "needs_improvement": {
+        "score_range": [
+          1.0,
+          1.9
+        ],
+        "description": "Sáng tạo hạn chế, thiếu tính mới",
+        "indicators": [
+          "Ý tưởng thiếu mới",
+          "Thiết kế chưa tốt",
+          "Sản phẩm chưa hoàn chỉnh"
+        ]
+      },
+      "unsatisfactory": {
+        "score_range": [
+          0.0,
+          0.9
+        ],
+        "description": "Không sáng tạo được hoặc sao chép",
+        "indicators": [
+          "Không có ý tưởng",
+          "Không thiết kế được",
+          "Không tạo được sản phẩm"
+        ]
+      }
+    },
+    "sample_clos": [
+      "CLO6_",
+      "CLO12_",
+      "CLO 3_ME2253"
+    ]
+  },
+  "bloom_level_1": {
+    "name": "Nhớ (Remember)",
+    "description": "Rubric cho Bloom taxonomy level 1",
+    "criteria": {
+      "excellent": {
+        "score_range": [
+          3.5,
+          4.0
+        ],
+        "description": "Nhớ chính xác và đầy đủ tất cả thông tin, khái niệm cơ bản",
+        "indicators": [
+          "Liệt kê đầy đủ",
+          "Định nghĩa chính xác",
+          "Nhận biết tất cả"
+        ]
+      },
+      "good": {
+        "score_range": [
+          2.5,
+          3.4
+        ],
+        "description": "Nhớ tốt hầu hết thông tin, khái niệm cơ bản",
+        "indicators": [
+          "Liệt kê hầu hết",
+          "Định nghĩa đúng",
+          "Nhận biết tốt"
+        ]
+      },
+      "satisfactory": {
+        "score_range": [
+          2.0,
+          2.4
+        ],
+        "description": "Nhớ cơ bản các thông tin, khái niệm chính",
+        "indicators": [
+          "Liệt kê cơ bản",
+          "Định nghĩa đơn giản",
+          "Nhận biết được"
+        ]
+      },
+      "needs_improvement": {
+        "score_range": [
+          1.0,
+          1.9
+        ],
+        "description": "Nhớ hạn chế, thiếu nhiều thông tin cơ bản",
+        "indicators": [
+          "Liệt kê thiếu",
+          "Định nghĩa chưa đúng",
+          "Nhận biết hạn chế"
+        ]
+      },
+      "unsatisfactory": {
+        "score_range": [
+          0.0,
+          0.9
+        ],
+        "description": "Không nhớ hoặc nhớ sai hầu hết thông tin",
+        "indicators": [
+          "Không liệt kê được",
+          "Định nghĩa sai",
+          "Không nhận biết"
+        ]
+      }
+    },
+    "sample_clos": [
+      "CLO7_",
+      "CLO 1_",
+      "CLO 1_AET3262"
+    ]
+  },
+  "bloom_level_4": {
+    "name": "Phân tích (Analyze)",
+    "description": "Rubric cho Bloom taxonomy level 4",
+    "criteria": {
+      "excellent": {
+        "score_range": [
+          3.5,
+          4.0
+        ],
+        "description": "Phân tích sâu sắc, logic và có hệ thống",
+        "indicators": [
+          "Phân tích toàn diện",
+          "Tìm mối liên hệ",
+          "Xác định nguyên nhân"
+        ]
+      },
+      "good": {
+        "score_range": [
+          2.5,
+          3.4
+        ],
+        "description": "Phân tích tốt với logic rõ ràng",
+        "indicators": [
+          "Phân tích tốt",
+          "Thấy liên hệ",
+          "Tìm nguyên nhân"
+        ]
+      },
+      "satisfactory": {
+        "score_range": [
+          2.0,
+          2.4
+        ],
+        "description": "Phân tích cơ bản các yếu tố chính",
+        "indicators": [
+          "Phân tích cơ bản",
+          "Thấy liên hệ đơn giản",
+          "Xác định một phần"
+        ]
+      },
+      "needs_improvement": {
+        "score_range": [
+          1.0,
+          1.9
+        ],
+        "description": "Phân tích hạn chế, thiếu logic",
+        "indicators": [
+          "Phân tích hạn chế",
+          "Thiếu liên hệ",
+          "Không tìm nguyên nhân"
+        ]
+      },
+      "unsatisfactory": {
+        "score_range": [
+          0.0,
+          0.9
+        ],
+        "description": "Không phân tích được hoặc phân tích sai",
+        "indicators": [
+          "Không phân tích được",
+          "Không thấy liên hệ",
+          "Không xác định được"
+        ]
+      }
+    },
+    "sample_clos": [
+      "CLO 3_ME2259",
+      "CLO 3_ME2212",
+      "CLO 3_ME2258"
+    ]
+  }
+}

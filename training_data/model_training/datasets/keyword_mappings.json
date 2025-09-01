@@ -1,0 +1,3799 @@
+{
+  "CLO 1_ME2206": {
+    "primary_keywords": [
+      "hiểu",
+      "dụng",
+      "thức",
+      "thiết",
+      "kiến"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2206",
+    "description": "Hiểu rõ được các kiến thức cần thiết về tác dụng cơ học"
+  },
+  "CLO 2_ME2206": {
+    "primary_keywords": [
+      "trạng",
+      "thái",
+      "trưng",
+      "đúng",
+      "dụng"
+    ],
+    "secondary_keywords": [
+      "quan",
+      "chọn",
+      "liệu",
+      "liên"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2206",
+    "description": "Sử dụng và lựa chọn đúng các đặc trưng, trạng thái cơ học liên quan đến sức bền vật liệu"
+  },
+  "CLO 3_ME2206": {
+    "primary_keywords": [
+      "động",
+      "toán",
+      "siêu",
+      "tính",
+      "tích"
+    ],
+    "secondary_keywords": [
+      "chuyển",
+      "tĩnh",
+      "phân",
+      "quan",
+      "chịu"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2206",
+    "description": "Có tư duy phân tích và tính toán được các bài toán liên quan đến sức bền vật liệu (chuyển vị, siêu tĩnh, hệ lực chịu tải động...)"
+  },
+  "CLO 4_ME2206": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2206",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO4_": {
+    "primary_keywords": [
+      "giải",
+      "toán",
+      "dựng",
+      "lĩnh",
+      "thuật"
+    ],
+    "secondary_keywords": [
+      "công",
+      "bằng",
+      "khoa",
+      "dụng",
+      "năng"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "",
+    "description": "Khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực công nghệ kỹ thuật ô tô bằng cách áp dụng các kiến thức khoa học. kỹ thuật, toán học, vật lý."
+  },
+  "CLO 1_": {
+    "primary_keywords": [
+      "trang",
+      "pháp",
+      "chức",
+      "kinh",
+      "dưỡng"
+    ],
+    "secondary_keywords": [
+      "doanh",
+      "phương",
+      "chất",
+      "điều",
+      "hành"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 4,
+    "course_code": "",
+    "description": "Mô tả được phương pháp tổ chức, quản lý điều hành; bố trí vận hành trang thiết bị, cơ sở vật chất của  các cơ sở kinh doanh, dịch vụ bảo dưỡng, sửa chữa."
+  },
+  "CLO 2_": {
+    "primary_keywords": [
+      "đoán",
+      "dưỡng",
+      "trạng",
+      "công",
+      "doanh"
+    ],
+    "secondary_keywords": [
+      "thức",
+      "hỏng",
+      "chữa",
+      "đánh",
+      "thuật"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 4,
+    "course_code": "",
+    "description": "Áp dụng các kiến thức đã học để chẩn đoán, kiểm tra, bảo dưỡng, sửa chữa các cụm, hệ thống, cơ cấu trên xe ô tô và tổ chức bảo dưỡng, sửa chữa khắc phục hư hỏng xe ô tô. \nKiểm tra đánh giá tình trạng kỹ thuật và lựa chọn công nghệ khắc phục khung vỏ xe ô tô sau va chạm;\nNâng cao kỹ năng tư vấn bán, kinh doanh vật tư phụ tùng, xe ô tô."
+  },
+  "CLO 3_": {
+    "primary_keywords": [
+      "thuyết",
+      "hoàn",
+      "nghiệp",
+      "dung",
+      "thức"
+    ],
+    "secondary_keywords": [
+      "thực",
+      "thiện",
+      "sung",
+      "kiến",
+      "tổng"
+    ],
+    "scoring_method": "presence",
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5,
+    "bloom_level": 6,
+    "course_code": "",
+    "description": "Tổng hợp được các kiến thức lý thuyết, thực tế để hoàn thành các nội dung trong báo cáo thực tập; làm cơ sở bổ sung, hoàn thiện đề tài tốt nghiệp, nội dung thực tâp tốt nghiệp."
+  },
+  "CLO 4_": {
+    "primary_keywords": [
+      "sáng",
+      "nghiệp",
+      "thay",
+      "việc",
+      "công"
+    ],
+    "secondary_keywords": [
+      "hướng",
+      "chất",
+      "kiếm",
+      "trường",
+      "nghề"
+    ],
+    "scoring_method": "presence",
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5,
+    "bloom_level": 6,
+    "course_code": "",
+    "description": "Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp trong lĩnh vực công nghệ ô tô."
+  },
+  "CLO 1_AET3217": {
+    "primary_keywords": [
+      "thống",
+      "toán",
+      "hiểu",
+      "tính"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3217",
+    "description": "Hiểu và tính toán được các cơ cấu, hệ thống cơ bản của gầm ô tô."
+  },
+  "CLO 2_AET3217": {
+    "primary_keywords": [
+      "chuẩn",
+      "dựng",
+      "tiêu",
+      "theo",
+      "tổng"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "presence",
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5,
+    "bloom_level": 6,
+    "course_code": "AET3217",
+    "description": "Tổng hợp, xây dựng các bản vẽ theo tiêu chuẩn"
+  },
+  "CLO 3_AET3217": {
+    "primary_keywords": [
+      "năng",
+      "thuyết",
+      "trình"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3217",
+    "description": "Kỹ năng thuyết trình, bảo vệ đồ án"
+  },
+  "CLO 4_AET3217": {
+    "primary_keywords": [
+      "hình",
+      "luận",
+      "giải",
+      "nghiệp",
+      "chuyên"
+    ],
+    "secondary_keywords": [
+      "tích",
+      "chất",
+      "thuật",
+      "năng",
+      "phân"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3217",
+    "description": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ: Lập luận, phân tích và giải quyết các vấn đề kỹ thuật."
+  },
+  "CLO 1_AET3218": {
+    "primary_keywords": [
+      "trên",
+      "nhận",
+      "biết",
+      "thống",
+      "tổng"
+    ],
+    "secondary_keywords": [
+      "thành"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3218",
+    "description": "Nhận biết về cấu tạo của các cơ cấu, hệ thống, tổng thành trên ôtô."
+  },
+  "CLO 2_AET3218": {
+    "primary_keywords": [
+      "trên",
+      "hiểu",
+      "việc",
+      "thống",
+      "nguyên"
+    ],
+    "secondary_keywords": [
+      "tổng",
+      "thành"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3218",
+    "description": "Hiểu được về cấu tạo, nguyên lý làm việc của các hệ thống, cơ cấu, tổng thành trên ôtô"
+  },
+  "CLO 3_AET3218": {
+    "primary_keywords": [
+      "trên",
+      "giải",
+      "luận",
+      "việc",
+      "thống"
+    ],
+    "secondary_keywords": [
+      "thích",
+      "nguyên",
+      "tổng",
+      "thành"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3218",
+    "description": "Giải thích và lập luận về cấu tạo, nguyên lý làm việc của các cơ cấu, hệ thống, tổng thành trên ôtô."
+  },
+  "CLO 4_AET3218": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3218",
+    "description": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề"
+  },
+  "CLO 1_AET3219": {
+    "primary_keywords": [
+      "thuật",
+      "điện",
+      "hiểu"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3219",
+    "description": "Hiểu được các kỹ thuật điện cơ bản"
+  },
+  "CLO 2_AET3219": {
+    "primary_keywords": [
+      "trang",
+      "động",
+      "khái",
+      "quát",
+      "chung"
+    ],
+    "secondary_keywords": [
+      "điều",
+      "khiển",
+      "thống",
+      "điện",
+      "trên"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3219",
+    "description": "Khái quát chung các cơ cấu, hệ thống trang bị điện cơ bản và điều khiển tự động trên xe ô tô."
+  },
+  "CLO 3_AET3219": {
+    "primary_keywords": [
+      "trang",
+      "động",
+      "hoạt",
+      "thống",
+      "điện"
+    ],
+    "secondary_keywords": [
+      "nguyên",
+      "trên"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3219",
+    "description": "Mô tả được cấu tạo, nguyên lý hoạt động của các cơ cấu, hệ thống  trang bị điện cơ bản trên ô tô."
+  },
+  "CLO 4_AET3219": {
+    "primary_keywords": [
+      "trang",
+      "giải",
+      "trên",
+      "kiến",
+      "tượng"
+    ],
+    "secondary_keywords": [
+      "dụng",
+      "thức",
+      "nhân",
+      "hỏng",
+      "thống"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3219",
+    "description": "Giải thích được các hiện tượng, nguyên nhân hư hỏng của các cơ cấu, hệ thống trang bị điện- điện tử trên ô tô.  Áp dụng các kiến thức đã học để kiểm tra, sửa chữa các hệ thống điện – điện tử trên  ô tô"
+  },
+  "CLO 5_AET3219": {
+    "primary_keywords": [
+      "điện",
+      "dụng",
+      "thức",
+      "thống",
+      "chữa"
+    ],
+    "secondary_keywords": [
+      "kiểm",
+      "kiến",
+      "trên"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3219",
+    "description": "Áp dụng các kiến thức đã học để kiểm tra, sửa chữa các hệ thống điện – điện tử trên  ô tô"
+  },
+  "CLO 6_AET3219": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3219",
+    "description": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề."
+  },
+  "CLO1_": {
+    "primary_keywords": [
+      "đảng",
+      "pháp",
+      "đường",
+      "nước",
+      "hiểu"
+    ],
+    "secondary_keywords": [
+      "mạng",
+      "việt",
+      "nghĩa",
+      "tưởng",
+      "chính"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "",
+    "description": "Hiểu rõ các nguyên lý cơ bản của chủ nghĩa Mác - Lênin, đường lối cách mạng của Đảng Cộng sản Việt Nam, tư tưởng Hồ Chí Minh; chính sách, pháp luật của Nhà nước."
+  },
+  "CLO2_": {
+    "primary_keywords": [
+      "nghiệp",
+      "chuyên",
+      "lĩnh",
+      "khoa",
+      "dụng"
+    ],
+    "secondary_keywords": [
+      "thức",
+      "nghề",
+      "nhiên",
+      "ngoại",
+      "kiến"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "",
+    "description": "Vận dụng kiến thức về khoa học tự nhiên, xã hội, Ngoại ngữ, tin học vào lĩnh vực chuyên môn, nghề nghiệp."
+  },
+  "CLO3_": {
+    "primary_keywords": [
+      "luyện",
+      "hoàn",
+      "phòng",
+      "chất",
+      "quốc"
+    ],
+    "secondary_keywords": [
+      "giáo",
+      "tinh",
+      "thức",
+      "ninh",
+      "thần"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "",
+    "description": "Hoàn thành kiến thức Quốc phòng - an ninh và Giáo dục thể chất để tự rèn luyện về tinh thần và thể chất."
+  },
+  "CLO5_": {
+    "primary_keywords": [
+      "tiến",
+      "chuyên",
+      "công",
+      "phân",
+      "thích"
+    ],
+    "secondary_keywords": [
+      "liệu",
+      "đánh",
+      "luận",
+      "tích",
+      "thuật"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "",
+    "description": "Khả năng phát triển và tiến hành thực hành, phân tích, giải thích dữ liệu, sử dụng đánh giá kỹ thuật để đưa ra các kết luận cho các vấn đề chuyên môn trong lĩnh vực công nghệ kỹ thuật ô tô."
+  },
+  "CLO6_": {
+    "primary_keywords": [
+      "dưỡng",
+      "chuyên",
+      "dựng",
+      "công",
+      "ngành"
+    ],
+    "secondary_keywords": [
+      "chữa",
+      "định",
+      "hướng",
+      "thuật",
+      "tiết"
+    ],
+    "scoring_method": "presence",
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5,
+    "bloom_level": 6,
+    "course_code": "",
+    "description": "Năng lực chuyên môn để có thể tham gia thiết kế, chế tạo, vận hành, bảo trì, bảo dưỡng, sửa chữa ô tô truyền thống, xe ô tô điện và các chi tiết, phụ tùng của ô tô; Định hướng xây dựng các giải pháp công nghệ,\n kỹ thuật cho các lĩnh vực liên quan đến ngành ôtô"
+  },
+  "CLO7_": {
+    "primary_keywords": [
+      "thuyết",
+      "chuyên",
+      "huống",
+      "lĩnh",
+      "tiêu"
+    ],
+    "secondary_keywords": [
+      "hoạt",
+      "dụng",
+      "năng",
+      "linh",
+      "trình"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 1,
+    "course_code": "",
+    "description": "Vận dụng tốt các kỹ năng: giao tiếp, thuyết trình, đàm phán, xác định mục tiêu và lập kế hoạch, xử lý linh hoạt các tình huống trong lĩnh vực chuyên môn."
+  },
+  "CLO8_": {
+    "primary_keywords": [
+      "giải",
+      "động",
+      "quản",
+      "phản",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chuyên",
+      "tích",
+      "hoạt",
+      "năng",
+      "phân"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "",
+    "description": "Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp, dự báo, quản lý, dẫn dắt và giải quyết vấn đề trong các hoạt động chuyên môn."
+  },
+  "CLO9_": {
+    "primary_keywords": [
+      "chuyên",
+      "phòng",
+      "dụng",
+      "tiếng",
+      "lĩnh"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "",
+    "description": "Sử dụng được Tiếng Anh cơ bản, tin học văn phòng, tin học ứng dụng trong lĩnh vực chuyên môn."
+  },
+  "CLO10_": {
+    "primary_keywords": [
+      "ngành",
+      "dưỡng",
+      "hiểu",
+      "dựng",
+      "công"
+    ],
+    "secondary_keywords": [
+      "thuật",
+      "khai",
+      "chuyển",
+      "thác",
+      "hành"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "",
+    "description": "Đọc hiểu và xây dựng được bản vẽ kỹ thuật; Khai thác, vận hành, quản lý; Bảo trì, bảo dưỡng, sửa chữa; Tư vấn, chuyển giao công nghệ về lĩnh vực ngành công nghệ kỹ thuật ô tô."
+  },
+  "CLO11_": {
+    "primary_keywords": [
+      "chức",
+      "thuyết",
+      "phản",
+      "toán",
+      "tính"
+    ],
+    "secondary_keywords": [
+      "công",
+      "việc",
+      "điều",
+      "nhóm",
+      "nhân"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "",
+    "description": "Tính toán, lập báo cáo, thuyết trình, phản biện, tổ chức công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm"
+  },
+  "CLO12_": {
+    "primary_keywords": [
+      "sáng",
+      "công",
+      "chất",
+      "trường",
+      "nhanh"
+    ],
+    "secondary_keywords": [
+      "nghi",
+      "thích",
+      "định",
+      "thần",
+      "thay"
+    ],
+    "scoring_method": "presence",
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5,
+    "bloom_level": 6,
+    "course_code": "",
+    "description": "Có phẩm chất đạo đức nghề nghiệp, tinh thần học tập nghiêm túc, năng lực nghiên cứu độc lập, tư duy sáng tạo, thích nghi nhanh với sự thay đổi của môi trường, có khả năng định hướng và tìm kiếm cơ hội phát triển nghề nghiệp, thực hiện tốt trách nhiệm công dân."
+  },
+  "CLO 1_ME2201": {
+    "primary_keywords": [
+      "việc",
+      "công",
+      "sinh",
+      "định",
+      "thần"
+    ],
+    "secondary_keywords": [
+      "thành",
+      "lòng",
+      "hướng",
+      "điểm",
+      "nhận"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2201",
+    "description": "Nhận biết và hình thành quan điểm nghề nghiệp, Định hướng nghề nghiệp, giúp cho sinh viên hiểu biết về công việc sẽ làm sau khi tốt nghiệp nhằm nâng cao lòng yêu nghề và tinh thần học tập;"
+  },
+  "CLO 2_ME2201": {
+    "primary_keywords": [
+      "hiểu",
+      "công",
+      "thuật",
+      "thức",
+      "nghệ"
+    ],
+    "secondary_keywords": [
+      "quan",
+      "ngành",
+      "kiến",
+      "tổng",
+      "liên"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2201",
+    "description": "Hiểu sơ bộ các kiến thức cơ bản liên quan đến ngành công nghệ kỹ thuật ôtô, kiến thức tổng quan về ôtô;"
+  },
+  "CLO 3_ME2201": {
+    "primary_keywords": [
+      "mình",
+      "viên",
+      "giúp",
+      "khóa",
+      "dàng"
+    ],
+    "secondary_keywords": [
+      "trường",
+      "dung",
+      "sinh",
+      "trình",
+      "chương"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2201",
+    "description": "Nắm bắt tốt nội dung chương trình của khóa học giúp sinh viên có thể dễ dàng nắm rõ lộ trình học tập của mình trong quá trình học tại trường."
+  },
+  "CLO 4_ME2201": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2201",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực."
+  },
+  "CLO 1_ME2205": {
+    "primary_keywords": [
+      "hiểu"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2205",
+    "description": "Hiểu rõ các hệ về lực cơ học"
+  },
+  "CLO 2_ME2205": {
+    "primary_keywords": [
+      "hình",
+      "giải",
+      "toán",
+      "dựng",
+      "tính"
+    ],
+    "secondary_keywords": [
+      "bằng",
+      "dụng",
+      "chọn",
+      "quyết"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2205",
+    "description": "Sử dụng và lựa chọn tính toán xây dựng mô hình lực và cân bằng lực để giải quyết bài toán về lực"
+  },
+  "CLO 3_ME2205": {
+    "primary_keywords": [
+      "động",
+      "toán",
+      "tĩnh",
+      "tính",
+      "tích"
+    ],
+    "secondary_keywords": [
+      "thuật",
+      "phân",
+      "tham",
+      "thiết"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2205",
+    "description": "Có tư duy phân tích và tính toán, thiết kế các tham số kỹ thuật của bài toán cơ học, tĩnh học, động học và động lực học"
+  },
+  "CLO 4_ME2205": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2205",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO 1_ME2253": {
+    "primary_keywords": [
+      "động",
+      "nguyên",
+      "hiểu"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2253",
+    "description": "Hiểu rõ và mô tả được nguyên lý cấu tạo, động học và động lực học của cơ cấu và máy"
+  },
+  "CLO 2_ME2253": {
+    "primary_keywords": [
+      "việc",
+      "đúng",
+      "dụng",
+      "năng",
+      "chọn"
+    ],
+    "secondary_keywords": [
+      "nguyên"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2253",
+    "description": "Sử dụng và lựa chọn đúng cơ cấu máy phù hợp với nguyên lý và khả năng làm việc"
+  },
+  "CLO 3_ME2253": {
+    "primary_keywords": [
+      "động",
+      "toán",
+      "tính",
+      "tích",
+      "bánh"
+    ],
+    "secondary_keywords": [
+      "răng",
+      "phân",
+      "thiết",
+      "tổng"
+    ],
+    "scoring_method": "presence",
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5,
+    "bloom_level": 6,
+    "course_code": "ME2253",
+    "description": "Có tư duy phân tích, tính toán, thiết kế và tổng hợp một số cơ cấu máy (động học, động lực học, cơ cấu cam, hệ bánh răng)"
+  },
+  "CLO 4_ME2253": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2253",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO 1_ME2208": {
+    "primary_keywords": [
+      "thuật",
+      "tiết",
+      "thông",
+      "hiểu"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2208",
+    "description": "Hiểu rõ được các thông số kỹ thuật của chi tiết máy"
+  },
+  "CLO 2_ME2208": {
+    "primary_keywords": [
+      "thuật",
+      "đúng",
+      "tiết",
+      "dụng",
+      "thông"
+    ],
+    "secondary_keywords": [
+      "chọn"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2208",
+    "description": "Sử dụng và lựa chọn đúng các thông số kỹ thuật của chi tiết máy"
+  },
+  "CLO 3_ME2208": {
+    "primary_keywords": [
+      "thiết",
+      "toán",
+      "tiết",
+      "tính"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2208",
+    "description": "Có tư duy tính toán, thiết kế được một chi tiết máy cụ thể"
+  },
+  "CLO 4_ME2208": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2208",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO 1_ME2254": {
+    "primary_keywords": [
+      "hiểu",
+      "dụng",
+      "thức",
+      "thực",
+      "kiến"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2254",
+    "description": "Hiểu rõ được các kiến thức đã học để có thể áp dụng vào thực tế"
+  },
+  "CLO 2_ME2254": {
+    "primary_keywords": [
+      "thuật",
+      "đúng",
+      "tiết",
+      "dụng",
+      "thông"
+    ],
+    "secondary_keywords": [
+      "chọn"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2254",
+    "description": "Sử dụng và lựa chọn đúng các thông số kỹ thuật của chi tiết máy, cơ cấu máy"
+  },
+  "CLO 3_ME2254": {
+    "primary_keywords": [
+      "toán",
+      "tính",
+      "thuật",
+      "theo",
+      "thiết"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2254",
+    "description": "Có tư duy tính toán, thiết kế đảm bảo các yêu cầu kỹ thuật của một số cơ cấu máy theo yêu cầu"
+  },
+  "CLO 4_ME2254": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2254",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO 1_ME2255": {
+    "primary_keywords": [
+      "nguyên",
+      "hiểu",
+      "tiết",
+      "dụng",
+      "dung"
+    ],
+    "secondary_keywords": [
+      "loại",
+      "thước",
+      "kích"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2255",
+    "description": "Hiểu rõ được các kích thước, dung sai kích thước chi tiết, nguyên lý cấu tạo các loại dụng cụ đo"
+  },
+  "CLO 2_ME2255": {
+    "primary_keywords": [
+      "giải",
+      "toán",
+      "đúng",
+      "dụng",
+      "dung"
+    ],
+    "secondary_keywords": [
+      "quan",
+      "chọn",
+      "biết",
+      "thước",
+      "cách"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2255",
+    "description": "Sử dụng và lựa chọn đúng các kích thước, dung sai kích thước để áp dụng giải các bài toán liên quan đến kích thước. Biết sử dụng các dụng cụ đo cơ bản, bảo quản đúng cách các dụng cụ đo"
+  },
+  "CLO 3_ME2255": {
+    "primary_keywords": [
+      "giải",
+      "hình",
+      "toán",
+      "dựng",
+      "tính"
+    ],
+    "secondary_keywords": [
+      "chuỗi",
+      "tiết",
+      "ghép",
+      "thước",
+      "dạng"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2255",
+    "description": "Có tư duy tính toán giải các bài toán về lắp ghép,  xây dựng chuỗi kích thước và đo được hình dạng các chi tiết"
+  },
+  "CLO 4_ME2255": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2255",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO 1_ME2259": {
+    "primary_keywords": [
+      "hiểu",
+      "tính",
+      "chất",
+      "trúc",
+      "liệu"
+    ],
+    "secondary_keywords": [
+      "quan",
+      "giữa"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2259",
+    "description": "Hiểu rõ được mối quan hệ giữa cấu trúc và các tính chất của vật liệu"
+  },
+  "CLO 2_ME2259": {
+    "primary_keywords": [
+      "hiệu",
+      "toán",
+      "việc",
+      "công",
+      "tính"
+    ],
+    "secondary_keywords": [
+      "dụng",
+      "thiết",
+      "hành",
+      "chọn",
+      "liệu"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2259",
+    "description": "Sử dụng và lựa chọn được vật liệu hiệu quả trong công việc từ thiết kế, tính toán gia công, lắp ráp, vận hành"
+  },
+  "CLO 3_ME2259": {
+    "primary_keywords": [
+      "trạng",
+      "thay",
+      "thái",
+      "tích",
+      "tính"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "trúc",
+      "dụng",
+      "nhiệt",
+      "phân"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 4,
+    "course_code": "ME2259",
+    "description": "Có tư duy phân tích được quá trình thay đổi cấu trúc, trạng thái, tính chất của vật liệu khi có tác dụng của nhiệt độ, áp lực của nhiệt luyện"
+  },
+  "CLO 4_ME2259": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2259",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO 1_ME2212": {
+    "primary_keywords": [
+      "pháp",
+      "hiểu",
+      "công",
+      "phương",
+      "nóng"
+    ],
+    "secondary_keywords": [
+      "loại"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2212",
+    "description": "Hiểu rõ được các phương pháp gia công nóng và gia công cắt gọt kim loại"
+  },
+  "CLO 2_ME2212": {
+    "primary_keywords": [
+      "công",
+      "dụng",
+      "theo",
+      "dùng",
+      "chọn"
+    ],
+    "secondary_keywords": [
+      "liệu"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2212",
+    "description": "Sử dụng và lựa chọn được vật liệu dùng trong gia công cơ khí và chế độ gia công phù hợp kèm theo"
+  },
+  "CLO 3_ME2212": {
+    "primary_keywords": [
+      "phoi",
+      "công",
+      "tích",
+      "phân",
+      "loại"
+    ],
+    "secondary_keywords": [
+      "trình",
+      "không"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 4,
+    "course_code": "ME2212",
+    "description": "Có tư duy phân tích được các quá trình gia công kim loại (không tạo phoi và tạo phoi)"
+  },
+  "CLO 4_ME2212": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2212",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO 1_ME2257": {
+    "primary_keywords": [
+      "thống",
+      "thủy",
+      "nguyên",
+      "hiểu"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2257",
+    "description": "Hiểu rõ được kết cấu và nguyên lý của các hệ thống thủy lực và khí nén"
+  },
+  "CLO 2_ME2257": {
+    "primary_keywords": [
+      "đúng",
+      "dụng",
+      "chọn",
+      "thực",
+      "thủy"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2257",
+    "description": "Sử dụng và lựa chọn đúng cơ cấu thủy lực và khí nén phù hợp với yêu cầu của thực tế"
+  },
+  "CLO 3_ME2257": {
+    "primary_keywords": [
+      "toán",
+      "tính",
+      "hành",
+      "thiết",
+      "thống"
+    ],
+    "secondary_keywords": [
+      "thủy"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2257",
+    "description": "Có tư duy tính toán, thiết kế, lắp đặt, vận hành hệ thống thủy lực và khí nén"
+  },
+  "CLO 4_ME2257": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2257",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO 1_ME2258": {
+    "primary_keywords": [
+      "động",
+      "thực",
+      "hướng",
+      "phòng",
+      "dụng"
+    ],
+    "secondary_keywords": [
+      "thiết",
+      "hành",
+      "toàn",
+      "nguyên"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2258",
+    "description": "Hướng dẫn sử dụng các thiết bị, nguyên tắc an toàn lao động trong phòng thực hành"
+  },
+  "CLO 2_ME2258": {
+    "primary_keywords": [
+      "nguồn",
+      "giải",
+      "diode",
+      "cổng",
+      "nhận"
+    ],
+    "secondary_keywords": [
+      "mạch",
+      "transistor",
+      "khảo",
+      "hành",
+      "biết"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2258",
+    "description": "Thực hành nhận biết, đo kiểm mạch điện, diode, Transistor, nguồn; Thực hành khảo sát cổng logic, giải mã và mã hoá logic"
+  },
+  "CLO 3_ME2258": {
+    "primary_keywords": [
+      "tích",
+      "phục",
+      "mạch",
+      "phân",
+      "khắc"
+    ],
+    "secondary_keywords": [
+      "hỏng",
+      "cách",
+      "điện",
+      "trên"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 4,
+    "course_code": "ME2258",
+    "description": "Phân tích các lỗi sai, hỏng hóc và cách khắc phục trên các mạch điện ô tô"
+  },
+  "CLO 4_ME2258": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2258",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO 1_TET2213": {
+    "primary_keywords": [
+      "hiểu",
+      "những",
+      "chất",
+      "quan",
+      "liên"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "TET2213",
+    "description": "Hiểu rõ được những vấn đề liên quan về môi chất"
+  },
+  "CLO 2_TET2213": {
+    "primary_keywords": [
+      "động",
+      "trao",
+      "phương",
+      "đúng",
+      "nhiệt"
+    ],
+    "secondary_keywords": [
+      "dụng",
+      "thức",
+      "trình",
+      "chọn",
+      "truyền"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "TET2213",
+    "description": "Sử dụng và lựa chọn được một chu trình nhiệt động phù hợp, đúng phương thức truyền nhiệt (dẫn nhiệt, trao đổi nhiệt đối lưu, trao đổi nhiệt bức xạ)"
+  },
+  "CLO 3_TET2213": {
+    "primary_keywords": [
+      "toán",
+      "trao",
+      "tính",
+      "tích",
+      "diện"
+    ],
+    "secondary_keywords": [
+      "nhiệt",
+      "thiết",
+      "truyền"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "TET2213",
+    "description": "Có tư duy tính toán được hệ số truyền nhiệt và tính được sơ bộ diện tích thiết bị trao đổi nhiệt"
+  },
+  "CLO 4_TET2213": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "TET2213",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO 1_ME2256": {
+    "primary_keywords": [
+      "điểm",
+      "hiểu",
+      "dụng"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2256",
+    "description": "Hiểu rõ được đặc điểm và lợi ích khi sử dụng CAE"
+  },
+  "CLO 2_ME2256": {
+    "primary_keywords": [
+      "pháp",
+      "hình",
+      "dựng",
+      "tích",
+      "phương"
+    ],
+    "secondary_keywords": [
+      "đúng",
+      "dụng",
+      "phân",
+      "chọn"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2256",
+    "description": "Sử dụng và lựa chọn đúng phương pháp phân tích, xây dựng mô hình CAE"
+  },
+  "CLO 3_ME2256": {
+    "primary_keywords": [
+      "động",
+      "toán",
+      "tính",
+      "hoạt",
+      "thiết"
+    ],
+    "secondary_keywords": [
+      "phỏng",
+      "phẩm"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME2256",
+    "description": "Có tư duy tính toán, thiết kế, mô phỏng hoạt động của sản phẩm"
+  },
+  "CLO 4_ME2256": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME2256",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO 1_ME3234": {
+    "primary_keywords": [
+      "hiểu",
+      "thuật",
+      "ngôn",
+      "trình",
+      "trên"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3234",
+    "description": "Hiểu rõ các kỹ thuật lập trình ngôn ngữ cho hệ PLC trên nền ngôn ngữ lập trình cơ bản"
+  },
+  "CLO 2_ME3234": {
+    "primary_keywords": [
+      "toán",
+      "tính",
+      "phương",
+      "thuật",
+      "đúng"
+    ],
+    "secondary_keywords": [
+      "điều",
+      "dụng",
+      "thức",
+      "thiết",
+      "khiển"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME3234",
+    "description": "Sử dụng và lựa chọn đúng các phương thức tính toán, thiết kế hệ thống điều khiển logic và điều khiển quá trình kỹ thuật"
+  },
+  "CLO 3_ME3234": {
+    "primary_keywords": [
+      "phần",
+      "tích",
+      "dụng",
+      "phân",
+      "phỏng"
+    ],
+    "secondary_keywords": [
+      "trình"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME3234",
+    "description": "Có tư duy phân tích và sử dụng phần mềm lập trình và mô phỏng PLC"
+  },
+  "CLO 4_ME3234": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3234",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO 1_ME3260": {
+    "primary_keywords": [
+      "động",
+      "nghiệp",
+      "hiểu",
+      "công",
+      "trường"
+    ],
+    "secondary_keywords": [
+      "toàn"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3260",
+    "description": "Hiểu rõ được vai trò của công tác an toàn trong lao động và môi trường công nghiệp"
+  },
+  "CLO 2_ME3260": {
+    "primary_keywords": [
+      "động",
+      "việc",
+      "phương",
+      "dụng",
+      "quan"
+    ],
+    "secondary_keywords": [
+      "chọn",
+      "toàn",
+      "liên"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME3260",
+    "description": "Sử dụng và lựa chọn được các phương án phù hợp liên quan đến an toàn lao động tại nơi làm việc"
+  },
+  "CLO 3_ME3260": {
+    "primary_keywords": [
+      "động",
+      "xuất",
+      "thực",
+      "toán",
+      "phòng"
+    ],
+    "secondary_keywords": [
+      "tính",
+      "quan",
+      "toàn",
+      "tránh",
+      "liên"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME3260",
+    "description": "Có tư duy tính toán, phòng tránh được các tai nạn liên quan đến an toàn lao động trong sản xuất thực tế"
+  },
+  "CLO 4_ME3260": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3260",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO 1_AET3261": {
+    "primary_keywords": [
+      "động",
+      "hiểu",
+      "việc",
+      "tích",
+      "phân"
+    ],
+    "secondary_keywords": [
+      "loại",
+      "nguyên"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3261",
+    "description": "Hiểu và phân tích được các loại động cơ đốt trong và nguyên lý làm việc của động cơ;"
+  },
+  "CLO 2_AET3261": {
+    "primary_keywords": [
+      "động",
+      "trục",
+      "khuỷu",
+      "toán",
+      "thanh"
+    ],
+    "secondary_keywords": [
+      "công",
+      "tích",
+      "tính",
+      "dựng",
+      "diễn"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3261",
+    "description": "Phân tích được đồ thị công, đồ thi pha phối khí của động cơ đốt trong. Tính toán, xây dựng được các biểu thức, đồ thị biểu diễn quy luật dịch chuyển của cơ cấu trục khuỷu - thanh truyền."
+  },
+  "CLO 3_AET3261": {
+    "primary_keywords": [
+      "động",
+      "tiết",
+      "hoạt",
+      "thống",
+      "nguyên"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3261",
+    "description": "Nắm được cấu tạo cụ thể các chi tiết trong các cơ cấu các hệ thống của động cơ đốt trong. Nguyên tắc hoạt động của cơ cấu, hệ thống."
+  },
+  "CLO 4_AET3261": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3261",
+    "description": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề"
+  },
+  "CLO 1_AET3262": {
+    "primary_keywords": [
+      "động",
+      "hiểu",
+      "công",
+      "chuyển",
+      "bằng"
+    ],
+    "secondary_keywords": [
+      "bánh",
+      "suất",
+      "định"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 1,
+    "course_code": "AET3262",
+    "description": "Hiểu được động học, động lực học bánh xe ô, xác định lực cản, cân bằng lực và công suất khi ô tô di chuyển"
+  },
+  "CLO 2_AET3262": {
+    "primary_keywords": [
+      "kiện",
+      "toán",
+      "tính",
+      "điều",
+      "trước"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3262",
+    "description": "Tính toán sức kéo ô tô trong điều kiện cho trước"
+  },
+  "CLO 3_AET3262": {
+    "primary_keywords": [
+      "kinh",
+      "toán",
+      "tính",
+      "năng",
+      "thông"
+    ],
+    "secondary_keywords": [
+      "định"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3262",
+    "description": "Tính toán tính ổn định, kinh tế và khả năng thông qua của xe"
+  },
+  "CLO 4_AET3262": {
+    "primary_keywords": [
+      "hình",
+      "nghiêm",
+      "nghiệp",
+      "việc",
+      "thái"
+    ],
+    "secondary_keywords": [
+      "chuyên",
+      "đúng",
+      "phong",
+      "thức",
+      "thực"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3262",
+    "description": "Có ý thức, thái độ cầu thị, nghiêm túc, thực hiện đúng các nội quy, quy chế. Từ đó, hình thành tác phong làm việc chuyên nghiệp."
+  },
+  "CLO 1_AET3216": {
+    "primary_keywords": [
+      "động",
+      "toán",
+      "hiểu",
+      "công",
+      "tính"
+    ],
+    "secondary_keywords": [
+      "tiết",
+      "trình",
+      "nghiệm",
+      "kiểm"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3216",
+    "description": "Hiểu và tính toán được chu trình công tác, động học và động lực học, kiểm nghiệm bền các chi tiết cơ bản của động cơ."
+  },
+  "CLO 2_AET3216": {
+    "primary_keywords": [
+      "chuẩn",
+      "dựng",
+      "tiêu",
+      "theo",
+      "tổng"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "presence",
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5,
+    "bloom_level": 6,
+    "course_code": "AET3216",
+    "description": "Tổng hợp, xây dựng các bản vẽ theo tiêu chuẩn"
+  },
+  "CLO 3_AET3216": {
+    "primary_keywords": [
+      "năng",
+      "thuyết",
+      "trình"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3216",
+    "description": "Kỹ năng thuyết trình, bảo vệ đồ án"
+  },
+  "CLO 4_AET3216": {
+    "primary_keywords": [
+      "hình",
+      "luận",
+      "giải",
+      "nghiệp",
+      "chuyên"
+    ],
+    "secondary_keywords": [
+      "tích",
+      "chất",
+      "thuật",
+      "năng",
+      "phân"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3216",
+    "description": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ: Lập luận, phân tích và giải quyết các vấn đề kỹ thuật."
+  },
+  "CLO 1_AET3221": {
+    "primary_keywords": [
+      "đoán",
+      "thuyết",
+      "chẩn",
+      "hiểu",
+      "công"
+    ],
+    "secondary_keywords": [
+      "thuật",
+      "việt",
+      "nghệ",
+      "kiểm",
+      "định"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3221",
+    "description": "Hiểu rõ cơ sở lý thuyết về chẩn đoán kỹ thuật ô tô, công nghệ chẩn đoán, công tác kiểm định kỹ thuật ô tô ở Việt Nam"
+  },
+  "CLO 2_AET3221": {
+    "primary_keywords": [
+      "đoán",
+      "chẩn",
+      "thuật",
+      "dụng",
+      "loại"
+    ],
+    "secondary_keywords": [
+      "thiết",
+      "dùng",
+      "chọn",
+      "kiểm",
+      "định"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3221",
+    "description": "Sử dụng và lựa chọn các loại thiết bị chẩn đoán phù hợp dùng trong chẩn đoán và kiểm định kỹ thuật ô tô"
+  },
+  "CLO 3_AET3221": {
+    "primary_keywords": [
+      "công",
+      "tổng",
+      "thuật",
+      "nghệ",
+      "trình"
+    ],
+    "secondary_keywords": [
+      "thực",
+      "kiểm",
+      "định",
+      "hiện"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3221",
+    "description": "Có tư duy tổng hợp để có thể thực hiện quy trình công nghệ kiểm định kỹ thuật ô tô"
+  },
+  "CLO 4_AET3221": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3221",
+    "description": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề."
+  },
+  "CLO 1_AET3222": {
+    "primary_keywords": [
+      "dưỡng",
+      "hiểu",
+      "thức",
+      "chữa",
+      "cách"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3222",
+    "description": "Hiểu rõ cách thức sửa chữa và bảo dưỡng ô tô"
+  },
+  "CLO 2_AET3222": {
+    "primary_keywords": [
+      "khác",
+      "dưỡng",
+      "công",
+      "dụng",
+      "nhau"
+    ],
+    "secondary_keywords": [
+      "loại",
+      "nghệ",
+      "trình",
+      "chọn",
+      "thống"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3222",
+    "description": "Sử dụng và lựa chọn được quy trình công nghệ bảo dưỡng, sửa chữa các hệ thống, tổng thành cho từng loại xe khác nhau."
+  },
+  "CLO 3_AET3222": {
+    "primary_keywords": [
+      "pháp",
+      "tuổi",
+      "dưỡng",
+      "phương",
+      "chữa"
+    ],
+    "secondary_keywords": [
+      "nâng",
+      "thuổi"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3222",
+    "description": "Có tư duy về sửa chữa bảo dưỡng xe, các phương pháp nâng cao thuổi thọ và tuổi bền của xe"
+  },
+  "CLO 4_AET3222": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3222",
+    "description": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề."
+  },
+  "CLO 1_AET3224": {
+    "primary_keywords": [
+      "động",
+      "hoạt",
+      "thống",
+      "điện",
+      "nguyên"
+    ],
+    "secondary_keywords": [
+      "trên"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3224",
+    "description": "Mô tả các cơ cấu, hệ thống cơ điện tử trên ô tô, nguyên lý hoạt động của các cơ cấu, hệ thống cơ điện tử ôtô."
+  },
+  "CLO 2_AET3224": {
+    "primary_keywords": [
+      "giải",
+      "toán",
+      "tượng",
+      "tính",
+      "nhân"
+    ],
+    "secondary_keywords": [
+      "hỏng",
+      "thống",
+      "thích",
+      "điện",
+      "nguyên"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3224",
+    "description": "Tính toán giải thích  các hiện tượng, nguyên nhân hư hỏng của các cơ cấu, hệ thống cơ điện tử ôtô"
+  },
+  "CLO 3_AET3224": {
+    "primary_keywords": [
+      "điện",
+      "dụng",
+      "thức",
+      "thống",
+      "chữa"
+    ],
+    "secondary_keywords": [
+      "kiểm",
+      "kiến"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3224",
+    "description": "Áp dụng các kiến thức đã học để kiểm tra, sửa chữa các hệ thống cơ điện tử ô tô"
+  },
+  "CLO 4_AET3224": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3224",
+    "description": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề"
+  },
+  "CLO 1_ME3270": {
+    "primary_keywords": [
+      "giải",
+      "công",
+      "chất",
+      "hưởng",
+      "lượng"
+    ],
+    "secondary_keywords": [
+      "tiết",
+      "dụng",
+      "thích",
+      "liệu"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3270",
+    "description": "Giải thích được sự ảnh hưởng của dụng cụ cắt, vật liệu gia công đến chất lượng bề mặt chi tiết."
+  },
+  "CLO 2_ME3270": {
+    "primary_keywords": [
+      "công",
+      "phân",
+      "thức",
+      "hỏng",
+      "dạng"
+    ],
+    "secondary_keywords": [
+      "định",
+      "tích",
+      "nguội",
+      "tiết",
+      "trình"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 1,
+    "course_code": "ME3270",
+    "description": "Sử dụng các kiến thức đã học để đọc bản vẽ chi tiết; phân tích chi tiết đưa được ra quy trình công nghệ; xác định được các dạng sai hỏng trong gia công nguội nguyên nhân và biện pháp khắc phục"
+  },
+  "CLO 3_ME3270": {
+    "primary_keywords": [
+      "chuẩn",
+      "công",
+      "nguội",
+      "thuật",
+      "tiêu"
+    ],
+    "secondary_keywords": [
+      "dụng",
+      "theo",
+      "thạo",
+      "phẩm",
+      "kiểm"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME3270",
+    "description": "Sử dụng thành thạo các dụng cụ cầm tay, các dụng cụ đo kiểm để gia công nguội và để kiểm tra sản phẩm cơ khí theo các tiêu chuẩn kỹ thuật"
+  },
+  "CLO 4_ME3270": {
+    "primary_keywords": [
+      "pháp",
+      "công",
+      "phương",
+      "thuật",
+      "tiêu"
+    ],
+    "secondary_keywords": [
+      "chọn",
+      "thích"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3270",
+    "description": "Lựa chọn được phương pháp gia công thích hợp để đạt được các chỉ tiêu yêu cầu kỹ thuật"
+  },
+  "CLO 5_ME3270": {
+    "primary_keywords": [
+      "pháp",
+      "công",
+      "nguội",
+      "phục",
+      "dạng"
+    ],
+    "secondary_keywords": [
+      "khắc",
+      "hỏng",
+      "kiểm",
+      "biện",
+      "phát"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 4,
+    "course_code": "ME3270",
+    "description": "Kiểm tra, phát hiện và đưa ra biện pháp khắc phục được các dạng sai hỏng khi gia công nguội"
+  },
+  "CLO 6_ME3270": {
+    "primary_keywords": [
+      "bằng",
+      "chữa",
+      "công",
+      "dụng"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3270",
+    "description": "Sửa chữa được các dụng cụ gia công bằng tay"
+  },
+  "CLO 7_ME3270": {
+    "primary_keywords": [
+      "nghiêm",
+      "giác",
+      "việc",
+      "tính",
+      "công"
+    ],
+    "secondary_keywords": [
+      "thận",
+      "luyện"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3270",
+    "description": "Rèn luyện tính cẩn thận, tự giác, nghiêm túc, trong công việc."
+  },
+  "CLO 1_ME3271": {
+    "primary_keywords": [
+      "toán",
+      "tính",
+      "khoa",
+      "dụng",
+      "thức"
+    ],
+    "secondary_keywords": [
+      "chọn",
+      "nhiên",
+      "kiến"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME3271",
+    "description": "Vận dụng kiến thức khoa học tự nhiên để tính toán, lựa chọn chế độ hàn cho phù hợp."
+  },
+  "CLO 2_ME3271": {
+    "primary_keywords": [
+      "phát",
+      "chuẩn",
+      "tích",
+      "phôi",
+      "dụng"
+    ],
+    "secondary_keywords": [
+      "phân",
+      "khuyết",
+      "thức",
+      "thiết",
+      "liệu"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME3271",
+    "description": "Sử dụng các kiến thức đã học để đọc bản vẽ kết cấu hàn; phân tích vật liệu hàn; chuẩn bị thiết bị, phôi liệu hàn; các vị trí hàn, kết cấu hàn; phát hiện được khuyết tật mối hàn."
+  },
+  "CLO 3_ME3271": {
+    "primary_keywords": [
+      "pháp",
+      "trạng",
+      "chuẩn",
+      "phương",
+      "liệu"
+    ],
+    "secondary_keywords": [
+      "dụng",
+      "thiết",
+      "từng",
+      "tình",
+      "kiểm"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 4,
+    "course_code": "ME3271",
+    "description": "Chuẩn bị, kiểm tra được tình trạng của thiết bị, dụng cụ, vật liệu hàn cho phù hợp với từng phương pháp hàn."
+  },
+  "CLO 4_ME3271": {
+    "primary_keywords": [
+      "pháp",
+      "chỉnh",
+      "toán",
+      "tính",
+      "phương"
+    ],
+    "secondary_keywords": [
+      "điều",
+      "quang",
+      "chọn",
+      "điện"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME3271",
+    "description": "Tính toán, lựa chọn và điều chỉnh được chế độ hàn cho phương pháp hàn điện hồ quang tay."
+  },
+  "CLO 5_ME3271": {
+    "primary_keywords": [
+      "giáp",
+      "thuật",
+      "bằng",
+      "quang",
+      "điện"
+    ],
+    "secondary_keywords": [
+      "trên"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3271",
+    "description": "Hàn được các mối hàn bằng giáp mối, hàn bằng lấp góc trên máy hàn điện hồ quang tay, đảm bảo yêu cầu kỹ thuật."
+  },
+  "CLO 6_ME3271": {
+    "primary_keywords": [
+      "pháp",
+      "phục",
+      "dạng",
+      "khuyết",
+      "khắc"
+    ],
+    "secondary_keywords": [
+      "kiểm",
+      "biện",
+      "phát",
+      "hiện"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 4,
+    "course_code": "ME3271",
+    "description": "Kiểm tra, phát hiện và đưa ra biện pháp khắc phục được các dạng khuyết tật mối hàn."
+  },
+  "CLO 7_ME3271": {
+    "primary_keywords": [
+      "nghiêm",
+      "giác",
+      "việc",
+      "tính",
+      "công"
+    ],
+    "secondary_keywords": [
+      "thận",
+      "luyện"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3271",
+    "description": "Rèn luyện tính cẩn thận, tự giác, nghiêm túc, trong công việc hàn."
+  },
+  "CLO 1_ME3263": {
+    "primary_keywords": [
+      "động",
+      "dưỡng",
+      "hiểu",
+      "thuật",
+      "thức"
+    ],
+    "secondary_keywords": [
+      "trình",
+      "thống",
+      "tháo",
+      "chữa",
+      "kiến"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3263",
+    "description": "Trình bày và hiểu được các kiến thức về quy trình bảo dưỡng kỹ thuật, tháo lắp cơ cấu, hệ thống và sửa chữa động cơ;"
+  },
+  "CLO 2_ME3263": {
+    "primary_keywords": [
+      "động",
+      "dưỡng",
+      "thuật",
+      "hành",
+      "thực"
+    ],
+    "secondary_keywords": [
+      "chữa"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3263",
+    "description": "Thực hành kỹ thuật về bảo dưỡng và sửa chữa động cơ"
+  },
+  "CLO 3_ME3263": {
+    "primary_keywords": [
+      "trang",
+      "giải",
+      "động",
+      "dưỡng",
+      "đoán"
+    ],
+    "secondary_keywords": [
+      "chuyên",
+      "chẩn",
+      "dụng",
+      "thiết",
+      "trình"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3263",
+    "description": "Giải thích và lập được quy trình về kiểm tra bảo dưỡng sữa chữa động cơ. Sử dụng và lựa chọn các trang thiết bị chuyên dụng để chẩn đoán, bảo dưỡng, sửa chữa động cơ"
+  },
+  "CLO 4_ME3263": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3263",
+    "description": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề"
+  },
+  "CLO 1_ME3266": {
+    "primary_keywords": [
+      "trang",
+      "động",
+      "chức",
+      "hiểu",
+      "hoạt"
+    ],
+    "secondary_keywords": [
+      "năng",
+      "điện",
+      "trên"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3266",
+    "description": "Hiểu rõ chức năng, cấu tạo hoạt động các trang bị điện điện tử trên ô tô"
+  },
+  "CLO 2_ME3266": {
+    "primary_keywords": [
+      "động",
+      "dưỡng",
+      "điện",
+      "tiết",
+      "thân"
+    ],
+    "secondary_keywords": [
+      "thống",
+      "kiểm",
+      "tháo"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 4,
+    "course_code": "ME3266",
+    "description": "Tháo lắp, bảo dưỡng kiểm tra các cụm chi tiết của hệ thống điện động cơ, điện thân xe."
+  },
+  "CLO 3_ME3266": {
+    "primary_keywords": [
+      "đoán",
+      "chuyên",
+      "dụng",
+      "thiết",
+      "dùng"
+    ],
+    "secondary_keywords": [
+      "hỏng",
+      "chấn",
+      "điện",
+      "trên"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME3266",
+    "description": "Có thể sử dụng thiết bị chuyên dùng để chấn đoán hư hỏng các thiết bị điện trên ô tô."
+  },
+  "CLO 4_ME3266": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3266",
+    "description": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề"
+  },
+  "CLO 1_ME3267": {
+    "primary_keywords": [
+      "trên",
+      "hiểu",
+      "điều",
+      "thống",
+      "nguyên"
+    ],
+    "secondary_keywords": [
+      "không"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3267",
+    "description": "Hiểu rõ cấu tạo và nguyên lý của hệ thống điều hòa không khí trên ô t.ô"
+  },
+  "CLO 2_ME3267": {
+    "primary_keywords": [
+      "trang",
+      "đoán",
+      "trên",
+      "dưỡng",
+      "chuyên"
+    ],
+    "secondary_keywords": [
+      "chẩn",
+      "điều",
+      "dụng",
+      "dung",
+      "thiết"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME3267",
+    "description": "Sử dụng và lựa chọn các trang thiết bị chuyên dung để chẩn đoán, bảo dưỡng, sửa chữa hệ thống điều hòa không khí trên ô tô"
+  },
+  "CLO 3_ME3267": {
+    "primary_keywords": [
+      "trên",
+      "tuổi",
+      "việc",
+      "tiến",
+      "điều"
+    ],
+    "secondary_keywords": [
+      "dụng",
+      "thiết",
+      "thống",
+      "không",
+      "nâng"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME3267",
+    "description": "Có tư duy về việc cải tiến, nâng cao tuổi bền sử dụng cho các vật tư thiết bị hệ thống điều hòa không khí trên ô tô."
+  },
+  "CLO 4_ME3267": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ME3267",
+    "description": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề."
+  },
+  "CLO 1_ME3268": {
+    "primary_keywords": [
+      "giải",
+      "chức",
+      "hiểu",
+      "chuyên",
+      "dựng"
+    ],
+    "secondary_keywords": [
+      "thuật",
+      "lĩnh",
+      "dụng",
+      "năng",
+      "thiết"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME3268",
+    "description": "Hiểu rõ chức năng, cấu tạo, nguyên lý của các thiết bị đo chuyên dùng trong ô tô,  khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực sửa chữa ô tô"
+  },
+  "CLO 2_ME3268": {
+    "primary_keywords": [
+      "thuyết",
+      "phản",
+      "toán",
+      "tính",
+      "công"
+    ],
+    "secondary_keywords": [
+      "việc",
+      "điều",
+      "nhóm",
+      "nhân",
+      "trình"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME3268",
+    "description": "Tính toán, lập báo cáo, thuyết trình, phản biện công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm."
+  },
+  "CLO 3_ME3268": {
+    "primary_keywords": [
+      "đoán",
+      "giải",
+      "phản",
+      "việc",
+      "lĩnh"
+    ],
+    "secondary_keywords": [
+      "tích",
+      "chẩn",
+      "năng",
+      "phân",
+      "thống"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ME3268",
+    "description": "Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp và giải quyết vấn đề trong lĩnh vực chẩn đoán sửa chữa ô tô."
+  },
+  "CLO 4_ME3268": {
+    "primary_keywords": [
+      "đoán",
+      "sáng",
+      "việc",
+      "công",
+      "chất"
+    ],
+    "secondary_keywords": [
+      "trường",
+      "nghi",
+      "thích",
+      "chữa",
+      "định"
+    ],
+    "scoring_method": "presence",
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5,
+    "bloom_level": 6,
+    "course_code": "ME3268",
+    "description": "Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp trong chẩn đoán, sửa chữa ô tô."
+  },
+  "CLO 1_ATE3269": {
+    "primary_keywords": [
+      "thường",
+      "hiểu",
+      "chuyên",
+      "vựng",
+      "tiếng"
+    ],
+    "secondary_keywords": [
+      "ngành",
+      "dùng"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ATE3269",
+    "description": "Hiểu rõ được các từ vựng Tiếng Anh chuyên ngành thường dùng trong ngành cơ khí"
+  },
+  "CLO 2_ATE3269": {
+    "primary_keywords": [
+      "ngành",
+      "chuyên",
+      "thuật",
+      "đúng",
+      "trường"
+    ],
+    "secondary_keywords": [
+      "dụng",
+      "tiếng",
+      "chọn",
+      "từng"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ATE3269",
+    "description": "Sử dụng và lựa chọn đúng các thuật ngữ Tiếng Anh chuyên ngành vào từng trường hợp cụ thể"
+  },
+  "CLO 3_ATE3269": {
+    "primary_keywords": [
+      "hiểu",
+      "chuyên",
+      "nghiên",
+      "tiếng",
+      "ngành"
+    ],
+    "secondary_keywords": [
+      "liệu"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ATE3269",
+    "description": "Có tư duy nghiên cứu và đọc hiểu các tài liệu Tiếng Anh chuyên ngành"
+  },
+  "CLO 4_ATE3269": {
+    "primary_keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "ATE3269",
+    "description": "Có ý thức, thái độ học tập nghiêm túc, tích cực"
+  },
+  "CLO 1_ATE3272": {
+    "primary_keywords": [
+      "động",
+      "xuất",
+      "chức",
+      "nghiệp",
+      "doanh"
+    ],
+    "secondary_keywords": [
+      "công",
+      "chất",
+      "điều",
+      "hoạt",
+      "tảng"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 4,
+    "course_code": "ATE3272",
+    "description": "Kiến thức nền tảng về doanh nghiệp, các hoạt động quản trị sản xuất, tổ chức, điều hành một cơ sở sản xuất, lập quy trình sản xuất, các công cụ quản lý chất lượng."
+  },
+  "CLO 2_ATE3272": {
+    "primary_keywords": [
+      "vững",
+      "luận",
+      "giải",
+      "động",
+      "xuất"
+    ],
+    "secondary_keywords": [
+      "tích",
+      "chất",
+      "hoạt",
+      "năng",
+      "phân"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ATE3272",
+    "description": "Khả năng phân tích, lập luận, giải quyết vấn đề, tư duy có hệ thống và nắm vững các vấn đề về các hoạt động quản trị sản xuất và quản lý chất lượng."
+  },
+  "CLO 3_ATE3272": {
+    "primary_keywords": [
+      "luận",
+      "giải",
+      "pháp",
+      "thảo",
+      "năng"
+    ],
+    "secondary_keywords": [
+      "nhóm",
+      "quyết",
+      "cách",
+      "lãnh",
+      "quản"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ATE3272",
+    "description": "Có khả năng thành lập nhóm, lãnh đạo nhóm, thảo luận để đưa ra các giải pháp để giải quyết các vấn đề quản trị một cách tối ưu."
+  },
+  "CLO 4_ATE3272": {
+    "primary_keywords": [
+      "pháp",
+      "xuất",
+      "động",
+      "nghiệp",
+      "toán"
+    ],
+    "secondary_keywords": [
+      "tính",
+      "doanh",
+      "phương",
+      "chất",
+      "hoạt"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "ATE3272",
+    "description": "Khả năng tính toán và lựa chọn, vận dụng các phương pháp trong quản trị sản xuất và chất lượng vào hoạt động sản xuất của doanh nghiệp"
+  },
+  "CLO 1_AET3273": {
+    "primary_keywords": [
+      "đoán",
+      "bước",
+      "electude",
+      "phần",
+      "chẩn"
+    ],
+    "secondary_keywords": [
+      "hiểu",
+      "thuật",
+      "dụng"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3273",
+    "description": "Hiểu được các bước sử dụng phần mềm chẩn đoán kỹ thuật ôtô ELECTUDE"
+  },
+  "CLO 2_AET3273": {
+    "primary_keywords": [
+      "nhiệm",
+      "động",
+      "phân",
+      "loại",
+      "trình"
+    ],
+    "secondary_keywords": [
+      "thống",
+      "điện"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3273",
+    "description": "Trình bày được nhiệm vụ, yêu cầu, phân loại và cấu tạo của các hệ thống động cơ, gầm, điện ôtô"
+  },
+  "CLO 3_AET3273": {
+    "primary_keywords": [
+      "đoán",
+      "giải",
+      "pháp",
+      "động",
+      "điện"
+    ],
+    "secondary_keywords": [
+      "tượng",
+      "chẩn",
+      "những",
+      "phương",
+      "đúng"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3273",
+    "description": "Giải thích đúng những hiện tượng, nguyên nhân sai hỏng và phương pháp kiểm tra, chẩn đoán các sai hỏng của các hệ thống động cơ, gầm, điện ôtô; quy trình chẩn đoán ôtô"
+  },
+  "CLO 4_AET3273": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3273",
+    "description": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề."
+  },
+  "CLO1_AET3274": {
+    "primary_keywords": [
+      "lĩnh",
+      "khoa",
+      "tùng",
+      "dụng",
+      "thức"
+    ],
+    "secondary_keywords": [
+      "nhiên",
+      "ngoại",
+      "kiến"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3274",
+    "description": "Vận dụng kiến thức về khoa học tự nhiên, ngoại ngữ, tin học vào lĩnh vực chế tạo phụ tùng."
+  },
+  "CLO2_AET3274": {
+    "primary_keywords": [
+      "giải",
+      "dựng",
+      "lĩnh",
+      "thuật",
+      "tùng"
+    ],
+    "secondary_keywords": [
+      "dụng",
+      "năng",
+      "quyết"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3274",
+    "description": "Khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực chế tạo phụ tùng."
+  },
+  "CLO3_AET3274": {
+    "primary_keywords": [
+      "giải",
+      "phản",
+      "việc",
+      "lĩnh",
+      "tích"
+    ],
+    "secondary_keywords": [
+      "tùng",
+      "năng",
+      "phân",
+      "thống",
+      "nhóm"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3274",
+    "description": "Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp và giải quyết vấn đề trong lĩnh vực chế tạo phụ tùng."
+  },
+  "CLO4_AET3274": {
+    "primary_keywords": [
+      "chức",
+      "thuyết",
+      "phản",
+      "toán",
+      "tính"
+    ],
+    "secondary_keywords": [
+      "công",
+      "việc",
+      "điều",
+      "nhóm",
+      "nhân"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3274",
+    "description": "Tính toán, lập báo cáo, thuyết trình, phản biện, tổ chức công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm"
+  },
+  "CLO5_AET3274": {
+    "primary_keywords": [
+      "sáng",
+      "nghiệp",
+      "thay",
+      "việc",
+      "công"
+    ],
+    "secondary_keywords": [
+      "hướng",
+      "chất",
+      "kiếm",
+      "trường",
+      "nghề"
+    ],
+    "scoring_method": "presence",
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5,
+    "bloom_level": 6,
+    "course_code": "AET3274",
+    "description": "Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp."
+  },
+  "CLO 1_AET3276": {
+    "primary_keywords": [
+      "động",
+      "hiểu",
+      "phòng",
+      "chuẩn",
+      "bằng"
+    ],
+    "secondary_keywords": [
+      "tiêu",
+      "hoạt",
+      "hàng",
+      "hãng",
+      "hành"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3276",
+    "description": "Hiểu được về quản lý dịch vụ ô tô; Hiểu được quản lý nhân sự trong phòng dịch vụ; Tiêu chuẩn vận hành dịch vụ sau bán hàng của hãng; Đánh giá hoạt động bằng các chỉ số hoạt động dịch vụ"
+  },
+  "CLO 2_AET3276": {
+    "primary_keywords": [
+      "giải",
+      "chuẩn",
+      "phòng",
+      "tiêu",
+      "hàng"
+    ],
+    "secondary_keywords": [
+      "hãng",
+      "phân",
+      "tich",
+      "hành",
+      "nhân"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3276",
+    "description": "Giải thích được các quy trình về quản lý dịch vụ ô tô; Phân tich được vài trò của quản lý nhân sự trong phòng dịch vụ; lập được tiêu chuẩn vận hành dịch vụ sau bán hàng của hãng;"
+  },
+  "CLO 3_AET3276": {
+    "primary_keywords": [
+      "thuyết",
+      "việc",
+      "trình",
+      "nhóm",
+      "dịch"
+    ],
+    "secondary_keywords": [
+      "quản"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3276",
+    "description": "Quản lý và làm việc nhóm; thuyết trình các vấn đề và các quy trình trong dịch vụ"
+  },
+  "CLO 4_AET3276": {
+    "primary_keywords": [
+      "trách",
+      "nhiệm",
+      "việc",
+      "tích",
+      "thân"
+    ],
+    "secondary_keywords": [
+      "thức",
+      "trình",
+      "thực"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3276",
+    "description": "Ý thức được vai trò và vị trí của bản thân trong một đại lý ôtô. Có trách nhiệm tích cực làm việc, học tập trong quá trình thực tập"
+  },
+  "CLO 1_AET3277": {
+    "primary_keywords": [
+      "hiểu",
+      "công",
+      "việc",
+      "thuật",
+      "năng"
+    ],
+    "secondary_keywords": [
+      "thiết"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3277",
+    "description": "Hiểu được kỹ thuật lái xe cơ bản; các kỹ năng cần thiết của công việc lái xe."
+  },
+  "CLO 2_AET3277": {
+    "primary_keywords": [
+      "thẳng",
+      "vòng",
+      "đường",
+      "thuật",
+      "trên"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3277",
+    "description": "Nắm được các kỹ thuật lái xe ô tô trên đường thẳng; đường vòng; vào nhà đậu xe; tập lái trên đường hẹp"
+  },
+  "CLO 3_AET3277": {
+    "primary_keywords": [
+      "dướng",
+      "dưỡng",
+      "chăm",
+      "thất",
+      "trình"
+    ],
+    "secondary_keywords": [
+      "khung"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3277",
+    "description": "Nắm được cơ bản quy trình bảo dưỡng, chăm sóc nội thất bên trong xe ôtô; Quy trình bảo dướng, chăm sóc khung vở xe ôtô; quy trình bảo dưỡng, chăm sóc khung gầm xe ôtô."
+  },
+  "CLO 4_AET3277": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3277",
+    "description": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề"
+  },
+  "CLO 1_AET3235": {
+    "primary_keywords": [
+      "động",
+      "hiệu",
+      "giải",
+      "pháp",
+      "hiểu"
+    ],
+    "secondary_keywords": [
+      "công",
+      "phanh",
+      "nghĩa",
+      "hưởng",
+      "nghệ"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3235",
+    "description": "Hiểu rõ động lực học quá trình phanh,các yếu tố ảnh hưởng đến hiệu quả phanh và các giải pháp công nghệ nâng cao hiệu quả phanh. Ý nghĩa của hệ thống phanh điện tử trong hệ thống ô tô thông minh."
+  },
+  "CLO 2_AET3235": {
+    "primary_keywords": [
+      "trên",
+      "tượng",
+      "hiểu",
+      "việc",
+      "tích"
+    ],
+    "secondary_keywords": [
+      "phanh",
+      "điều",
+      "phân",
+      "khiển",
+      "nhân"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3235",
+    "description": "Hiểu và phân tích được kết cấu, nguyên lý làm việc của các hệ phanh điều khiển điện tử. Nắm được được các hiện tượng, nguyên nhân hư hỏng của hệ thống phanh điều khiển điện tử trên xe ô tô."
+  },
+  "CLO 3_AET3235": {
+    "primary_keywords": [
+      "đoán",
+      "dưỡng",
+      "điện",
+      "chẩn",
+      "phanh"
+    ],
+    "secondary_keywords": [
+      "điều",
+      "dụng",
+      "thức",
+      "khiển",
+      "thống"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3235",
+    "description": "Áp dụng các kiến thức đã học để chẩn đoán, kiểm tra, bảo dưỡng, sửa chữa hệ thống phanh điều khiển điện tử."
+  },
+  "CLO 4_AET3235": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3235",
+    "description": "Kỹ năng chuyên nghiệp và phẩm chất các nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề"
+  },
+  "CLO1_AET3227": {
+    "primary_keywords": [
+      "lĩnh",
+      "khoa",
+      "dụng",
+      "thức",
+      "nhiên"
+    ],
+    "secondary_keywords": [
+      "ngoại",
+      "kiến"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3227",
+    "description": "Vận dụng kiến thức về khoa học tự nhiên, ngoại ngữ, tin học vào lĩnh vực lắp ráp ô tô."
+  },
+  "CLO2_AET3227": {
+    "primary_keywords": [
+      "giải",
+      "dựng",
+      "lĩnh",
+      "thuật",
+      "dụng"
+    ],
+    "secondary_keywords": [
+      "năng",
+      "quyết"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3227",
+    "description": "Khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực lắp ráp ô tô."
+  },
+  "CLO3_AET3227": {
+    "primary_keywords": [
+      "giải",
+      "phản",
+      "việc",
+      "lĩnh",
+      "tích"
+    ],
+    "secondary_keywords": [
+      "năng",
+      "phân",
+      "thống",
+      "nhóm",
+      "quyết"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3227",
+    "description": "Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp và giải quyết vấn đề trong lĩnh vực lắp ráp ô tô."
+  },
+  "CLO4_AET3227": {
+    "primary_keywords": [
+      "chức",
+      "thuyết",
+      "phản",
+      "toán",
+      "tính"
+    ],
+    "secondary_keywords": [
+      "công",
+      "việc",
+      "điều",
+      "nhóm",
+      "nhân"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET3227",
+    "description": "Tính toán, lập báo cáo, thuyết trình, phản biện, tổ chức công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm"
+  },
+  "CLO5_AET3227": {
+    "primary_keywords": [
+      "sáng",
+      "nghiệp",
+      "thay",
+      "việc",
+      "công"
+    ],
+    "secondary_keywords": [
+      "hướng",
+      "chất",
+      "kiếm",
+      "trường",
+      "nghề"
+    ],
+    "scoring_method": "presence",
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5,
+    "bloom_level": 6,
+    "course_code": "AET3227",
+    "description": "Có phẩm chất đạo đức nghề nghiệp,, tư duy sáng tạo, thích nghi với sự thay đổi của môi trường công việc, định hướng và tìm kiếm cơ hội phát triển nghề nghiệp trong lắp ráp ô tô."
+  },
+  "CLO 1_AET3236": {
+    "primary_keywords": [
+      "động",
+      "chức",
+      "hiểu",
+      "năng",
+      "nguyên"
+    ],
+    "secondary_keywords": [
+      "trên"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3236",
+    "description": "Hiểu rõ chức năng, cấu tạo, nguyên lý hộp số tự động trên ô tô"
+  },
+  "CLO 2_AET3236": {
+    "primary_keywords": [
+      "động",
+      "hstđ",
+      "điểm",
+      "hiểu",
+      "nhược"
+    ],
+    "secondary_keywords": [
+      "loại",
+      "từng"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3236",
+    "description": "Hiểu các loại hộp số tự động, ưu nhược điểm từng loại HSTĐ"
+  },
+  "CLO 3_AET3236": {
+    "primary_keywords": [
+      "động",
+      "thường",
+      "tích",
+      "phân",
+      "hỏng"
+    ],
+    "secondary_keywords": [
+      "định"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 1,
+    "course_code": "AET3236",
+    "description": "Có tư duy phân tích, xác định  được hư hỏng thường gặp với hộp số tự động"
+  },
+  "CLO 4_AET3236": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3236",
+    "description": "Kỹ năng chuyên nghiệp và phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề."
+  },
+  "CLO 1_AET3226": {
+    "primary_keywords": [
+      "chức",
+      "hiểu",
+      "chuyên",
+      "năng",
+      "loại"
+    ],
+    "secondary_keywords": [
+      "dùng",
+      "thông",
+      "ngành",
+      "giao"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3226",
+    "description": "Hiểu rõ chức năng vai trò các loại xe chuyên dùng trong ngành giao thông vận tải"
+  },
+  "CLO 2_AET3226": {
+    "primary_keywords": [
+      "chuyên",
+      "việc",
+      "dùng",
+      "thống",
+      "nguyên"
+    ],
+    "secondary_keywords": [
+      "trên"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3226",
+    "description": "Nắm được nguyên lý kết cấu, làm việc các hệ thống , cơ cấu trên xe chuyên dùng"
+  },
+  "CLO 3_AET3226": {
+    "primary_keywords": [
+      "pháp",
+      "thường",
+      "tích",
+      "phương",
+      "phân"
+    ],
+    "secondary_keywords": [
+      "hỏng",
+      "chữa"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 4,
+    "course_code": "AET3226",
+    "description": "Có tư duy phân tích được hư hỏng thường gặp, phương pháp sửa chữa"
+  },
+  "CLO 4_AET3226": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3226",
+    "description": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề."
+  },
+  "CLO 1_AET3229": {
+    "primary_keywords": [
+      "động",
+      "hiểu",
+      "phạm",
+      "hoạt",
+      "dụng"
+    ],
+    "secondary_keywords": [
+      "thiết",
+      "nguyên"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3229",
+    "description": "Hiểu cấu tạo, nguyên lý hoạt động của các thiết bị đo và phạm vi ứng dụng của các thiết bị đo."
+  },
+  "CLO 2_AET3229": {
+    "primary_keywords": [
+      "pháp",
+      "tiến",
+      "phương",
+      "hành",
+      "biết"
+    ],
+    "secondary_keywords": [
+      "nghiệm",
+      "trên"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3229",
+    "description": "Biết được phương pháp tiến hành các thí nghiệm trên ô tô."
+  },
+  "CLO 3_AET3229": {
+    "primary_keywords": [
+      "nghiệm",
+      "trường",
+      "dựng"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "presence",
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5,
+    "bloom_level": 6,
+    "course_code": "AET3229",
+    "description": "Xây dựng được các bài thí nghiệm trong các trường hợp cụ thể."
+  },
+  "CLO 4_AET3229": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET3229",
+    "description": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề."
+  },
+  "CLO 1_AET4243": {
+    "primary_keywords": [
+      "nhiệm",
+      "hoàn",
+      "phần",
+      "những",
+      "hiểu"
+    ],
+    "secondary_keywords": [
+      "khoa",
+      "dụng",
+      "thức",
+      "kiến",
+      "thành"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET4243",
+    "description": "Hiểu rõ được nhiệm vụ học phần, vận dụng những kiến thức đã học để hoàn thành một nhiệm vụ khoa học được nêu trong đồ án."
+  },
+  "CLO 2_AET4243": {
+    "primary_keywords": [
+      "đoán",
+      "dưỡng",
+      "tiến",
+      "những",
+      "dựng"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "khai",
+      "việt",
+      "công",
+      "thức"
+    ],
+    "scoring_method": "termfreq",
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4,
+    "bloom_level": 3,
+    "course_code": "AET4243",
+    "description": "Sử dụng và lựa chọn những kiến thức đã học để thực hiện một trong những nhiệm vụ như Thiết kế chế tạo; thiết kế cải tiến hoặc hoán cải các chi tiết, cụm chi tiết, hệ thống, tổng thành trên ô tô. Kiểm nghiệm độ bền, độ tin cậy, đánh giá chất lượng các chi tiết, cụm chi tiết, hệ thống, tổng thành trên ô tô. Khai thác sử dụng ô tô trong điều kiện thực tế Việt Nam. Khai thác, vận hành, bảo dưỡng các thiết bị kiểm định, chẩn đoán, bảo dưỡng-sửa chữa ô tô. Xây dựng quy trình lắp ráp các tổng thành, hệ thống và ô tô. Xây dựng quy trình công nghệ kiểm định, chẩn đoán, bảo dưỡng, sửa chữa ô tô. Tính toán, khảo sát hệ thống cung cấp các loại nhiên liệu mới, các nguồn năng lượng mới trên ô tô."
+  },
+  "CLO 3_AET4243": {
+    "primary_keywords": [
+      "nhiệm",
+      "lich",
+      "tổng",
+      "khoa"
+    ],
+    "secondary_keywords": [],
+    "scoring_method": "presence",
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5,
+    "bloom_level": 6,
+    "course_code": "AET4243",
+    "description": "Có tư duy tổng hợp về lich vực khoa học được nêu lên trong nhiệm vụ của đồ án"
+  },
+  "CLO 4_AET4243": {
+    "primary_keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "secondary_keywords": [
+      "chất",
+      "năng",
+      "thiết",
+      "nhân",
+      "nghề"
+    ],
+    "scoring_method": "distinct",
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3,
+    "bloom_level": 2,
+    "course_code": "AET4243",
+    "description": "Kỹ năng chuyên nghiệp, phẩm chất cá nhân cần thiết để hình thành năng lực tự chủ, kỹ năng làm việc hiệu quả trong nhóm đa ngành nghề."
+  }
+}

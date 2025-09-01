@@ -1,0 +1,10 @@
+id,code,course_code,course_name,title,description,pi_code,assessment_level
+1,CLO1,ME2252,Vẽ kỹ thuật cơ khí,Hiểu quy ước biểu diễn,"Hiểu rõ các quy ước về biểu diễn của các Tiêu chuẩn trình bày bản vẽ theo TCVN và ISO",PI4.3,T
+2,CLO2,ME2252,Vẽ kỹ thuật cơ khí,Sử dụng kiến thức vẽ kỹ thuật,"Sử dụng các kiến thức Hình họa và các Tiêu chuẩn để vẽ các bản vẽ biểu diễn vật thể, các bản vẽ chi tiết bằng cách sử dụng dụng cụ và vật liệu vẽ. Hiểu các khái niệm dung sai, nhám bề mặt, các quy ước về vẽ mối ghép, các phương pháp truyền động để trình bày trong các bản vẽ lắp và bản vẽ chi tiết.",PI4.3,U
+3,CLO3,ME2252,Vẽ kỹ thuật cơ khí,Tư duy không gian và vận dụng,"Có tư duy không gian, hiểu biết vận dụng tốt các quy ước biểu diễn vật thể phù hợp các Tiêu chuẩn quốc gia và quốc tế",PI4.3,U
+4,CLO4,ME2252,Vẽ kỹ thuật cơ khí,Thái độ học tập nghiêm túc,"Có ý thức, thái độ học tập nghiêm túc. Rèn luyện tác phong khoa học, kiên nhẫn, tỷ mỷ, chính xác của người kỹ sư thiết kế.",PI12.4,U
+5,CLO1,ME2205,Cơ học kỹ thuật,Hiểu hệ lực cơ học,"Hiểu rõ các hệ lực cơ học, các nguyên lý cơ bản của tĩnh học và động học",PI4.1,T
+6,CLO2,ME2205,Cơ học kỹ thuật,Xây dựng mô hình lực,"Xây dựng mô hình lực, phương trình cân bằng lực để giải quyết các bài toán cơ học",PI4.2,U
+7,CLO3,ME2205,Cơ học kỹ thuật,Phân tích tính toán thiết kế,"Phân tích, tính toán, thiết kế các tham số kỹ thuật trong cơ học, tĩnh học, động học",PI10.1,U
+8,CLO4,ME2205,Cơ học kỹ thuật,Ý thức thái độ học tập,"Có ý thức, thái độ học tập nghiêm túc, tích cực trong quá trình học tập",PI12.1,U
+

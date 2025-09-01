@@ -1,0 +1,10 @@
+id,clo_id,method,full_score_threshold,partial_score_floor,max_score,description
+1,1,keyword_frequency,3,0.3,4.0,Đếm tần suất từ khóa về tiêu chuẩn và quy ước
+2,2,content_analysis,2,0.4,4.0,Phân tích nội dung về kỹ năng vẽ và kiến thức kỹ thuật
+3,3,spatial_reasoning,2,0.3,4.0,Đánh giá tư duy không gian và hiểu biết tiêu chuẩn
+4,4,attitude_assessment,1,0.5,4.0,Đánh giá thái độ học tập qua biểu hiện trong bài làm
+5,5,concept_understanding,3,0.4,4.0,Hiểu biết các khái niệm cơ học cơ bản
+6,6,problem_solving,2,0.3,4.0,Khả năng giải quyết bài toán và mô hình hóa
+7,7,technical_calculation,3,0.4,4.0,Kỹ năng tính toán và thiết kế kỹ thuật
+8,8,learning_engagement,1,0.5,4.0,Mức độ tham gia và thái độ học tập
+

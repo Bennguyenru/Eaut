@@ -1,0 +1,2486 @@
+{
+  "CLO 1_ME2206": {
+    "keywords": [
+      "hiểu",
+      "dụng",
+      "thức",
+      "thiết",
+      "kiến"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME2206": {
+    "keywords": [
+      "trạng",
+      "thái",
+      "trưng",
+      "đúng",
+      "dụng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME2206": {
+    "keywords": [
+      "động",
+      "toán",
+      "siêu",
+      "tính",
+      "tích"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME2206": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO4_": {
+    "keywords": [
+      "giải",
+      "toán",
+      "dựng",
+      "lĩnh",
+      "thuật"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 1_": {
+    "keywords": [
+      "trang",
+      "pháp",
+      "chức",
+      "kinh",
+      "dưỡng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 4,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 2_": {
+    "keywords": [
+      "đoán",
+      "dưỡng",
+      "trạng",
+      "công",
+      "doanh"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 4,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_": {
+    "keywords": [
+      "thuyết",
+      "hoàn",
+      "nghiệp",
+      "dung",
+      "thức"
+    ],
+    "scoring_method": "presence",
+    "bloom_level": 6,
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5
+  },
+  "CLO 4_": {
+    "keywords": [
+      "sáng",
+      "nghiệp",
+      "thay",
+      "việc",
+      "công"
+    ],
+    "scoring_method": "presence",
+    "bloom_level": 6,
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5
+  },
+  "CLO 1_AET3217": {
+    "keywords": [
+      "thống",
+      "toán",
+      "hiểu",
+      "tính"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3217": {
+    "keywords": [
+      "chuẩn",
+      "dựng",
+      "tiêu",
+      "theo",
+      "tổng"
+    ],
+    "scoring_method": "presence",
+    "bloom_level": 6,
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5
+  },
+  "CLO 3_AET3217": {
+    "keywords": [
+      "năng",
+      "thuyết",
+      "trình"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 4_AET3217": {
+    "keywords": [
+      "hình",
+      "luận",
+      "giải",
+      "nghiệp",
+      "chuyên"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 1_AET3218": {
+    "keywords": [
+      "trên",
+      "nhận",
+      "biết",
+      "thống",
+      "tổng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3218": {
+    "keywords": [
+      "trên",
+      "hiểu",
+      "việc",
+      "thống",
+      "nguyên"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 3_AET3218": {
+    "keywords": [
+      "trên",
+      "giải",
+      "luận",
+      "việc",
+      "thống"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 4_AET3218": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_AET3219": {
+    "keywords": [
+      "thuật",
+      "điện",
+      "hiểu"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3219": {
+    "keywords": [
+      "trang",
+      "động",
+      "khái",
+      "quát",
+      "chung"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 3_AET3219": {
+    "keywords": [
+      "trang",
+      "động",
+      "hoạt",
+      "thống",
+      "điện"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 4_AET3219": {
+    "keywords": [
+      "trang",
+      "giải",
+      "trên",
+      "kiến",
+      "tượng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 5_AET3219": {
+    "keywords": [
+      "điện",
+      "dụng",
+      "thức",
+      "thống",
+      "chữa"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 6_AET3219": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO1_": {
+    "keywords": [
+      "đảng",
+      "pháp",
+      "đường",
+      "nước",
+      "hiểu"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO2_": {
+    "keywords": [
+      "nghiệp",
+      "chuyên",
+      "lĩnh",
+      "khoa",
+      "dụng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO3_": {
+    "keywords": [
+      "luyện",
+      "hoàn",
+      "phòng",
+      "chất",
+      "quốc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO5_": {
+    "keywords": [
+      "tiến",
+      "chuyên",
+      "công",
+      "phân",
+      "thích"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO6_": {
+    "keywords": [
+      "dưỡng",
+      "chuyên",
+      "dựng",
+      "công",
+      "ngành"
+    ],
+    "scoring_method": "presence",
+    "bloom_level": 6,
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5
+  },
+  "CLO7_": {
+    "keywords": [
+      "thuyết",
+      "chuyên",
+      "huống",
+      "lĩnh",
+      "tiêu"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 1,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO8_": {
+    "keywords": [
+      "giải",
+      "động",
+      "quản",
+      "phản",
+      "việc"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO9_": {
+    "keywords": [
+      "chuyên",
+      "phòng",
+      "dụng",
+      "tiếng",
+      "lĩnh"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO10_": {
+    "keywords": [
+      "ngành",
+      "dưỡng",
+      "hiểu",
+      "dựng",
+      "công"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO11_": {
+    "keywords": [
+      "chức",
+      "thuyết",
+      "phản",
+      "toán",
+      "tính"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO12_": {
+    "keywords": [
+      "sáng",
+      "công",
+      "chất",
+      "trường",
+      "nhanh"
+    ],
+    "scoring_method": "presence",
+    "bloom_level": 6,
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5
+  },
+  "CLO 1_ME2201": {
+    "keywords": [
+      "việc",
+      "công",
+      "sinh",
+      "định",
+      "thần"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME2201": {
+    "keywords": [
+      "hiểu",
+      "công",
+      "thuật",
+      "thức",
+      "nghệ"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 3_ME2201": {
+    "keywords": [
+      "mình",
+      "viên",
+      "giúp",
+      "khóa",
+      "dàng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 4_ME2201": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME2205": {
+    "keywords": [
+      "hiểu"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME2205": {
+    "keywords": [
+      "hình",
+      "giải",
+      "toán",
+      "dựng",
+      "tính"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME2205": {
+    "keywords": [
+      "động",
+      "toán",
+      "tĩnh",
+      "tính",
+      "tích"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME2205": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME2253": {
+    "keywords": [
+      "động",
+      "nguyên",
+      "hiểu"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME2253": {
+    "keywords": [
+      "việc",
+      "đúng",
+      "dụng",
+      "năng",
+      "chọn"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME2253": {
+    "keywords": [
+      "động",
+      "toán",
+      "tính",
+      "tích",
+      "bánh"
+    ],
+    "scoring_method": "presence",
+    "bloom_level": 6,
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5
+  },
+  "CLO 4_ME2253": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME2208": {
+    "keywords": [
+      "thuật",
+      "tiết",
+      "thông",
+      "hiểu"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME2208": {
+    "keywords": [
+      "thuật",
+      "đúng",
+      "tiết",
+      "dụng",
+      "thông"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME2208": {
+    "keywords": [
+      "thiết",
+      "toán",
+      "tiết",
+      "tính"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME2208": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME2254": {
+    "keywords": [
+      "hiểu",
+      "dụng",
+      "thức",
+      "thực",
+      "kiến"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME2254": {
+    "keywords": [
+      "thuật",
+      "đúng",
+      "tiết",
+      "dụng",
+      "thông"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME2254": {
+    "keywords": [
+      "toán",
+      "tính",
+      "thuật",
+      "theo",
+      "thiết"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME2254": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME2255": {
+    "keywords": [
+      "nguyên",
+      "hiểu",
+      "tiết",
+      "dụng",
+      "dung"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME2255": {
+    "keywords": [
+      "giải",
+      "toán",
+      "đúng",
+      "dụng",
+      "dung"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME2255": {
+    "keywords": [
+      "giải",
+      "hình",
+      "toán",
+      "dựng",
+      "tính"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME2255": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME2259": {
+    "keywords": [
+      "hiểu",
+      "tính",
+      "chất",
+      "trúc",
+      "liệu"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME2259": {
+    "keywords": [
+      "hiệu",
+      "toán",
+      "việc",
+      "công",
+      "tính"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME2259": {
+    "keywords": [
+      "trạng",
+      "thay",
+      "thái",
+      "tích",
+      "tính"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 4,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME2259": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME2212": {
+    "keywords": [
+      "pháp",
+      "hiểu",
+      "công",
+      "phương",
+      "nóng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME2212": {
+    "keywords": [
+      "công",
+      "dụng",
+      "theo",
+      "dùng",
+      "chọn"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME2212": {
+    "keywords": [
+      "phoi",
+      "công",
+      "tích",
+      "phân",
+      "loại"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 4,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME2212": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME2257": {
+    "keywords": [
+      "thống",
+      "thủy",
+      "nguyên",
+      "hiểu"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME2257": {
+    "keywords": [
+      "đúng",
+      "dụng",
+      "chọn",
+      "thực",
+      "thủy"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME2257": {
+    "keywords": [
+      "toán",
+      "tính",
+      "hành",
+      "thiết",
+      "thống"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME2257": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME2258": {
+    "keywords": [
+      "động",
+      "thực",
+      "hướng",
+      "phòng",
+      "dụng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 2_ME2258": {
+    "keywords": [
+      "nguồn",
+      "giải",
+      "diode",
+      "cổng",
+      "nhận"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 3_ME2258": {
+    "keywords": [
+      "tích",
+      "phục",
+      "mạch",
+      "phân",
+      "khắc"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 4,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME2258": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_TET2213": {
+    "keywords": [
+      "hiểu",
+      "những",
+      "chất",
+      "quan",
+      "liên"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_TET2213": {
+    "keywords": [
+      "động",
+      "trao",
+      "phương",
+      "đúng",
+      "nhiệt"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_TET2213": {
+    "keywords": [
+      "toán",
+      "trao",
+      "tính",
+      "tích",
+      "diện"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_TET2213": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME2256": {
+    "keywords": [
+      "điểm",
+      "hiểu",
+      "dụng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME2256": {
+    "keywords": [
+      "pháp",
+      "hình",
+      "dựng",
+      "tích",
+      "phương"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME2256": {
+    "keywords": [
+      "động",
+      "toán",
+      "tính",
+      "hoạt",
+      "thiết"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME2256": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME3234": {
+    "keywords": [
+      "hiểu",
+      "thuật",
+      "ngôn",
+      "trình",
+      "trên"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME3234": {
+    "keywords": [
+      "toán",
+      "tính",
+      "phương",
+      "thuật",
+      "đúng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME3234": {
+    "keywords": [
+      "phần",
+      "tích",
+      "dụng",
+      "phân",
+      "phỏng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME3234": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME3260": {
+    "keywords": [
+      "động",
+      "nghiệp",
+      "hiểu",
+      "công",
+      "trường"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME3260": {
+    "keywords": [
+      "động",
+      "việc",
+      "phương",
+      "dụng",
+      "quan"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME3260": {
+    "keywords": [
+      "động",
+      "xuất",
+      "thực",
+      "toán",
+      "phòng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME3260": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_AET3261": {
+    "keywords": [
+      "động",
+      "hiểu",
+      "việc",
+      "tích",
+      "phân"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3261": {
+    "keywords": [
+      "động",
+      "trục",
+      "khuỷu",
+      "toán",
+      "thanh"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_AET3261": {
+    "keywords": [
+      "động",
+      "tiết",
+      "hoạt",
+      "thống",
+      "nguyên"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 4_AET3261": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_AET3262": {
+    "keywords": [
+      "động",
+      "hiểu",
+      "công",
+      "chuyển",
+      "bằng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 1,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3262": {
+    "keywords": [
+      "kiện",
+      "toán",
+      "tính",
+      "điều",
+      "trước"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_AET3262": {
+    "keywords": [
+      "kinh",
+      "toán",
+      "tính",
+      "năng",
+      "thông"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_AET3262": {
+    "keywords": [
+      "hình",
+      "nghiêm",
+      "nghiệp",
+      "việc",
+      "thái"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 1_AET3216": {
+    "keywords": [
+      "động",
+      "toán",
+      "hiểu",
+      "công",
+      "tính"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3216": {
+    "keywords": [
+      "chuẩn",
+      "dựng",
+      "tiêu",
+      "theo",
+      "tổng"
+    ],
+    "scoring_method": "presence",
+    "bloom_level": 6,
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5
+  },
+  "CLO 3_AET3216": {
+    "keywords": [
+      "năng",
+      "thuyết",
+      "trình"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 4_AET3216": {
+    "keywords": [
+      "hình",
+      "luận",
+      "giải",
+      "nghiệp",
+      "chuyên"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 1_AET3221": {
+    "keywords": [
+      "đoán",
+      "thuyết",
+      "chẩn",
+      "hiểu",
+      "công"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3221": {
+    "keywords": [
+      "đoán",
+      "chẩn",
+      "thuật",
+      "dụng",
+      "loại"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_AET3221": {
+    "keywords": [
+      "công",
+      "tổng",
+      "thuật",
+      "nghệ",
+      "trình"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_AET3221": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_AET3222": {
+    "keywords": [
+      "dưỡng",
+      "hiểu",
+      "thức",
+      "chữa",
+      "cách"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3222": {
+    "keywords": [
+      "khác",
+      "dưỡng",
+      "công",
+      "dụng",
+      "nhau"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_AET3222": {
+    "keywords": [
+      "pháp",
+      "tuổi",
+      "dưỡng",
+      "phương",
+      "chữa"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 4_AET3222": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_AET3224": {
+    "keywords": [
+      "động",
+      "hoạt",
+      "thống",
+      "điện",
+      "nguyên"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3224": {
+    "keywords": [
+      "giải",
+      "toán",
+      "tượng",
+      "tính",
+      "nhân"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 3_AET3224": {
+    "keywords": [
+      "điện",
+      "dụng",
+      "thức",
+      "thống",
+      "chữa"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_AET3224": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME3270": {
+    "keywords": [
+      "giải",
+      "công",
+      "chất",
+      "hưởng",
+      "lượng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME3270": {
+    "keywords": [
+      "công",
+      "phân",
+      "thức",
+      "hỏng",
+      "dạng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 1,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 3_ME3270": {
+    "keywords": [
+      "chuẩn",
+      "công",
+      "nguội",
+      "thuật",
+      "tiêu"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME3270": {
+    "keywords": [
+      "pháp",
+      "công",
+      "phương",
+      "thuật",
+      "tiêu"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 5_ME3270": {
+    "keywords": [
+      "pháp",
+      "công",
+      "nguội",
+      "phục",
+      "dạng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 4,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 6_ME3270": {
+    "keywords": [
+      "bằng",
+      "chữa",
+      "công",
+      "dụng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 7_ME3270": {
+    "keywords": [
+      "nghiêm",
+      "giác",
+      "việc",
+      "tính",
+      "công"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME3271": {
+    "keywords": [
+      "toán",
+      "tính",
+      "khoa",
+      "dụng",
+      "thức"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 2_ME3271": {
+    "keywords": [
+      "phát",
+      "chuẩn",
+      "tích",
+      "phôi",
+      "dụng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME3271": {
+    "keywords": [
+      "pháp",
+      "trạng",
+      "chuẩn",
+      "phương",
+      "liệu"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 4,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME3271": {
+    "keywords": [
+      "pháp",
+      "chỉnh",
+      "toán",
+      "tính",
+      "phương"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 5_ME3271": {
+    "keywords": [
+      "giáp",
+      "thuật",
+      "bằng",
+      "quang",
+      "điện"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 6_ME3271": {
+    "keywords": [
+      "pháp",
+      "phục",
+      "dạng",
+      "khuyết",
+      "khắc"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 4,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 7_ME3271": {
+    "keywords": [
+      "nghiêm",
+      "giác",
+      "việc",
+      "tính",
+      "công"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME3263": {
+    "keywords": [
+      "động",
+      "dưỡng",
+      "hiểu",
+      "thuật",
+      "thức"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME3263": {
+    "keywords": [
+      "động",
+      "dưỡng",
+      "thuật",
+      "hành",
+      "thực"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 3_ME3263": {
+    "keywords": [
+      "trang",
+      "giải",
+      "động",
+      "dưỡng",
+      "đoán"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 4_ME3263": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME3266": {
+    "keywords": [
+      "trang",
+      "động",
+      "chức",
+      "hiểu",
+      "hoạt"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME3266": {
+    "keywords": [
+      "động",
+      "dưỡng",
+      "điện",
+      "tiết",
+      "thân"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 4,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME3266": {
+    "keywords": [
+      "đoán",
+      "chuyên",
+      "dụng",
+      "thiết",
+      "dùng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME3266": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME3267": {
+    "keywords": [
+      "trên",
+      "hiểu",
+      "điều",
+      "thống",
+      "nguyên"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ME3267": {
+    "keywords": [
+      "trang",
+      "đoán",
+      "trên",
+      "dưỡng",
+      "chuyên"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME3267": {
+    "keywords": [
+      "trên",
+      "tuổi",
+      "việc",
+      "tiến",
+      "điều"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME3267": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ME3268": {
+    "keywords": [
+      "giải",
+      "chức",
+      "hiểu",
+      "chuyên",
+      "dựng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 2_ME3268": {
+    "keywords": [
+      "thuyết",
+      "phản",
+      "toán",
+      "tính",
+      "công"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ME3268": {
+    "keywords": [
+      "đoán",
+      "giải",
+      "phản",
+      "việc",
+      "lĩnh"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ME3268": {
+    "keywords": [
+      "đoán",
+      "sáng",
+      "việc",
+      "công",
+      "chất"
+    ],
+    "scoring_method": "presence",
+    "bloom_level": 6,
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5
+  },
+  "CLO 1_ATE3269": {
+    "keywords": [
+      "thường",
+      "hiểu",
+      "chuyên",
+      "vựng",
+      "tiếng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_ATE3269": {
+    "keywords": [
+      "ngành",
+      "chuyên",
+      "thuật",
+      "đúng",
+      "trường"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ATE3269": {
+    "keywords": [
+      "hiểu",
+      "chuyên",
+      "nghiên",
+      "tiếng",
+      "ngành"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 4_ATE3269": {
+    "keywords": [
+      "tích",
+      "nghiêm",
+      "thức",
+      "thái"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_ATE3272": {
+    "keywords": [
+      "động",
+      "xuất",
+      "chức",
+      "nghiệp",
+      "doanh"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 4,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 2_ATE3272": {
+    "keywords": [
+      "vững",
+      "luận",
+      "giải",
+      "động",
+      "xuất"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_ATE3272": {
+    "keywords": [
+      "luận",
+      "giải",
+      "pháp",
+      "thảo",
+      "năng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_ATE3272": {
+    "keywords": [
+      "pháp",
+      "xuất",
+      "động",
+      "nghiệp",
+      "toán"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 1_AET3273": {
+    "keywords": [
+      "đoán",
+      "bước",
+      "electude",
+      "phần",
+      "chẩn"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3273": {
+    "keywords": [
+      "nhiệm",
+      "động",
+      "phân",
+      "loại",
+      "trình"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 3_AET3273": {
+    "keywords": [
+      "đoán",
+      "giải",
+      "pháp",
+      "động",
+      "điện"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 4_AET3273": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO1_AET3274": {
+    "keywords": [
+      "lĩnh",
+      "khoa",
+      "tùng",
+      "dụng",
+      "thức"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO2_AET3274": {
+    "keywords": [
+      "giải",
+      "dựng",
+      "lĩnh",
+      "thuật",
+      "tùng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO3_AET3274": {
+    "keywords": [
+      "giải",
+      "phản",
+      "việc",
+      "lĩnh",
+      "tích"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO4_AET3274": {
+    "keywords": [
+      "chức",
+      "thuyết",
+      "phản",
+      "toán",
+      "tính"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO5_AET3274": {
+    "keywords": [
+      "sáng",
+      "nghiệp",
+      "thay",
+      "việc",
+      "công"
+    ],
+    "scoring_method": "presence",
+    "bloom_level": 6,
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5
+  },
+  "CLO 1_AET3276": {
+    "keywords": [
+      "động",
+      "hiểu",
+      "phòng",
+      "chuẩn",
+      "bằng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3276": {
+    "keywords": [
+      "giải",
+      "chuẩn",
+      "phòng",
+      "tiêu",
+      "hàng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 3_AET3276": {
+    "keywords": [
+      "thuyết",
+      "việc",
+      "trình",
+      "nhóm",
+      "dịch"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 4_AET3276": {
+    "keywords": [
+      "trách",
+      "nhiệm",
+      "việc",
+      "tích",
+      "thân"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_AET3277": {
+    "keywords": [
+      "hiểu",
+      "công",
+      "việc",
+      "thuật",
+      "năng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3277": {
+    "keywords": [
+      "thẳng",
+      "vòng",
+      "đường",
+      "thuật",
+      "trên"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 3_AET3277": {
+    "keywords": [
+      "dướng",
+      "dưỡng",
+      "chăm",
+      "thất",
+      "trình"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 4_AET3277": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_AET3235": {
+    "keywords": [
+      "động",
+      "hiệu",
+      "giải",
+      "pháp",
+      "hiểu"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3235": {
+    "keywords": [
+      "trên",
+      "tượng",
+      "hiểu",
+      "việc",
+      "tích"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 3_AET3235": {
+    "keywords": [
+      "đoán",
+      "dưỡng",
+      "điện",
+      "chẩn",
+      "phanh"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_AET3235": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO1_AET3227": {
+    "keywords": [
+      "lĩnh",
+      "khoa",
+      "dụng",
+      "thức",
+      "nhiên"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO2_AET3227": {
+    "keywords": [
+      "giải",
+      "dựng",
+      "lĩnh",
+      "thuật",
+      "dụng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO3_AET3227": {
+    "keywords": [
+      "giải",
+      "phản",
+      "việc",
+      "lĩnh",
+      "tích"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO4_AET3227": {
+    "keywords": [
+      "chức",
+      "thuyết",
+      "phản",
+      "toán",
+      "tính"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO5_AET3227": {
+    "keywords": [
+      "sáng",
+      "nghiệp",
+      "thay",
+      "việc",
+      "công"
+    ],
+    "scoring_method": "presence",
+    "bloom_level": 6,
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5
+  },
+  "CLO 1_AET3236": {
+    "keywords": [
+      "động",
+      "chức",
+      "hiểu",
+      "năng",
+      "nguyên"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3236": {
+    "keywords": [
+      "động",
+      "hstđ",
+      "điểm",
+      "hiểu",
+      "nhược"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 3_AET3236": {
+    "keywords": [
+      "động",
+      "thường",
+      "tích",
+      "phân",
+      "hỏng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 1,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 4_AET3236": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_AET3226": {
+    "keywords": [
+      "chức",
+      "hiểu",
+      "chuyên",
+      "năng",
+      "loại"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3226": {
+    "keywords": [
+      "chuyên",
+      "việc",
+      "dùng",
+      "thống",
+      "nguyên"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 3_AET3226": {
+    "keywords": [
+      "pháp",
+      "thường",
+      "tích",
+      "phương",
+      "phân"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 4,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 4_AET3226": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_AET3229": {
+    "keywords": [
+      "động",
+      "hiểu",
+      "phạm",
+      "hoạt",
+      "dụng"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET3229": {
+    "keywords": [
+      "pháp",
+      "tiến",
+      "phương",
+      "hành",
+      "biết"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 3_AET3229": {
+    "keywords": [
+      "nghiệm",
+      "trường",
+      "dựng"
+    ],
+    "scoring_method": "presence",
+    "bloom_level": 6,
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5
+  },
+  "CLO 4_AET3229": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 1_AET4243": {
+    "keywords": [
+      "nhiệm",
+      "hoàn",
+      "phần",
+      "những",
+      "hiểu"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  },
+  "CLO 2_AET4243": {
+    "keywords": [
+      "đoán",
+      "dưỡng",
+      "tiến",
+      "những",
+      "dựng"
+    ],
+    "scoring_method": "termfreq",
+    "bloom_level": 3,
+    "full_score_threshold": 4,
+    "partial_score_floor": 0.4
+  },
+  "CLO 3_AET4243": {
+    "keywords": [
+      "nhiệm",
+      "lich",
+      "tổng",
+      "khoa"
+    ],
+    "scoring_method": "presence",
+    "bloom_level": 6,
+    "full_score_threshold": 1,
+    "partial_score_floor": 0.5
+  },
+  "CLO 4_AET4243": {
+    "keywords": [
+      "hình",
+      "hiệu",
+      "nghiệp",
+      "chuyên",
+      "việc"
+    ],
+    "scoring_method": "distinct",
+    "bloom_level": 2,
+    "full_score_threshold": 3,
+    "partial_score_floor": 0.3
+  }
+}

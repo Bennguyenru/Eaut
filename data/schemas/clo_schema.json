@@ -1,0 +1,44 @@
+{
+  "type": "object",
+  "properties": {
+    "code": {
+      "type": "string",
+      "pattern": "^CLO[0-9]+$",
+      "description": "CLO identifier (e.g., CLO1)"
+    },
+    "course_code": {
+      "type": "string",
+      "pattern": "^[A-Z]{2,3}[0-9]{4}$",
+      "description": "Course code (e.g., ME2252)"
+    },
+    "course_name": {
+      "type": "string",
+      "maxLength": 200,
+      "description": "Full course name"
+    },
+    "title": {
+      "type": "string",
+      "maxLength": 200,
+      "description": "Short title of the CLO"
+    },
+    "description": {
+      "type": "string",
+      "maxLength": 1000,
+      "description": "Detailed description of the CLO"
+    },
+    "assessment_level": {
+      "type": "string",
+      "enum": ["Hiểu biết", "Áp dụng", "Thái độ"],
+      "description": "Assessment level based on Bloom's taxonomy"
+    },
+    "plo_mappings": {
+      "type": "string",
+      "description": "Comma-separated list of mapped PLO codes"
+    },
+    "keywords": {
+      "type": "string",
+      "description": "Comma-separated list of assessment keywords"
+    }
+  },
+  "required": ["code", "course_code", "course_name", "title", "description", "assessment_level"]
+}

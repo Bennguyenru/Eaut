@@ -1,0 +1,459 @@
+{
+  "program_info": {
+    "program_name": "Công nghệ kỹ thuật Ô tô",
+    "program_code": "7510205",
+    "degree_level": "Đại học",
+    "total_credits": 150,
+    "department": "Khoa Cơ khí",
+    "university": "Trường Đại học Công nghệ Đông Á",
+    "version": "Khóa 14",
+    "effective_date": "2023-09-29"
+  },
+  "program_objectives": [
+    {
+      "code": "PO1",
+      "title": "Kiến thức nền tảng",
+      "description": "Có kiến thức nền tảng về Khoa học tự nhiên, Xã hội, Lý luận chính trị, Công nghệ thông tin, Ngoại ngữ, An ninh quốc phòng, Giáo dục thể chất và Pháp luật Việt Nam."
+    },
+    {
+      "code": "PO2", 
+      "title": "Kiến thức chuyên môn",
+      "description": "Kiến thức khoa học cơ bản, kiến thức cơ sở chuyên môn vững chắc để tiếp thu, vận dụng và phát triển tri thức, thích ứng tốt với những công việc khác nhau trong lĩnh vực rộng của ngành kỹ thuật ô tô"
+    },
+    {
+      "code": "PO3",
+      "title": "Kỹ năng",
+      "description": "Có các kỹ năng giao tiếp, thuyết trình và đàm phán, tư duy phản biện, làm việc nhóm, kỹ năng xác định mục tiêu, lập kế hoạch, giải quyết vấn đề. Có khả năng giao tiếp cơ bản bằng tiếng Anh, ứng dụng công nghệ thông tin đáp ứng yêu cầu công việc."
+    },
+    {
+      "code": "PO4",
+      "title": "Năng lực chuyên môn",
+      "description": "Đọc hiểu và xây dựng được bản vẽ kỹ thuật; Khai thác, vận hành, quản lý; Bảo trì, bảo dưỡng, sửa chữa; Tư vấn, chuyển giao công nghệ về lĩnh vực ngành công nghệ kỹ thuật ô tô. Tính toán, lập báo cáo, thuyết trình, phản biện, tổ chức công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm"
+    },
+    {
+      "code": "PO5",
+      "title": "Mức tự chủ và trách nhiệm",
+      "description": "Có năng lực tự nghiên cứu, phân tích, làm việc và tư duy độc lập, định hướng, giám sát, điều phối và quản lý các hoạt động. Có đạo đức nghề nghiệp và trách nhiệm của công dân."
+    }
+  ],
+  "program_learning_outcomes": [
+    {
+      "code": "PLO1",
+      "title": "Kiến thức lý luận chính trị",
+      "description": "Hiểu rõ các nguyên lý cơ bản của chủ nghĩa Mác - Lênin, đường lối cách mạng của Đảng Cộng sản Việt Nam, tư tưởng Hồ Chí Minh; chính sách, pháp luật của Nhà nước.",
+      "category": "Kiến thức",
+      "bloom_level": 2,
+      "mapped_po": ["PO1"],
+      "performance_indicators": ["PI 1.1", "PI 1.2"],
+      "assessment_methods": ["Thi lý thuyết", "Bài tập", "Thảo luận"],
+      "weight": 0.08
+    },
+    {
+      "code": "PLO2", 
+      "title": "Kiến thức khoa học cơ bản",
+      "description": "Vận dụng kiến thức về khoa học tự nhiên, xã hội, Ngoại ngữ, tin học vào lĩnh vực chuyên môn, nghề nghiệp.",
+      "category": "Kiến thức",
+      "bloom_level": 3,
+      "mapped_po": ["PO1"],
+      "performance_indicators": ["PI 2.1", "PI 2.2"],
+      "assessment_methods": ["Thi lý thuyết", "Bài tập", "Thực hành"],
+      "weight": 0.08
+    },
+    {
+      "code": "PLO3",
+      "title": "Kiến thức quốc phòng và thể chất",
+      "description": "Hoàn thành kiến thức Quốc phòng - an ninh và Giáo dục thể chất để tự rèn luyện về tinh thần và thể chất.",
+      "category": "Kiến thức",
+      "bloom_level": 2,
+      "mapped_po": ["PO1"],
+      "performance_indicators": ["PI 3.1", "PI 3.2"],
+      "assessment_methods": ["Thi lý thuyết", "Thực hành"],
+      "weight": 0.06
+    },
+    {
+      "code": "PLO4",
+      "title": "Khả năng áp dụng kiến thức kỹ thuật",
+      "description": "Khả năng áp dụng, xây dựng và giải quyết các vấn đề kỹ thuật trong lĩnh vực công nghệ kỹ thuật ô tô bằng cách áp dụng các kiến thức khoa học. kỹ thuật, toán học, vật lý.",
+      "category": "Kỹ năng thực hành",
+      "bloom_level": 3,
+      "mapped_po": ["PO2"],
+      "performance_indicators": ["PI 4.1", "PI 4.2"],
+      "assessment_methods": ["Bài tập", "Đồ án", "Thực hành", "Thi lý thuyết"],
+      "weight": 0.12
+    },
+    {
+      "code": "PLO5",
+      "title": "Khả năng phân tích và đánh giá",
+      "description": "Khả năng phát triển và tiến hành thực hành, phân tích, giải thích dữ liệu, sử dụng đánh giá kỹ thuật để đưa ra các kết luận cho các vấn đề chuyên môn trong lĩnh vực công nghệ kỹ thuật ô tô.",
+      "category": "Kỹ năng thực hành",
+      "bloom_level": 4,
+      "mapped_po": ["PO2"],
+      "performance_indicators": ["PI 5.1", "PI 5.2"],
+      "assessment_methods": ["Thực hành", "Báo cáo", "Đồ án", "Thí nghiệm"],
+      "weight": 0.12
+    },
+    {
+      "code": "PLO6",
+      "title": "Năng lực chuyên môn thiết kế và vận hành",
+      "description": "Năng lực chuyên môn để có thể tham gia thiết kế, chế tạo, vận hành, bảo trì, bảo dưỡng, sửa chữa ô tô truyền thống, xe ô tô điện và các chi tiết, phụ tùng của ô tô; Định hướng xây dựng các giải pháp công nghệ, kỹ thuật cho các lĩnh vực liên quan đến ngành ôtô",
+      "category": "Kỹ năng thiết kế",
+      "bloom_level": 5,
+      "mapped_po": ["PO2"],
+      "performance_indicators": ["PI 6.1", "PI 6.2"],
+      "assessment_methods": ["Đồ án", "Thực hành", "Dự án", "Thực tập"],
+      "weight": 0.15
+    },
+    {
+      "code": "PLO7",
+      "title": "Kỹ năng giao tiếp và thuyết trình",
+      "description": "Vận dụng tốt các kỹ năng: giao tiếp, thuyết trình, đàm phán, xác định mục tiêu và lập kế hoạch, xử lý linh hoạt các tình huống trong lĩnh vực chuyên môn.",
+      "category": "Kỹ năng",
+      "bloom_level": 3,
+      "mapped_po": ["PO3"],
+      "performance_indicators": ["PI 7.1", "PI 7.2"],
+      "assessment_methods": ["Thuyết trình", "Báo cáo", "Thảo luận nhóm"],
+      "weight": 0.08
+    },
+    {
+      "code": "PLO8",
+      "title": "Kỹ năng làm việc nhóm và quản lý",
+      "description": "Có kỹ năng làm việc nhóm, tư duy hệ thống, phân tích, phản biện, tổng hợp, dự báo, quản lý, dẫn dắt và giải quyết vấn đề trong các hoạt động chuyên môn.",
+      "category": "Kỹ năng",
+      "bloom_level": 4,
+      "mapped_po": ["PO3"],
+      "performance_indicators": ["PI 8.1", "PI 8.2"],
+      "assessment_methods": ["Dự án nhóm", "Thảo luận", "Báo cáo nhóm"],
+      "weight": 0.08
+    },
+    {
+      "code": "PLO9",
+      "title": "Kỹ năng tin học và ngoại ngữ",
+      "description": "Sử dụng được Tiếng Anh cơ bản, tin học văn phòng, tin học ứng dụng trong lĩnh vực chuyên môn.",
+      "category": "Kỹ năng",
+      "bloom_level": 3,
+      "mapped_po": ["PO3"],
+      "performance_indicators": ["PI 9.1", "PI 9.2"],
+      "assessment_methods": ["Thi thực hành", "Bài tập", "Dự án"],
+      "weight": 0.06
+    },
+    {
+      "code": "PLO10",
+      "title": "Kỹ năng kỹ thuật chuyên môn",
+      "description": "Đọc hiểu và xây dựng được bản vẽ kỹ thuật; Khai thác, vận hành, quản lý; Bảo trì, bảo dưỡng, sửa chữa; Tư vấn, chuyển giao công nghệ về lĩnh vực ngành công nghệ kỹ thuật ô tô.",
+      "category": "Kỹ năng thiết kế",
+      "bloom_level": 4,
+      "mapped_po": ["PO4"],
+      "performance_indicators": ["PI 10.1", "PI 10.2"],
+      "assessment_methods": ["Đồ án", "Thực hành", "Thi thực hành", "Dự án"],
+      "weight": 0.12
+    },
+    {
+      "code": "PLO11",
+      "title": "Kỹ năng tổ chức và quản lý công việc",
+      "description": "Tính toán, lập báo cáo, thuyết trình, phản biện, tổ chức công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm",
+      "category": "Kỹ năng",
+      "bloom_level": 4,
+      "mapped_po": ["PO4"],
+      "performance_indicators": ["PI 11.1", "PI 11.2"],
+      "assessment_methods": ["Báo cáo", "Dự án", "Thuyết trình"],
+      "weight": 0.08
+    },
+    {
+      "code": "PLO12",
+      "title": "Thái độ và đạo đức nghề nghiệp",
+      "description": "Có phẩm chất đạo đức nghề nghiệp, tinh thần học tập nghiêm túc, năng lực nghiên cứu độc lập, tư duy sáng tạo, thích nghi nhanh với sự thay đổi của môi trường, có khả năng định hướng và tìm kiếm cơ hội phát triển nghề nghiệp, thực hiện tốt trách nhiệm công dân.",
+      "category": "Thái độ",
+      "bloom_level": 5,
+      "mapped_po": ["PO5"],
+      "performance_indicators": ["PI 12.1", "PI 12.2", "PI 12.3", "PI 12.4"],
+      "assessment_methods": ["Đánh giá thái độ", "Tự đánh giá", "Đánh giá đồng đẳng"],
+      "weight": 0.10
+    }
+  ],
+  "performance_indicators": [
+    {
+      "code": "PI 1.1",
+      "plo_code": "PLO1",
+      "title": "Hiểu kiến thức lý luận cơ bản",
+      "description": "Hiểu rõ các kiến thức cơ bản một cách hệ thống, xây dựng thế giới quan, nhân sinh quan, phương pháp luận khoa học và nền tảng cơ sở lý luận",
+      "bloom_level": 2,
+      "assessment_criteria": ["Trình bày được các nguyên lý cơ bản", "Giải thích được mối quan hệ giữa các khái niệm", "Vận dụng được vào thực tiễn"]
+    },
+    {
+      "code": "PI 1.2",
+      "plo_code": "PLO1", 
+      "title": "Hiểu chủ trương chính sách",
+      "description": "Hiểu rõ chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước",
+      "bloom_level": 2,
+      "assessment_criteria": ["Nắm được các chủ trương chính sách", "Hiểu được ý nghĩa và tác động", "Tuân thủ các quy định pháp luật"]
+    },
+    {
+      "code": "PI 2.1",
+      "plo_code": "PLO2",
+      "title": "Vận dụng kiến thức khoa học cơ bản",
+      "description": "Vận dụng các kiến thức cơ bản của khoa học tự nhiên, xã hội để hình thành tư duy khoa học",
+      "bloom_level": 3,
+      "assessment_criteria": ["Áp dụng được kiến thức toán học", "Sử dụng được kiến thức vật lý", "Tích hợp kiến thức đa ngành"]
+    },
+    {
+      "code": "PI 2.2",
+      "plo_code": "PLO2",
+      "title": "Vận dụng tin học và ngoại ngữ",
+      "description": "Vận dụng các kiến thức Tin học, Ngoại ngữ để hỗ trợ các hoạt động chuyên môn",
+      "bloom_level": 3,
+      "assessment_criteria": ["Sử dụng thành thạo tin học văn phòng", "Giao tiếp được bằng tiếng Anh", "Tra cứu tài liệu chuyên môn"]
+    },
+    {
+      "code": "PI 3.1",
+      "plo_code": "PLO3",
+      "title": "Hiểu kiến thức quốc phòng an ninh",
+      "description": "Hiểu rõ các kiến thức Quốc phòng toàn dân & An ninh nhân dân",
+      "bloom_level": 2,
+      "assessment_criteria": ["Nắm được kiến thức quốc phòng", "Hiểu được an ninh quốc gia", "Có ý thức bảo vệ Tổ quốc"]
+    },
+    {
+      "code": "PI 3.2",
+      "plo_code": "PLO3",
+      "title": "Hiểu kiến thức giáo dục thể chất",
+      "description": "Hiểu được các kiến thức giáo dục thể chất để rèn luyện sức khỏe thể chất và tinh thần",
+      "bloom_level": 2,
+      "assessment_criteria": ["Thực hiện được các bài tập thể dục", "Có thói quen rèn luyện sức khỏe", "Duy trì sức khỏe tốt"]
+    },
+    {
+      "code": "PI 4.1",
+      "plo_code": "PLO4",
+      "title": "Vận dụng kiến thức cơ sở kỹ thuật",
+      "description": "Vận dụng các kiến thức khoa học cơ bản để hình thành tư duy ngành nghề và áp dụng được các kiến thức cơ sở về sức bền, vật liệu, đo lường, để giải các bài toán kỹ thuật",
+      "bloom_level": 3,
+      "assessment_criteria": ["Giải được bài toán sức bền", "Tính toán được vật liệu", "Sử dụng được thiết bị đo lường"]
+    },
+    {
+      "code": "PI 4.2",
+      "plo_code": "PLO4",
+      "title": "Phân tích máy và thiết bị",
+      "description": "Phân tích được nguyên lý hoạt động của các máy, thiết bị phổ biến sử dụng động cơ đốt trong",
+      "bloom_level": 4,
+      "assessment_criteria": ["Giải thích được nguyên lý hoạt động", "Phân tích được cấu tạo", "Đánh giá được hiệu suất"]
+    },
+    {
+      "code": "PI 5.1",
+      "plo_code": "PLO5",
+      "title": "Phân tích cấu tạo ô tô",
+      "description": "Phân tích được cấu tạo, nguyên lý hoạt động của các cơ cấu, hệ thống trên xe ô tô truyền thống, xe điện và xe chuyên dùng",
+      "bloom_level": 4,
+      "assessment_criteria": ["Phân tích được hệ thống động lực", "Hiểu được hệ thống điều khiển", "Đánh giá được hiệu suất hệ thống"]
+    },
+    {
+      "code": "PI 5.2",
+      "plo_code": "PLO5",
+      "title": "Tính toán thiết kế",
+      "description": "Tính toán, thiết kế được các cơ cấu và hệ thống cơ bản trên ô tô",
+      "bloom_level": 5,
+      "assessment_criteria": ["Tính toán được thông số kỹ thuật", "Thiết kế được chi tiết máy", "Tối ưu được thông số"]
+    },
+    {
+      "code": "PI 6.1",
+      "plo_code": "PLO6",
+      "title": "Năng lực chuyên môn ô tô",
+      "description": "Năng lực chuyên môn để có thể tham gia thiết kế, chế tạo, vận hành, bảo trì, bảo dưỡng, sửa chữa ô tô truyền thống, xe ô tô điện và các chi tiết, phụ tùng của ô tô",
+      "bloom_level": 5,
+      "assessment_criteria": ["Thiết kế được hệ thống ô tô", "Vận hành được thiết bị", "Bảo trì được hệ thống"]
+    },
+    {
+      "code": "PI 6.2",
+      "plo_code": "PLO6",
+      "title": "Phân tích công nghệ mới",
+      "description": "Phân tích được hoạt động của các hệ thống công nghệ mới trên các xe ô tô",
+      "bloom_level": 4,
+      "assessment_criteria": ["Hiểu được công nghệ mới", "Đánh giá được ưu nhược điểm", "Đề xuất được cải tiến"]
+    },
+    {
+      "code": "PI 7.1",
+      "plo_code": "PLO7",
+      "title": "Truyền đạt vấn đề chuyên môn",
+      "description": "Truyền đạt được những vấn đề chuyên môn, giúp các bên liên quan đạt đến thống nhất",
+      "bloom_level": 3,
+      "assessment_criteria": ["Trình bày rõ ràng vấn đề", "Thuyết phục được đối tác", "Đạt được sự đồng thuận"]
+    },
+    {
+      "code": "PI 7.2",
+      "plo_code": "PLO7",
+      "title": "Xử lý tình huống giao tiếp",
+      "description": "Xử lý linh hoạt các tình huống phát sinh trong quá trình giao tiếp, làm việc",
+      "bloom_level": 4,
+      "assessment_criteria": ["Phản ứng nhanh với tình huống", "Giải quyết được xung đột", "Duy trì được mối quan hệ tốt"]
+    },
+    {
+      "code": "PI 8.1",
+      "plo_code": "PLO8",
+      "title": "Phân tích tình huống chuyên môn",
+      "description": "Phân tích tình huống, phát hiện và tổng hợp các vấn đề trong lĩnh vực chuyên môn",
+      "bloom_level": 4,
+      "assessment_criteria": ["Nhận diện được vấn đề", "Phân tích được nguyên nhân", "Tổng hợp được giải pháp"]
+    },
+    {
+      "code": "PI 8.2",
+      "plo_code": "PLO8",
+      "title": "Tư duy hệ thống",
+      "description": "Thể hiện tư duy hệ thống để giải quyết vấn đề trong lĩnh vực chuyên môn",
+      "bloom_level": 5,
+      "assessment_criteria": ["Nhìn nhận vấn đề toàn diện", "Xem xét mối quan hệ tương tác", "Đưa ra giải pháp tối ưu"]
+    },
+    {
+      "code": "PI 9.1",
+      "plo_code": "PLO9",
+      "title": "Sử dụng tin học ứng dụng",
+      "description": "Sử dụng được tin học văn phòng, các phần mềm ứng dụng trong quản lý, khai thác tốt thông tin từ Internet đáp ứng yêu cầu trong lĩnh vực chuyên môn",
+      "bloom_level": 3,
+      "assessment_criteria": ["Thành thạo phần mềm văn phòng", "Sử dụng được phần mềm chuyên dụng", "Khai thác hiệu quả thông tin"]
+    },
+    {
+      "code": "PI 9.2",
+      "plo_code": "PLO9",
+      "title": "Giao tiếp tiếng Anh chuyên môn",
+      "description": "Giao tiếp được bằng tiếng Anh trong lĩnh vực chuyên môn",
+      "bloom_level": 3,
+      "assessment_criteria": ["Đọc hiểu tài liệu tiếng Anh", "Giao tiếp được bằng tiếng Anh", "Viết được báo cáo tiếng Anh"]
+    },
+    {
+      "code": "PI 10.1",
+      "plo_code": "PLO10",
+      "title": "Kỹ năng bản vẽ và vận hành",
+      "description": "Đọc hiểu và xây dựng được bản vẽ kỹ thuật; Khai thác, vận hành, quản lý; Bảo trì, bảo dưỡng, sửa chữa",
+      "bloom_level": 4,
+      "assessment_criteria": ["Đọc hiểu được bản vẽ kỹ thuật", "Vẽ được bản vẽ chi tiết", "Vận hành được thiết bị"]
+    },
+    {
+      "code": "PI 10.2",
+      "plo_code": "PLO10",
+      "title": "Tư vấn chuyển giao công nghệ",
+      "description": "Tư vấn, chuyển giao công nghệ về lĩnh vực ngành công nghệ kỹ thuật ô tô",
+      "bloom_level": 5,
+      "assessment_criteria": ["Tư vấn được giải pháp kỹ thuật", "Chuyển giao được công nghệ", "Hỗ trợ được triển khai"]
+    },
+    {
+      "code": "PI 11.1",
+      "plo_code": "PLO11",
+      "title": "Tính toán và báo cáo",
+      "description": "Tính toán, lập báo cáo, thuyết trình, phản biện công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm",
+      "bloom_level": 4,
+      "assessment_criteria": ["Tính toán chính xác", "Lập báo cáo chi tiết", "Thuyết trình hiệu quả"]
+    },
+    {
+      "code": "PI 11.2",
+      "plo_code": "PLO11",
+      "title": "Tổ chức và điều phối",
+      "description": "Tổ chức công việc cá nhân; lập kế hoạch, điều phối công việc khi làm việc nhóm",
+      "bloom_level": 4,
+      "assessment_criteria": ["Lập kế hoạch hiệu quả", "Điều phối được nhóm", "Hoàn thành đúng tiến độ"]
+    },
+    {
+      "code": "PI 12.1",
+      "plo_code": "PLO12",
+      "title": "Tự học và nghiên cứu",
+      "description": "Lập và thực hiện kế hoạch tự học, tự nghiên cứu để nâng cao trình độ chuyên môn, nghiệp vụ",
+      "bloom_level": 5,
+      "assessment_criteria": ["Lập được kế hoạch tự học", "Thực hiện được nghiên cứu độc lập", "Cập nhật được kiến thức mới"]
+    },
+    {
+      "code": "PI 12.2",
+      "plo_code": "PLO12",
+      "title": "Phát triển nghề nghiệp",
+      "description": "Triển khai, định hướng, tìm kiếm được cơ hội phát triển nghề nghiệp, thích nghi nhanh với sự thay đổi của môi trường",
+      "bloom_level": 5,
+      "assessment_criteria": ["Định hướng được nghề nghiệp", "Thích nghi với thay đổi", "Tìm kiếm được cơ hội mới"]
+    },
+    {
+      "code": "PI 12.3",
+      "plo_code": "PLO12",
+      "title": "Đạo đức nghề nghiệp",
+      "description": "Có phẩm chất đạo đức nghề nghiệp, thái độ và tác phong làm việc chuyên nghiệp. Tuân thủ các quy định của pháp luật, chịu trách nhiệm cá nhân trong công việc và xã hội",
+      "bloom_level": 3,
+      "assessment_criteria": ["Có đạo đức nghề nghiệp", "Tuân thủ quy định pháp luật", "Chịu trách nhiệm cá nhân"]
+    },
+    {
+      "code": "PI 12.4",
+      "plo_code": "PLO12",
+      "title": "Thái độ học tập",
+      "description": "Có ý thức, thái độ cầu thị, nghiêm túc, thực hiện đúng các nội quy, quy chế. Từ đó, hình thành tác phong làm việc chuyên nghiệp",
+      "bloom_level": 3,
+      "assessment_criteria": ["Có thái độ học tập tích cực", "Tuân thủ nội quy quy chế", "Có tác phong chuyên nghiệp"]
+    }
+  ],
+  "bloom_taxonomy": {
+    "levels": [
+      {
+        "level": 1,
+        "name": "Remember",
+        "vietnamese": "Nhớ",
+        "description": "Ghi nhớ và tái hiện thông tin",
+        "keywords": ["nhớ", "ghi nhớ", "liệt kê", "xác định", "định nghĩa", "mô tả"]
+      },
+      {
+        "level": 2,
+        "name": "Understand", 
+        "vietnamese": "Hiểu",
+        "description": "Hiểu ý nghĩa và giải thích thông tin",
+        "keywords": ["hiểu", "giải thích", "tóm tắt", "phân loại", "so sánh", "minh họa"]
+      },
+      {
+        "level": 3,
+        "name": "Apply",
+        "vietnamese": "Áp dụng", 
+        "description": "Sử dụng thông tin trong tình huống mới",
+        "keywords": ["áp dụng", "sử dụng", "thực hiện", "giải quyết", "vận dụng", "thực hành"]
+      },
+      {
+        "level": 4,
+        "name": "Analyze",
+        "vietnamese": "Phân tích",
+        "description": "Phân tích thành các phần và hiểu mối quan hệ",
+        "keywords": ["phân tích", "so sánh", "phân biệt", "tổ chức", "cấu trúc", "phân loại"]
+      },
+      {
+        "level": 5,
+        "name": "Evaluate",
+        "vietnamese": "Đánh giá",
+        "description": "Đưa ra phán đoán dựa trên tiêu chí",
+        "keywords": ["đánh giá", "phê bình", "kiểm tra", "thử nghiệm", "giám sát", "phán đoán"]
+      },
+      {
+        "level": 6,
+        "name": "Create",
+        "vietnamese": "Sáng tạo",
+        "description": "Tạo ra sản phẩm mới từ các yếu tố",
+        "keywords": ["tạo ra", "thiết kế", "xây dựng", "phát triển", "sáng tạo", "tổng hợp"]
+      }
+    ]
+  },
+  "assessment_rubrics": {
+    "general_rubric": {
+      "excellent": {
+        "score_range": [3.5, 4.0],
+        "description": "Đạt xuất sắc, vượt mong đợi",
+        "criteria": "Thể hiện hiểu biết sâu sắc, áp dụng linh hoạt, có sáng tạo"
+      },
+      "good": {
+        "score_range": [2.5, 3.4],
+        "description": "Đạt tốt, đáp ứng mong đợi",
+        "criteria": "Thể hiện hiểu biết tốt, áp dụng đúng, có một số sáng tạo"
+      },
+      "satisfactory": {
+        "score_range": [2.0, 2.4],
+        "description": "Đạt khá, đáp ứng cơ bản",
+        "criteria": "Thể hiện hiểu biết cơ bản, áp dụng đúng trong tình huống quen thuộc"
+      },
+      "needs_improvement": {
+        "score_range": [1.0, 1.9],
+        "description": "Cần cải thiện",
+        "criteria": "Thể hiện hiểu biết hạn chế, áp dụng chưa chính xác"
+      },
+      "unsatisfactory": {
+        "score_range": [0.0, 0.9],
+        "description": "Không đạt",
+        "criteria": "Không thể hiện được hiểu biết hoặc áp dụng sai"
+      }
+    }
+  }
+}
+
