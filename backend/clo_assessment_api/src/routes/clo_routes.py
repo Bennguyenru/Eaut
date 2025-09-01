@@ -5,7 +5,7 @@ import io
 
 clo_bp = Blueprint('clo', __name__)
 
-@clo_bp.route('/clo', methods=['GET'])
+@clo_bp.route('/clos', methods=['GET'])
 def get_all_clos():
     """Get all CLOs with optional filtering"""
     try:
@@ -48,7 +48,7 @@ def get_all_clos():
             'error': str(e)
         }), 500
 
-@clo_bp.route('/clo/<int:clo_id>', methods=['GET'])
+@clo_bp.route('/clos/<int:clo_id>', methods=['GET'])
 def get_clo(clo_id):
     """Get specific CLO by ID"""
     try:
@@ -76,7 +76,7 @@ def get_clo(clo_id):
             'error': str(e)
         }), 404
 
-@clo_bp.route('/clo', methods=['POST'])
+@clo_bp.route('/clos', methods=['POST'])
 def create_clo():
     """Create new CLO"""
     try:
@@ -135,7 +135,7 @@ def create_clo():
             'error': str(e)
         }), 500
 
-@clo_bp.route('/clo/<int:clo_id>', methods=['PUT'])
+@clo_bp.route('/clos/<int:clo_id>', methods=['PUT'])
 def update_clo(clo_id):
     """Update existing CLO"""
     try:
@@ -200,7 +200,7 @@ def update_clo(clo_id):
             'error': str(e)
         }), 500
 
-@clo_bp.route('/clo/<int:clo_id>', methods=['DELETE'])
+@clo_bp.route('/clos/<int:clo_id>', methods=['DELETE'])
 def delete_clo(clo_id):
     """Delete CLO and all related data"""
     try:
@@ -227,7 +227,7 @@ def delete_clo(clo_id):
             'error': str(e)
         }), 500
 
-@clo_bp.route('/clo/import', methods=['POST'])
+@clo_bp.route('/clos/import', methods=['POST'])
 def import_clos_from_csv():
     """Import CLOs from CSV file"""
     try:
@@ -294,7 +294,7 @@ def import_clos_from_csv():
             'error': str(e)
         }), 500
 
-@clo_bp.route('/clo/courses', methods=['GET'])
+@clo_bp.route('/clos/courses', methods=['GET'])
 def get_courses():
     """Get list of unique courses"""
     try:

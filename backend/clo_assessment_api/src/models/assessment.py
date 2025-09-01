@@ -1,8 +1,6 @@
-from flask_sqlalchemy import SQLAlchemy
+from src.models.user import db
 from datetime import datetime
 import json
-
-db = SQLAlchemy()
 
 class Document(db.Model):
     __tablename__ = 'documents'
