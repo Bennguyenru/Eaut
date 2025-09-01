@@ -6,7 +6,7 @@ import io
 
 plo_bp = Blueprint('plo', __name__)
 
-@plo_bp.route('/plo', methods=['GET'])
+@plo_bp.route('/plos', methods=['GET'])
 def get_all_plos():
     """Get all PLOs"""
     try:
@@ -22,7 +22,7 @@ def get_all_plos():
             'error': str(e)
         }), 500
 
-@plo_bp.route('/plo/<int:plo_id>', methods=['GET'])
+@plo_bp.route('/plos/<int:plo_id>', methods=['GET'])
 def get_plo(plo_id):
     """Get specific PLO by ID"""
     try:
@@ -37,7 +37,7 @@ def get_plo(plo_id):
             'error': str(e)
         }), 404
 
-@plo_bp.route('/plo', methods=['POST'])
+@plo_bp.route('/plos', methods=['POST'])
 def create_plo():
     """Create new PLO"""
     try:
@@ -77,7 +77,7 @@ def create_plo():
             'error': str(e)
         }), 500
 
-@plo_bp.route('/plo/<int:plo_id>', methods=['PUT'])
+@plo_bp.route('/plos/<int:plo_id>', methods=['PUT'])
 def update_plo(plo_id):
     """Update existing PLO"""
     try:
@@ -109,7 +109,7 @@ def update_plo(plo_id):
             'error': str(e)
         }), 500
 
-@plo_bp.route('/plo/<int:plo_id>', methods=['DELETE'])
+@plo_bp.route('/plos/<int:plo_id>', methods=['DELETE'])
 def delete_plo(plo_id):
     """Delete PLO"""
     try:
@@ -138,7 +138,7 @@ def delete_plo(plo_id):
             'error': str(e)
         }), 500
 
-@plo_bp.route('/plo/import', methods=['POST'])
+@plo_bp.route('/plos/import', methods=['POST'])
 def import_plos_from_csv():
     """Import PLOs from CSV file"""
     try:
@@ -214,7 +214,7 @@ def import_plos_from_csv():
             'error': str(e)
         }), 500
 
-@plo_bp.route('/plo/export', methods=['GET'])
+@plo_bp.route('/plos/export', methods=['GET'])
 def export_plos_to_csv():
     """Export all PLOs to CSV"""
     try:
@@ -251,7 +251,7 @@ def export_plos_to_csv():
             'error': str(e)
         }), 500
 
-@plo_bp.route('/plo/<int:plo_id>/clo-mappings', methods=['GET'])
+@plo_bp.route('/plos/<int:plo_id>/clo-mappings', methods=['GET'])
 def get_plo_clo_mappings(plo_id):
     """Get all CLO mappings for a specific PLO"""
     try:

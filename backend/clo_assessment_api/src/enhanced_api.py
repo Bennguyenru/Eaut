@@ -16,7 +16,9 @@ from typing import Dict, List, Any, Optional
 
 # Import our trained models
 import sys
-sys.path.append('/home/ubuntu/clo_plo_assessment_platform/src/backend/clo_assessment_api/src')
+# Add current directory to path for importing local modules
+current_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(current_dir)
 from simple_model_trainer import SimpleInference
 
 # Setup logging

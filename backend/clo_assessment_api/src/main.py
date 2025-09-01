@@ -35,16 +35,34 @@ db.init_app(app)
 with app.app_context():
     db.create_all()
 
-@app.route('/', defaults={'path': ''})
-@app.route('/<path:path>')
-def serve(path):
+@app.route('/')
+def serve_root():
+    """Serve the root path"""
     static_folder_path = app.static_folder
     if static_folder_path is None:
-            return "Static folder not configured", 404
+        return "Static folder not configured", 404
+    
+    index_path = os.path.join(static_folder_path, 'index.html')
+    if os.path.exists(index_path):
+        return send_from_directory(static_folder_path, 'index.html')
+    else:
+        return "index.html not found", 404
+
+@app.route('/<path:path>')
+def serve_static(path):
+    """Serve static files, but exclude API routes"""
+    # Don't handle API routes here
+    if path.startswith('api/'):
+        return "API route not found", 404
+        
+    static_folder_path = app.static_folder
+    if static_folder_path is None:
+        return "Static folder not configured", 404
 
     if path != "" and os.path.exists(os.path.join(static_folder_path, path)):
         return send_from_directory(static_folder_path, path)
     else:
+        # For non-API routes that don't exist as files, serve index.html (SPA routing)
         index_path = os.path.join(static_folder_path, 'index.html')
         if os.path.exists(index_path):
             return send_from_directory(static_folder_path, 'index.html')

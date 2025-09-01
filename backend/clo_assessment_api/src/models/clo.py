@@ -1,7 +1,5 @@
-from flask_sqlalchemy import SQLAlchemy
+from src.models.user import db
 from datetime import datetime
-
-db = SQLAlchemy()
 
 class CLO(db.Model):
     __tablename__ = 'clo'
